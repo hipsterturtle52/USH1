@@ -1,0 +1,50 @@
+{
+  "exam": "CLEP History of the United States I: Early Colonization to 1877",
+  "retrieved": "2026-10-15",
+  "sources": [
+    {"label": "College Board exam page (official)", "url": "https://clep.collegeboard.org/exam/history-us-i"},
+    {"label": "College Board exam page (alternate URL)", "url": "https://clep.collegeboard.org/clep-exams/history-of-the-us-1"},
+    {"label": "College Board fact sheet (PDF)", "url": "https://secure-media.collegeboard.org/digitalServices/pdf/clep/history_united_states_I_fact_sheet.pdf"}
+  ],
+  "verification_note": "The build environment's network policy blocked direct access to collegeboard.org. Figures below were confirmed from search-engine indexed text of the official page (two independent searches agreed) and cross-checked against a university testing page (Ferris State). Status per field is given in 'status'. Re-check the official page before booking.",
+  "format": {
+    "questions": {"value": 120, "qualifier": "approximately; includes some unscored pretest questions", "status": "verified-via-search"},
+    "time_minutes": {"value": 90, "status": "verified-via-search"},
+    "question_type": {"value": "multiple choice, 5 options", "status": "unverified"},
+    "guessing_penalty": {"value": "none", "status": "verified-via-search"},
+    "credit_granting_score": {"value": 50, "scale": "20-80", "credits": "3 semester hours (ACE recommendation)", "status": "verified-via-search"}
+  },
+  "topical": [
+    {"id": "P", "name": "Political institutions, political developments, and public policy", "weight": 25, "status": "verified-via-search"},
+    {"id": "S", "name": "Social developments", "weight": 25, "status": "verified-via-search"},
+    {"id": "E", "name": "Economic developments", "weight": 15, "status": "verified-via-search"},
+    {"id": "C", "name": "Cultural and intellectual developments", "weight": 20, "status": "verified-via-search"},
+    {"id": "D", "name": "Diplomacy and transnational interactions", "weight": 15, "status": "verified-via-search"}
+  ],
+  "chronological": [
+    {"period": "1500-1789", "weight": 30, "status": "verified-via-search"},
+    {"period": "1790-1877", "weight": 70, "status": "verified-via-search"}
+  ],
+  "skills": [
+    "Identify and describe historical phenomena",
+    "Analyze and interpret historical phenomena",
+    "Compare and contrast historical phenomena"
+  ],
+  "skills_weights_status": "College Board lists the three skills but publishes no percentage split.",
+  "superseded_outline_note": "Older College Board guides (e.g., 2015-16) listed Political 35 / Social 25 / Economic 10 / Cultural 15 / Diplomacy 15. This guide uses the current weights above.",
+  "unit_plan": [
+    {"unit": 1,  "title": "Native Peoples & European Exploration", "years": "to 1607",     "weight": 5,  "period": "1500-1789"},
+    {"unit": 2,  "title": "Founding the Colonies",                 "years": "1607-1700",   "weight": 6,  "period": "1500-1789"},
+    {"unit": 3,  "title": "Colonial Society, Economy & Empire",    "years": "1680-1763",   "weight": 7,  "period": "1500-1789"},
+    {"unit": 4,  "title": "Road to Revolution & Independence",     "years": "1763-1783",   "weight": 7,  "period": "1500-1789"},
+    {"unit": 5,  "title": "Confederation & Constitution",          "years": "1781-1789",   "weight": 5,  "period": "1500-1789"},
+    {"unit": 6,  "title": "The New Republic",                      "years": "1789-1815",   "weight": 11, "period": "1790-1877"},
+    {"unit": 7,  "title": "Nationalism & the Market Revolution",   "years": "1815-1828",   "weight": 8,  "period": "1790-1877"},
+    {"unit": 8,  "title": "Jacksonian Democracy",                  "years": "1828-1848",   "weight": 8,  "period": "1790-1877"},
+    {"unit": 9,  "title": "Antebellum Society, Reform & Slavery",  "years": "1820-1860",   "weight": 10, "period": "1790-1877"},
+    {"unit": 10, "title": "Manifest Destiny & Sectional Crisis",   "years": "1840-1861",   "weight": 12, "period": "1790-1877"},
+    {"unit": 11, "title": "The Civil War",                         "years": "1861-1865",   "weight": 11, "period": "1790-1877"},
+    {"unit": 12, "title": "Reconstruction",                        "years": "1865-1877",   "weight": 10, "period": "1790-1877"}
+  ],
+  "budget_rule": "Units 1-5 sum to 30% (1500-1789); units 6-12 sum to 70% (1790-1877). Questions per unit = weight x (quiz + diagnostic + 2 x 120-question exams). Every question also carries a topical tag (P/S/E/C/D) and the bank is balanced to 25/25/15/20/15."
+}
