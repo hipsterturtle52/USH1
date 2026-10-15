@@ -1,0 +1,99 @@
+Q E1 Which of the following crops was carried from the Americas to Europe as part of the Columbian Exchange?
++ Potatoes || Potatoes, maize, and tomatoes were American crops that spread to Europe, Africa, and Asia.
+- Wheat || Wheat went from Europe to the Americas.
+- Sugarcane || Sugarcane was brought to the Americas from the Old World.
+- Rice || Rice came to the Americas from Africa and Asia.
+- Coffee || Coffee originated in Africa and was later planted in the Americas.
+
+Q S1 The Iroquois Confederacy is best described as
++ an alliance of Northeastern Native nations united under the Great Law of Peace || The Mohawk, Oneida, Onondaga, Cayuga, and Seneca formed the league.
+- a Spanish colonial government in New Mexico || That was the Spanish colony of Nuevo México.
+- a group of Aztec city-states in central Mexico || The Aztecs ruled from Tenochtitlán; the Iroquois were in the Northeast.
+- a French trading company in Quebec || The Iroquois were Native nations, often enemies of the French and their Huron allies.
+- a confederacy of Pacific Northwest fishing villages || The Iroquois lived in present-day New York.
+
+Q D1 Christopher Columbus's first voyage in 1492 was sponsored by
++ the Spanish monarchs Ferdinand and Isabella || Spain backed Columbus as it completed the Reconquista.
+- King Henry VIII of England || Henry VIII ruled England from 1509 and sponsored no such voyage.
+- Prince Henry the Navigator of Portugal || Prince Henry died in 1460 and sponsored voyages along Africa.
+- the Dutch West India Company || That company was founded in 1621.
+- the Pope in Rome || The papacy later endorsed Spanish and Portuguese claims but did not sponsor Columbus.
+
+Q C1 European motives for exploration in the fifteenth and sixteenth centuries are often summarized as
++ "God, gold, and glory" || Religion, wealth, and prestige drove European expansion.
+- "Liberty, equality, fraternity" || That was the slogan of the French Revolution (1789).
+- "Life, liberty, and property" || That phrase is associated with John Locke's natural rights.
+- "Free soil, free labor, free men" || That was a Free Soil and Republican slogan of the 1840s–1850s.
+- "No taxation without representation" || That was a colonial protest slogan of the 1760s.
+
+Q S1 Which disease caused the most devastating epidemics among Native Americans after contact with Europeans?
++ Smallpox || Native peoples had no immunity to smallpox, which killed huge numbers.
+- Malaria || Malaria affected colonists in the Chesapeake but was not the main killer of Native peoples after contact.
+- Polio || Polio was not a major factor in contact-era epidemics.
+- Tuberculosis || Tuberculosis was present but was not the leading cause of the population collapse.
+- Yellow fever || Yellow fever struck later, mostly in tropical port cities.
+
+Q E2 Spain became the richest power in sixteenth-century Europe largely because of
++ silver from mines in the Americas such as Potosí || American silver flowed into Spain's treasury for over a century.
+- profits from the North American fur trade || The fur trade was central to New France, not Spain.
+- tobacco exports from Virginia || Virginia was an English colony that did not grow tobacco for export until the 1610s.
+- control of the spice trade through the Cape of Good Hope || Portugal dominated that route.
+- taxes collected from English colonies || Spain did not tax English colonies.
+
+Q D2 Which of the following best explains why French colonists generally had less conflict with Native peoples than English colonists did?
++ The French fur trade depended on Native partners rather than on taking large amounts of land for farms || New France had few settlers and relied on alliances with peoples like the Huron.
+- The French refused to trade with Native peoples || Trade was the foundation of New France.
+- France had signed the Treaty of Tordesillas with Native nations || The treaty was between Spain and Portugal.
+- French colonists outnumbered Native peoples in Canada || New France remained thinly populated.
+- France banned Christian missionaries from its colonies || Jesuit missionaries were active throughout New France.
+
+Q P2 St. Augustine, founded in 1565, is significant as
++ the oldest continuously occupied European-founded city in the present-day United States || Spain founded it in Florida decades before Jamestown.
+- the capital of New Netherland || New Netherland's capital was New Amsterdam.
+- the first English colony in North America || England's first attempt was Roanoke (1585).
+- the site of the Pueblo Revolt || The Pueblo Revolt occurred in New Mexico in 1680.
+- a French Jesuit mission in Canada || St. Augustine is a Spanish city in Florida.
+
+Q S2 Spanish colonial society in the Americas was characterized by
++ a rigid social hierarchy with Spanish-born peninsulares at the top || Creoles, mestizos, Native people, and enslaved Africans ranked below them.
+- equality among all colonists regardless of birthplace || Birthplace and ancestry determined status.
+- the absence of any intermarriage between Spaniards and Native people || Intermarriage was common, producing a large mestizo population.
+- elected colonial assemblies modeled on Parliament || Spanish colonies were ruled by royal officials.
+- a reliance on fur trading rather than mining and agriculture || Spanish wealth came from mining and agriculture.
+
+Q C2 The printing press, the compass, and the caravel all contributed to European exploration by
++ making long-distance navigation possible and spreading knowledge of new lands || These tools of the Renaissance era enabled and encouraged voyages.
+- ending the Protestant Reformation || These technologies are unrelated to ending the Reformation, which continued.
+- allowing Europeans to reach Asia overland more quickly || The caravel and compass were for sea travel.
+- preventing the spread of disease to the Americas || They did nothing to stop disease.
+- making the encomienda system unnecessary || Encomienda was a labor system unrelated to these tools.
+
+Q D2 The defeat of the Spanish Armada in 1588 contributed to English colonization because it
++ weakened Spain's naval power and gave England more freedom to plant colonies || England could now challenge Spain in the Atlantic.
+- gave England control of Mexico || England never controlled Mexico.
+- ended the Protestant Reformation in England || England remained Protestant.
+- forced Spain to give Florida to England || Spain kept Florida until 1763.
+- immediately led to the founding of Plymouth || Plymouth was founded in 1620, over thirty years later.
+
+Q E3 Which of the following best explains why joint-stock companies were important to early English colonization?
++ They allowed many investors to pool money and share the risks of costly ventures || The Virginia Company used this model to fund Jamestown.
+- They were controlled directly by the Spanish crown || They were English private companies.
+- They guaranteed colonists free land in exchange for military service || That was not their function; the headright system later offered land.
+- They prohibited colonists from trading with England || They were created to profit from trade with England.
+- They were religious organizations that banned profit-seeking || Joint-stock companies existed to make profits.
+
+Q C3 Bartolomé de Las Casas's writings about the Spanish conquest are most useful to historians as evidence of
++ debates within Spain over the treatment of Native peoples || Las Casas criticized the cruelty of conquest and encomienda from within the Spanish Church.
+- the founding of the Iroquois Confederacy || Las Casas wrote about Spanish America, not the Iroquois.
+- English plans to colonize Roanoke || Las Casas was Spanish; Roanoke was an English project.
+- the economic success of the French fur trade || He did not write about New France.
+- Native support for the encomienda system || He documented Native suffering under encomienda.
+
+Q S3 Historians argue that the Pueblo Revolt (1680) shows that Native peoples
++ could unite across communities to resist European religious and labor demands || Popé united Pueblo villages to expel the Spanish for about twelve years.
+- welcomed Spanish missions without resistance || The revolt targeted missions and priests.
+- were allied with the English against Spain in New Mexico || There were no English in New Mexico.
+- quickly abandoned their traditional religion || Suppression of Pueblo religion was a major cause of the revolt.
+- had no organized political leadership || Popé organized a coordinated revolt across many villages.
+
+@end

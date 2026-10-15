@@ -1,0 +1,92 @@
+Q P1 Under the Articles of Confederation, each state had
++ one vote in Congress regardless of its population || Small and large states had equal power.
+- representation in Congress based on population || That was the Virginia Plan's proposal.
+- two senators and a number of representatives based on population || That is the system created by the Constitution.
+- a veto over decisions of the president || There was no president under the Articles.
+- no representation in the national government || Each state sent a delegation to Congress.
+
+Q P1 Who is often called the "Father of the Constitution"?
++ James Madison || Madison drafted the Virginia Plan and kept detailed notes of the Convention.
+- George Washington || Washington presided over the Convention but did not draft its plan.
+- Thomas Jefferson || Jefferson was in France as US minister during the Convention.
+- Patrick Henry || Henry opposed the Constitution as an Anti-Federalist.
+- John Adams || Adams was in Britain as US minister in 1787.
+
+Q E1 The Land Ordinance of 1785 provided for
++ surveying western lands into townships and reserving land to support public schools || Each 36-section township set aside one section for schools.
+- the immediate admission of Ohio as a state || Ohio became a state in 1803.
+- the purchase of Louisiana from France || That occurred in 1803.
+- free land for all Revolutionary War veterans in Kentucky || The ordinance governed the Northwest Territory.
+- the creation of a national bank to sell land || There was no national bank under the Articles.
+
+Q S1 The farmers who took part in Shays' Rebellion were protesting
++ high taxes, debts, and the foreclosure of their farms || They closed courts to stop foreclosures in western Massachusetts.
+- the British closing of Boston Harbor || That was a Coercive Act of 1774.
+- the abolition of slavery in Massachusetts || Shays' Rebellion concerned debt and taxes.
+- the ratification of the Bill of Rights || The rebellion occurred before the Constitution existed.
+- the federal whiskey tax || That caused the Whiskey Rebellion of 1794.
+
+Q C1 The Federalist Papers were written to
++ persuade New Yorkers and others to ratify the Constitution || Hamilton, Madison, and Jay published 85 essays.
+- oppose the Constitution's lack of a bill of rights || That was the Anti-Federalist argument.
+- justify the Declaration of Independence || The Declaration was written in 1776.
+- criticize the Federalist Party of the 1790s || The essays predate the party.
+- propose the Articles of Confederation || The essays argued for replacing the Articles.
+
+Q D1 Which of the following was a foreign policy problem under the Articles of Confederation?
++ Britain refused to evacuate its forts in the Northwest || Congress lacked the power to force British compliance.
+- France threatened to invade New York || France was an ally.
+- Mexico claimed the Ohio River Valley || Mexico did not yet exist as an independent nation.
+- Russia controlled the Mississippi River || Spain controlled the lower Mississippi.
+- Canada joined the United States || Canada remained British.
+
+Q P2 Which of the following best describes the principle of federalism in the Constitution?
++ Power is divided between the national government and the state governments || The supremacy clause makes federal law supreme when they conflict.
+- Power is divided among the legislative, executive, and judicial branches || That is separation of powers.
+- Each branch can limit the power of the others || That is checks and balances.
+- Power comes from the people || That is popular sovereignty.
+- The Supreme Court can strike down laws || That is judicial review, established in 1803.
+
+Q S2 The Constitutional Convention dealt with the international slave trade by
++ forbidding Congress from banning it before 1808 || Congress banned the trade as soon as the date arrived.
+- banning it immediately in 1787 || The Constitution delayed any ban for twenty years.
+- allowing it to continue permanently || Congress could ban it after 1808.
+- leaving the decision to the president || Congress, not the president, had the power after 1808.
+- giving each state a vote on it every ten years || There was no such provision.
+
+Q E2 The national government's inability to regulate commerce under the Articles led to
++ trade disputes among states that imposed tariffs on one another's goods || The Annapolis Convention was called to address trade problems.
+- a surplus in the national treasury || Congress was chronically short of money.
+- the creation of a national bank in 1785 || The first national bank was chartered in 1791.
+- the adoption of free trade with Britain || Britain restricted American trade with its West Indies.
+- the immediate end of the Revolutionary War debt || The debt remained unpaid.
+
+Q C2 Anti-Federalists argued that the proposed Constitution
++ gave too much power to the national government and lacked protections for individual liberties || Patrick Henry and George Mason led the opposition.
+- created a government that was too weak to tax || The Constitution gave Congress the power to tax; that criticism applied to the Articles.
+- should be adopted without any amendments || Anti-Federalists demanded a bill of rights.
+- would weaken the presidency too much || They feared the president could become a king.
+- would restore the monarchy of George III || They feared tyranny but not a literal return of George III.
+
+Q D2 Spain's closing of the lower Mississippi River to American trade in the 1780s especially angered
++ western farmers who shipped crops downriver to New Orleans || The issue was resolved by Pinckney's Treaty (1795).
+- New England fishermen || Their concern was Atlantic fishing rights.
+- Virginia tobacco planters who exported through Norfolk || They used Atlantic ports.
+- British merchants in Canada || The Mississippi closure affected Americans.
+- Native nations in New England || The issue concerned western American settlers.
+
+Q P3 Which of the following was a weakness of the Articles of Confederation that the Constitution corrected?
++ The lack of an executive branch to enforce national laws || The Constitution created the presidency.
+- The absence of state governments || States existed under both systems.
+- A national legislature with too many houses || The Articles had a one-house Congress; the Constitution created two houses.
+- A Supreme Court that overruled state courts too often || There was no national court under the Articles.
+- Excessively high national taxes || Congress could not tax at all under the Articles.
+
+Q S3 Historians often see Shays' Rebellion as a turning point because it
++ convinced influential leaders that the government needed to be strengthened to protect order and property || It added urgency to calls for the Philadelphia Convention.
+- proved that the Articles could successfully put down rebellions || The national government could not respond; a state militia did.
+- led directly to the abolition of debt imprisonment nationwide || That was not an outcome.
+- caused Britain to declare war on the United States again || Britain did not intervene.
+- encouraged Anti-Federalists to support a stronger central government || Anti-Federalists remained wary of central power.
+
+@end

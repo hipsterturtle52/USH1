@@ -1,0 +1,132 @@
+Q E1 The Navigation Acts required that certain colonial products, such as tobacco, be shipped
++ only to England || These "enumerated goods" could not be sold directly to other nations.
+- only to France || France was Britain's rival; trade there was restricted.
+- only to other colonies || Enumerated goods went to England.
+- duty-free to any nation || The Acts restricted, rather than freed, trade.
+- only on Dutch ships || The Acts aimed to exclude Dutch shippers.
+
+Q S1 The term "Middle Passage" refers to
++ the voyage of enslaved Africans across the Atlantic to the Americas || It was the deadliest leg of the Atlantic slave trade.
+- the route of colonists traveling from England to Virginia || That voyage has no special name in this sense.
+- the path between the Appalachian Mountains and the Mississippi River || That is not what the term means.
+- the Underground Railroad's route through Pennsylvania || That came in the 1800s.
+- the trade route connecting New England and Canada || The term refers to the slave trade.
+
+Q C1 Which colonial figure best represents the Enlightenment in America?
++ Benjamin Franklin || Printer, scientist, inventor, and author of Poor Richard's Almanack.
+- Jonathan Edwards || Edwards was a revivalist of the Great Awakening.
+- George Whitefield || Whitefield was an evangelical preacher.
+- Anne Hutchinson || Hutchinson was a seventeenth-century religious dissenter.
+- James Oglethorpe || Oglethorpe founded Georgia.
+
+Q D1 The French and Indian War began primarily as a conflict over control of the
++ Ohio River Valley || Both Britain and France claimed the region.
+- Mississippi River delta || New Orleans was not the war's starting point.
+- Florida peninsula || Florida was Spanish until 1763.
+- New England fishing grounds || The war began in the Ohio Valley.
+- island of Cuba || Cuba was a Spanish colony.
+
+Q P1 James Oglethorpe founded Georgia in 1732 partly to
++ create a buffer between the Carolinas and Spanish Florida || It also offered a new start for poor English settlers.
+- provide a refuge for English Catholics || That was Maryland.
+- enforce the Navigation Acts in New England || Georgia was in the South.
+- serve as a base for the French fur trade || Georgia was a British colony.
+- establish the first colonial college || Harvard (1636) was much earlier.
+
+Q S1 By the mid-1700s, slavery in the British North American colonies was
++ legal in every colony, though concentrated in the South || Even northern colonies had enslaved people, especially in cities.
+- found only in South Carolina || Slavery existed in all thirteen colonies.
+- illegal in all colonies north of Maryland || Northern colonies did not begin abolishing slavery until the Revolutionary era.
+- banned by the Navigation Acts || The Navigation Acts regulated trade, not slavery.
+- declining rapidly because of the Great Awakening || Slavery grew during the 1700s.
+
+Q E2 The "triangular trade" connected
++ New England, West Africa, and the West Indies || For example, rum, enslaved Africans, and sugar and molasses moved among these regions.
+- Spain, Portugal, and Brazil || That describes Iberian trade, not the British colonial pattern.
+- Virginia, Maryland, and North Carolina || That is a single region, not an Atlantic trade network.
+- China, India, and Britain || That describes Asian trade routes.
+- Canada, Louisiana, and France || That was part of the French empire.
+
+Q C2 "Sinners in the Hands of an Angry God" (1741) is an example of
++ Great Awakening preaching that emphasized emotion and the need for personal conversion || Jonathan Edwards warned listeners of God's wrath.
+- Enlightenment writing that stressed reason and science || The sermon emphasized faith and fear of damnation.
+- Puritan political theory justifying the Mayflower Compact || The Compact dates to 1620.
+- deist arguments against organized religion || Edwards was a Calvinist minister.
+- antislavery literature of the 1830s || The sermon was given in 1741 and is not about slavery.
+
+Q E1 Colonial merchants often responded to the Molasses Act of 1733 by
++ smuggling molasses from the French West Indies to avoid the duty || The tax was rarely enforced during salutary neglect.
+- boycotting all British goods || Organized boycotts came in the 1760s.
+- petitioning Parliament for independence || Independence was not considered at this time.
+- switching to tobacco production || New England merchants needed molasses for rum.
+- sending all molasses to Spain || The act concerned imports of foreign molasses.
+
+Q P2 During the period of salutary neglect, colonial assemblies gained power primarily by
++ controlling taxes and the salaries of royal governors || The "power of the purse" gave assemblies leverage.
+- electing royal governors directly || Most royal governors were appointed in London.
+- abolishing the Navigation Acts || Assemblies could not repeal acts of Parliament.
+- forming the Continental Congress || That came in 1774.
+- appointing members of Parliament || Colonists had no members of Parliament.
+
+Q S2 In South Carolina, the Stono Rebellion (1739) involved enslaved people who
++ attempted to flee to Spanish Florida, which promised freedom || The rebels were stopped and the colony tightened its slave code.
+- joined the British army in exchange for freedom || That offer came in Dunmore's Proclamation (1775).
+- sought to join the French in the Ohio Valley || The rebels headed south toward Florida.
+- were freed by a Quaker court || The revolt was crushed.
+- were led by Nat Turner || Nat Turner's Rebellion was in Virginia in 1831.
+
+Q D2 The Albany Plan of Union (1754) failed primarily because
++ colonial assemblies were unwilling to give up control over taxation || Each colony guarded its own power of the purse.
+- Benjamin Franklin opposed it || Franklin proposed it.
+- France had already won the war || The war was just beginning, and Britain won.
+- it called for immediate independence from Britain || It sought cooperation for defense within the empire.
+- the Iroquois refused to attend the Albany meeting || Iroquois leaders did attend.
+
+Q C2 A key difference between the Great Awakening and the Enlightenment was that the Great Awakening
++ emphasized emotion and personal faith, while the Enlightenment emphasized reason and science || Both encouraged questioning of traditional authority.
+- supported British taxation, while the Enlightenment opposed it || Neither movement centered on taxation in this period.
+- began in the 1800s, while the Enlightenment began in the 1600s || The Great Awakening occurred in the 1730s–1740s.
+- was limited to the southern colonies || The Awakening spread through all the colonies.
+- rejected Christianity, while the Enlightenment strengthened it || The Awakening was a Christian revival.
+
+Q S2 The Scots-Irish immigrants of the 1700s mostly settled
++ on the western frontier, where they often clashed with Native peoples || Many moved into the Pennsylvania and southern backcountry.
+- in Boston and other New England port cities || Most headed to the frontier.
+- on large South Carolina rice plantations as owners || Most were poor farmers.
+- in French Canada || They settled in British colonies.
+- in Spanish Florida || They settled in British colonies.
+
+Q E2 Under mercantilism, Britain discouraged colonial manufacturing because
++ colonies were supposed to supply raw materials and buy British manufactured goods || Colonial industry would compete with British producers.
+- colonial factories polluted British rivers || That was not a concern of the time.
+- colonists refused to work in factories || The policy came from economic theory, not colonial preference.
+- the Great Awakening condemned industry || Religious revivals did not address manufacturing.
+- France required it under the Treaty of Paris || Mercantilist policy was British.
+
+Q D2 As a result of the Treaty of Paris (1763), Spain
++ gained Louisiana from France but lost Florida to Britain || France compensated its ally Spain with Louisiana.
+- gained Canada from France || Canada went to Britain.
+- lost all of its colonies in South America || Spain kept its South American colonies.
+- gained the Ohio River Valley || Britain gained the land east of the Mississippi.
+- gave New Orleans to Britain || Spain received New Orleans as part of Louisiana.
+
+Q P3 A historian studying the Zenger trial (1735) would most likely use it as evidence of
++ the growth of colonial ideas about freedom of the press and resistance to royal officials || The jury acquitted Zenger because his criticisms of the governor were true.
+- the beginning of the Great Awakening || The trial concerned libel and the press.
+- British enforcement of the Navigation Acts || The trial was not about trade.
+- the strength of the Albany Plan || The Albany Plan came in 1754.
+- colonial support for virtual representation || Virtual representation was a British argument of the 1760s.
+
+Q E3 Read the table below (illustrative population figures).
+T Year | Approximate population of the British mainland colonies
+T 1700 | 250,000
+T 1750 | 1,200,000
+T 1775 | 2,500,000
+Which of the following best explains the trend shown?
++ High birth rates and large-scale immigration, including the forced migration of enslaved Africans || Population roughly doubled every 25 years.
+- The end of the Navigation Acts in 1700 || The Navigation Acts remained in force.
+- Mass migration from New France after 1700 || Few French colonists moved to British colonies.
+- The Columbian Exchange ending disease in the colonies || Disease remained common; the exchange began in 1492.
+- Large land grants to Native peoples encouraging settlement || Colonial growth came at Native peoples' expense.
+
+@end

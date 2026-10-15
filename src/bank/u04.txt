@@ -1,0 +1,141 @@
+Q P1 The Proclamation of 1763 angered many colonists because it
++ prohibited settlement west of the Appalachian Mountains || Colonists who had fought for western lands felt cheated.
+- placed a tax on printed materials || That was the Stamp Act (1765).
+- closed the port of Boston || That was one of the Coercive Acts (1774).
+- required colonists to house British soldiers || That was the Quartering Act (1765).
+- ended the French and Indian War on unfavorable terms || The war ended with the Treaty of Paris, a British victory.
+
+Q S1 The Sons of Liberty were
++ colonial protest groups that resisted British taxes, sometimes through intimidation || They pressured stamp distributors to resign.
+- British soldiers stationed in Boston || The Sons of Liberty opposed British policy.
+- Loyalist organizations that supported Parliament || They were Patriots.
+- delegates to the Constitutional Convention || The Convention met in 1787.
+- members of the House of Burgesses only || The Sons of Liberty were popular organizations in many colonies.
+
+Q E1 Colonial nonimportation agreements were effective in the 1760s because they
++ hurt British merchants, who pressured Parliament to repeal taxes || Boycotts helped win repeal of the Stamp Act and most Townshend duties.
+- forced France to declare war on Britain || France entered the war only in 1778.
+- ended the colonial demand for British goods permanently || Trade resumed after repeals.
+- were enforced by the Royal Navy || The navy enforced British trade laws, not colonial boycotts.
+- created a national currency for the colonies || They had nothing to do with currency.
+
+Q C1 Who wrote Common Sense (1776)?
++ Thomas Paine || His pamphlet attacked monarchy and urged independence.
+- Thomas Jefferson || Jefferson was the main author of the Declaration of Independence.
+- John Dickinson || Dickinson wrote Letters from a Farmer in Pennsylvania.
+- Samuel Adams || Adams organized committees of correspondence.
+- Benjamin Franklin || Franklin was a diplomat and writer but did not write Common Sense.
+
+Q D1 The first battles of the American Revolution took place in 1775 at
++ Lexington and Concord || British troops marched to seize colonial weapons stored at Concord.
+- Saratoga || Saratoga was fought in 1777.
+- Yorktown || Yorktown (1781) was the last major battle.
+- Trenton || Trenton was fought in December 1776.
+- Fort Sumter || Fort Sumter began the Civil War in 1861.
+
+Q S2 Which of the following groups was most likely to be Loyalist during the American Revolution?
++ Royal officials and Anglican clergy || Their positions depended on the Crown and the Church of England.
+- Members of the Sons of Liberty || They were Patriots.
+- Signers of the Declaration of Independence || They were Patriot leaders.
+- Delegates to the Stamp Act Congress || They protested British taxation.
+- Readers of Common Sense who supported its arguments || Paine's supporters favored independence.
+
+Q P2 Parliament's passage of the Declaratory Act in 1766 showed that
++ although it repealed the Stamp Act, Parliament still claimed full authority over the colonies || It asserted power to legislate "in all cases whatsoever."
+- Parliament accepted the colonial argument of no taxation without representation || It explicitly rejected that argument.
+- Britain was ready to grant the colonies independence || Independence was a decade away.
+- Parliament would tax only colonial imports, not internal goods || The Act asserted unlimited authority.
+- the king had taken control of colonial policy from Parliament || The Act was passed by Parliament.
+
+Q E2 The Townshend Acts (1767) differed from the Stamp Act in that they
++ taxed imported goods such as glass, paper, paint, and tea rather than documents used within the colonies || Townshend hoped colonists would accept "external" duties.
+- applied only to the southern colonies || They applied to all colonies.
+- were approved by the colonial assemblies || Colonists protested them.
+- were repealed before they took effect || Most were repealed in 1770, after taking effect.
+- taxed only sugar and molasses || Those were covered by the Sugar Act (1764).
+
+Q C2 The Declaration of Independence directed its list of grievances primarily against
++ King George III || By 1776 colonists denied Parliament any authority over them, so they blamed the king.
+- Parliament || The Declaration avoids naming Parliament directly.
+- the Continental Congress || The Congress issued the Declaration.
+- France || France was a potential ally.
+- the colonial assemblies || The assemblies were seen as legitimate.
+
+Q D2 Which of the following was a major reason the Americans won the Revolutionary War?
++ Assistance from France, including troops, money, and naval power || The French alliance after 1778 was decisive at Yorktown.
+- A larger and better-trained army than Britain's || The Continental Army was smaller and less trained.
+- Strong support from nearly all Native nations || Most Native nations sided with Britain.
+- The unanimous support of all colonists || About a fifth of colonists were Loyalists.
+- Britain's lack of a navy || Britain had the world's strongest navy.
+
+Q S2 What did Abigail Adams mean when she urged her husband to "remember the ladies"?
++ She hoped the new government would grant women more rights and protections || Women did not gain political rights, but the request reflects revolutionary ideals.
+- She wanted women excluded from public life || She asked for more consideration for women.
+- She was asking Congress to honor female soldiers || Her letter concerned laws affecting women generally.
+- She urged a boycott of British tea led by women || That is not the context of the quotation.
+- She was supporting the Loyalist cause || She was a committed Patriot.
+
+Q P2 The committees of correspondence were important because they
++ helped colonies share information and coordinate resistance to British policies || Samuel Adams organized them in 1772.
+- negotiated the Treaty of Paris in 1783 || That was done by diplomats such as Franklin, Adams, and Jay.
+- wrote the Articles of Confederation || Congress drafted the Articles.
+- collected the Stamp Act taxes || They opposed British taxation.
+- commanded the Continental Army || Washington commanded the army.
+
+Q D2 Which of the following lists Revolutionary War events in the correct order?
++ Lexington and Concord, Declaration of Independence, Saratoga, Yorktown || 1775, 1776, 1777, 1781.
+- Saratoga, Lexington and Concord, Yorktown, Declaration of Independence || Saratoga (1777) came after Lexington (1775) and the Declaration (1776).
+- Declaration of Independence, Yorktown, Saratoga, Lexington and Concord || This order is reversed.
+- Lexington and Concord, Saratoga, Declaration of Independence, Yorktown || The Declaration (1776) came before Saratoga (1777).
+- Yorktown, Saratoga, Declaration of Independence, Lexington and Concord || This is the reverse of the correct order.
+
+Q S1 Which of the following groups of Native Americans was divided over which side to support during the Revolution?
++ The Iroquois Confederacy || Most Iroquois nations sided with Britain, but the Oneida and Tuscarora supported the Patriots.
+- The Aztecs || The Aztec Empire had fallen in the 1520s.
+- The Pueblo || The Pueblo lived in Spanish New Mexico, far from the fighting.
+- The Inca || The Inca lived in South America.
+- The Lakota || The Lakota lived far west on the Great Plains.
+
+Q C2 In Letters from a Farmer in Pennsylvania, John Dickinson argued that
++ Parliament could regulate trade but had no right to tax the colonies to raise revenue || His argument targeted the Townshend Acts.
+- the colonies should immediately declare independence || Dickinson favored reconciliation in the 1760s.
+- monarchy was an absurd form of government || That was Paine's argument in Common Sense.
+- all men are created equal and have unalienable rights || That phrase is from the Declaration of Independence.
+- slavery should be abolished in Pennsylvania || His letters concerned British taxation.
+
+Q E2 The Tea Act of 1773 was designed mainly to
++ rescue the struggling British East India Company by letting it sell tea directly to the colonies || It made tea cheaper but kept the Townshend tea duty.
+- raise the price of tea to discourage drinking || It actually lowered the price.
+- punish Boston for the Boston Massacre || The Coercive Acts punished Boston after the Tea Party.
+- give colonial merchants a monopoly on tea || It gave the monopoly to the East India Company.
+- end the Townshend duty on tea || The duty remained.
+
+Q D3 In the Treaty of Paris (1783), Britain agreed to
++ recognize US independence with a western boundary at the Mississippi River || Florida returned to Spain, and Native allies of Britain were ignored.
+- give Canada to the United States || Britain kept Canada.
+- grant the Louisiana Territory to the United States || Louisiana belonged to Spain and was purchased from France in 1803.
+- pay reparations to the United States for war damages || No such payments were made.
+- allow the United States to keep its alliance with France permanently || The treaty did not address the Franco-American alliance in that way.
+
+Q P3 The First Continental Congress (1774) differed from the Second Continental Congress (1775–1781) in that the First Continental Congress
++ sought to restore colonial rights within the British Empire, while the Second managed a war and eventually declared independence || The First organized boycotts; the Second created the army and the Declaration.
+- declared independence, while the Second sought reconciliation || The order is reversed.
+- was attended by all thirteen colonies, while the Second was not || Georgia missed the First Congress; all thirteen took part in the Second.
+- appointed George Washington commander, while the Second did not || The Second Congress appointed Washington in 1775.
+- wrote the Constitution, while the Second wrote the Articles || The Constitution was written in 1787 by a separate convention.
+
+Q S3 Pennsylvania's 1780 gradual emancipation law illustrates which of the following?
++ Revolutionary ideals of liberty prompted some states to begin ending slavery || Northern states gradually abolished slavery after the Revolution.
+- The Declaration of Independence immediately abolished slavery everywhere || Slavery continued in many states for decades.
+- Southern states led the movement to end slavery || Northern states led emancipation efforts.
+- Britain forced Pennsylvania to end slavery || Pennsylvania acted on its own.
+- Slavery had already ended in all northern states by 1780 || Pennsylvania's law was the first gradual emancipation law.
+
+Q C3 Thomas Paine's Common Sense and the Declaration of Independence were similar in that both
++ appealed to ordinary colonists and used natural-rights reasoning to justify breaking with Britain || Both aimed to rally public support for independence.
+- defended the authority of Parliament over the colonies || Both rejected British authority.
+- were written before the Stamp Act || Both appeared in 1776.
+- were written by Thomas Jefferson || Paine wrote Common Sense.
+- called for the abolition of slavery || Jefferson's antislavery passage was cut, and Common Sense focused on monarchy.
+
+@end
