@@ -1,0 +1,254 @@
+@unit 11
+@title The Civil War
+@short Civil War
+@years 1861–1865
+@weight 11
+
+@lesson
+## Why this unit matters
+The Civil War was the deadliest conflict in American history — roughly **620,000 to 750,000** soldiers died — and it settled two great questions: the Union could not be broken by secession, and **slavery would end**. The exam focuses less on battle tactics than on **why the North won**, **turning points**, **emancipation**, **diplomacy**, and the **home fronts** (draft, finance, wartime laws). Learn about five battles well; learn the policies thoroughly.
+
+## The two sides
+After Fort Sumter, eleven states formed the Confederacy. Four slave **border states** — **Delaware, Maryland, Kentucky, and Missouri** — stayed in the Union, and **West Virginia** broke away from Virginia to join the Union (1863). Keeping the border states was vital: Maryland surrounded Washington, D.C., and Kentucky controlled the Ohio River. To hold Maryland, Lincoln **suspended the writ of habeas corpus** there, jailing suspected secessionists without trial — one of several actions that expanded presidential power in wartime. (After the war, in *Ex parte Milligan*, 1866, the Supreme Court ruled that military trials of civilians where civilian courts were open were unconstitutional.)
+
+**Northern advantages:** about **22 million** people vs. **9 million** in the South (about 3.5 million of them enslaved); around **90% of the nation's manufacturing**; most of the **railroads**; a **navy**; an established government and financial system; and more food.
+
+**Southern advantages:** it only had to **defend** and outlast the North, not conquer; it fought on familiar home ground with high morale; and it had excellent generals such as **Robert E. Lee** and **Thomas "Stonewall" Jackson**. Southerners also hoped "**King Cotton**" would force Britain and France to intervene.
+
+**Strategies:** the Union's **Anaconda Plan** (General Winfield Scott) aimed to **blockade** southern ports and **seize the Mississippi River**, squeezing the Confederacy, while also trying to capture the Confederate capital, **Richmond**. The Confederacy fought a mostly **defensive** war, occasionally invading the North (Antietam, Gettysburg) hoping to win foreign recognition and break northern will.
+
+## The early war (1861–1862)
+- **First Battle of Bull Run (Manassas), July 1861:** a Confederate victory that shattered northern hopes of a quick war.
+- **Monitor vs. Merrimack (Virginia), March 1862:** the first battle between **ironclad** warships, a draw that made wooden navies obsolete.
+- In the **West**, General **Ulysses S. Grant** captured Forts Henry and Donelson (1862) and won the bloody **Battle of Shiloh** (April 1862). Admiral **David Farragut** captured **New Orleans** (April 1862).
+- In the **East**, General **George McClellan** — a skilled organizer but overly cautious — failed to take Richmond in the **Peninsula Campaign** (1862).
+
+**Antietam (September 17, 1862)** in Maryland was the **bloodiest single day** in American history (about 23,000 casualties). Lee's first invasion of the North was stopped. It was not a clear victory, but it gave Lincoln the opportunity he needed to issue the **preliminary Emancipation Proclamation** — and it discouraged Britain from recognizing the Confederacy. Lincoln later removed McClellan for failing to pursue Lee.
+
+## Emancipation
+At first, Lincoln insisted the war was to **preserve the Union**, not to end slavery — partly to keep the border states loyal. ("If I could save the Union without freeing any slave I would do it," he wrote in 1862.) But enslaved people forced the issue by escaping to Union lines. General Benjamin Butler declared such escapees "**contraband of war**" and refused to return them. Congress passed **Confiscation Acts** (1861, 1862) to seize Confederate property, including enslaved people, **abolished slavery in Washington, D.C.** (1862, with compensation to owners), and banned slavery in the territories (1862).
+
+The **Emancipation Proclamation**, effective **January 1, 1863**, declared free all enslaved people in areas **still in rebellion** against the United States. Issued under Lincoln's power as **commander in chief**, it was a **war measure**.
+
+- It did **not** apply to the loyal **border states** or Union-occupied areas — so on the day it took effect it immediately freed few people.
+- But it **changed the war's purpose** to include ending slavery; every advance of Union troops now meant freedom.
+- It made British or French recognition of the Confederacy politically impossible, since their publics opposed slavery.
+- It authorized the enlistment of **Black soldiers**.
+
+=> Union need for manpower, escapes by enslaved people, and the "victory" at Antietam | Emancipation Proclamation (Jan. 1, 1863) | War aims expand to ending slavery; Britain stays out; about 180,000 Black men serve in the Union army
+
+About **180,000 African American soldiers** served in the **US Colored Troops** (about 10% of the Union army), plus thousands in the navy. The **54th Massachusetts** regiment's assault on **Fort Wagner** (1863) proved their courage to doubting whites. Black soldiers served in segregated units under white officers and received **lower pay** until Congress equalized it in 1864. Confederates sometimes executed captured Black soldiers, as at Fort Pillow (1864).
+
+Because the Proclamation was a war measure that might not survive peace, Lincoln pushed for a constitutional amendment. Congress passed the **13th Amendment**, abolishing slavery throughout the United States, in **January 1865**; it was ratified in **December 1865**.
+
+!! Classic exam point: the Emancipation Proclamation freed enslaved people **only in Confederate-held territory**; the **13th Amendment** ended slavery everywhere.
+
+## Turning points: Gettysburg and Vicksburg (July 1863)
+After winning at Fredericksburg (December 1862) and Chancellorsville (May 1863, where Stonewall Jackson was accidentally shot by his own men), Lee invaded the North again.
+
+- **Gettysburg (July 1–3, 1863)**, Pennsylvania: General George Meade's Union army repulsed Lee; the disastrous Confederate assault on the third day is known as **Pickett's Charge**. Lee never again invaded the North. In November, Lincoln's **Gettysburg Address** redefined the war as a struggle for "**a new birth of freedom**" and "government of the people, by the people, for the people."
+- **Vicksburg (surrendered July 4, 1863)**: after a long siege, Grant captured the last major Confederate stronghold on the Mississippi. The Union now controlled the river, **splitting the Confederacy in two** — fulfilling the Anaconda Plan.
+
+=> Lee's second invasion of the North; Grant's siege of Vicksburg | Union victories at Gettysburg and Vicksburg (July 1863) | Turning point: Confederacy split, Lee on the defensive, foreign intervention no longer likely
+
+## Total war and the end (1864–1865)
+Lincoln made **Grant** general-in-chief in 1864. Grant pressed Lee relentlessly in Virginia (the Wilderness, Spotsylvania, Cold Harbor) despite huge losses, then besieged **Petersburg**, the rail hub protecting Richmond. Meanwhile **William Tecumseh Sherman** captured **Atlanta (September 1864)** and then made his **March to the Sea** to Savannah, destroying railroads, crops, and property to break southern civilians' ability and will to fight — **total war**.
+
+The fall of Atlanta helped Lincoln win the **election of 1864** against Democrat **George McClellan**, whose party's platform called the war a failure. Lincoln ran on a "National Union" ticket with **Andrew Johnson**, a pro-Union Democrat from Tennessee, as his running mate.
+
+Lee abandoned Richmond in April 1865 and surrendered to Grant at **Appomattox Court House**, Virginia, on **April 9, 1865**. Grant offered generous terms: Confederate soldiers could go home and keep their horses. Five days later, on **April 14**, **John Wilkes Booth** shot Lincoln at **Ford's Theatre**; he died the next morning, and Andrew Johnson became president.
+
+## Diplomacy
+The Confederacy's hope for European recognition rested on **King Cotton diplomacy**. It failed because:
+- Britain had a **surplus of cotton** stored from bumper crops before the war and developed new sources in **Egypt and India**.
+- Britain needed northern **wheat** ("King Corn") after poor harvests.
+- After **Antietam** and the **Emancipation Proclamation**, siding with a slaveholding nation became politically impossible; British workers largely supported the Union.
+- US Minister **Charles Francis Adams** skillfully managed relations in London.
+
+Crises still occurred. In the **Trent Affair (1861)**, a US warship stopped a British ship and seized two Confederate diplomats, **Mason and Slidell**; Lincoln released them to avoid war ("one war at a time"). British shipyards built Confederate raiders like the **CSS Alabama**, which sank many Union merchant ships — leading to the postwar "Alabama claims" that Britain paid. France used the war to install **Maximilian** as emperor of **Mexico** (1864), defying the Monroe Doctrine; after the war, US pressure helped force the French out.
+
+## The Union home front
+With southern Democrats gone from Congress, Republicans passed long-stalled economic programs:
+- **Homestead Act (1862):** **160 acres** of western public land free to settlers who lived on and farmed it for **five years**.
+- **Morrill Land-Grant College Act (1862):** federal land to states to fund **agricultural and mechanical colleges**.
+- **Pacific Railway Act (1862):** land grants and loans for the **transcontinental railroad** (completed 1869).
+- High protective **tariffs** (Morrill Tariff).
+- **National Banking Acts (1863–1864):** a system of national banks and a uniform national currency.
+- The first federal **income tax** and paper money called **greenbacks** (not backed by gold), plus massive bond sales.
+
+=> Secession removes southern opposition in Congress; war needs revenue | Homestead Act, transcontinental railroad, national banks, tariffs, greenbacks | Expanded federal power over the economy and a boost to northern industry and the West
+
+The Union adopted a **draft** in **1863**. A man could avoid service by hiring a **substitute** or paying a **$300 commutation fee**, leading to complaints of "**a rich man's war and a poor man's fight**." In July 1863, the **New York City draft riots** — largely by Irish immigrant workers who feared competition from freed Black laborers — killed over 100 people, including many African Americans who were lynched.
+
+**Copperheads** (Peace Democrats), such as Ohio's **Clement Vallandigham**, opposed the war and called for a negotiated peace; Vallandigham was arrested and banished to the Confederacy.
+
+**Women** took over farms, shops, and factory jobs, and served as nurses. **Clara Barton** cared for the wounded (she later founded the American Red Cross), **Dorothea Dix** was superintendent of Union army nurses, and the **US Sanitary Commission**, largely run by women volunteers, improved camp hygiene and medical care.
+
+## The Confederate home front
+The Confederacy struggled to fight a modern war:
+- It passed the first **conscription** law in American history (**1862**), but exempted men who owned **twenty or more enslaved people** — fueling resentment among poor whites.
+- It printed huge amounts of paper money, causing **inflation** of roughly 9,000%; food shortages led to **bread riots** (Richmond, 1863).
+- Its commitment to **states' rights** hampered President **Jefferson Davis**; some governors resisted central control of troops and supplies.
+- The Union **blockade** grew tighter, cutting off imports and cotton exports.
+- Late in the war, enslaved people increasingly escaped or slowed work, weakening the South from within. Desperate, the Confederate Congress voted in March 1865 to arm some enslaved men — far too late to matter.
+
+## Results
+The war **preserved the Union**, established that states could not secede, **ended slavery**, and greatly **expanded federal power** — including the first national taxes, currency, and draft. The North's economy grew, while the South's was devastated: its railroads, cities, and farms lay in ruins, and its wealth in enslaved people was gone. Reconstruction (Unit 12) would decide what freedom meant.
+
+@must
+- **Border states** (DE, MD, KY, MO) stayed in the Union; Lincoln **suspended habeas corpus** in Maryland.
+- **North's advantages:** population, industry (~90%), railroads, navy. **South's:** defensive war, generals (Lee, Jackson).
+- **Anaconda Plan:** blockade + control the Mississippi.
+- **Antietam (Sept. 1862)** = bloodiest single day → **Emancipation Proclamation**.
+- **Emancipation Proclamation (Jan. 1, 1863):** freed enslaved people **only in areas in rebellion**; changed war aims; allowed Black enlistment; kept Britain out.
+- **Gettysburg + Vicksburg (July 1863)** = turning point; Vicksburg gave the Union the Mississippi.
+- **Gettysburg Address:** "a new birth of freedom"; "government of the people, by the people, for the people."
+- **Sherman's March to the Sea (1864)** = total war; Atlanta's fall helped Lincoln win reelection over McClellan.
+- **Appomattox (April 9, 1865)**; Lincoln assassinated April 14, 1865.
+- **King Cotton diplomacy failed** (British cotton surplus, Egypt/India, need for wheat, emancipation). **Trent Affair** settled peacefully.
+- **Homestead Act** (160 acres), **Morrill Land-Grant Act**, **Pacific Railway Act**, **National Banking Act**, greenbacks, income tax.
+- **Draft (1863):** $300 commutation → **NYC draft riots**; **Copperheads** = Peace Democrats.
+- **13th Amendment** abolished slavery (passed Congress Jan. 1865; ratified Dec. 1865).
+
+@timeline
+*1861 | Fort Sumter (April); First Bull Run (July); Trent Affair | D
+1861 | Lincoln suspends habeas corpus in Maryland | P
+1862 | Monitor vs. Merrimack; Shiloh; New Orleans captured | D
+*1862 | Homestead Act; Morrill Act; Pacific Railway Act | E
+*1862 | Antietam (September 17) | D
+*1863 | Emancipation Proclamation takes effect (January 1) | S
+1863 | National Banking Act; Union draft | E
+*1863 | Gettysburg (July 1–3) and Vicksburg (July 4) | D
+1863 | New York City draft riots; 54th Massachusetts at Fort Wagner | S
+1863 | Gettysburg Address (November) | C
+*1864 | Sherman takes Atlanta; March to the Sea; Lincoln reelected | D
+1865 | 13th Amendment passes Congress (January) | P
+*1865 | Lee surrenders at Appomattox (April 9); Lincoln assassinated (April 14) | P
+*1865 | 13th Amendment ratified (December) | P
+
+@cards
+Border states :: Slave states that stayed in the Union: Delaware, Maryland, Kentucky, Missouri (plus West Virginia, 1863).
+Habeas corpus suspension :: Lincoln's wartime suspension in Maryland, allowing arrests without trial; challenged in Ex parte Merryman.
+Anaconda Plan :: Union strategy: blockade southern ports and seize the Mississippi River to strangle the Confederacy.
+First Bull Run (1861) :: Confederate victory near Washington that ended hopes of a short war.
+Antietam (1862) :: Bloodiest single day in US history; stopped Lee's invasion; gave Lincoln the moment to announce emancipation.
+Emancipation Proclamation (1863) :: Freed enslaved people in areas in rebellion; a war measure; excluded border states.
+Contraband of war :: Butler's 1861 term for enslaved people who escaped to Union lines and were not returned.
+US Colored Troops :: About 180,000 Black soldiers in the Union army; 54th Massachusetts at Fort Wagner; unequal pay until 1864.
+Gettysburg (1863) :: Union victory (July 1–3); Pickett's Charge failed; Lee never again invaded the North.
+Vicksburg (1863) :: Grant's siege captured the last Confederate stronghold on the Mississippi (July 4), splitting the Confederacy.
+Gettysburg Address :: Lincoln's 1863 speech: "a new birth of freedom" and "government of the people, by the people, for the people."
+Total war :: Destroying the enemy's resources and civilian will to fight; Sherman's March to the Sea (1864).
+Appomattox Court House :: Where Lee surrendered to Grant on April 9, 1865.
+King Cotton diplomacy :: Confederate hope that cotton dependence would force Britain/France to intervene; failed.
+Trent Affair (1861) :: US seizure of Confederate envoys Mason and Slidell from a British ship; Lincoln released them.
+Homestead Act (1862) :: 160 acres of public land free to settlers who farmed it for five years.
+Morrill Land-Grant Act (1862) :: Federal land grants to states to fund agricultural and mechanical colleges.
+Pacific Railway Act (1862) :: Federal support for the first transcontinental railroad (completed 1869).
+National Banking Acts (1863–64) :: Created national banks and a uniform national currency.
+Greenbacks :: Paper money issued by the Union during the war, not backed by gold.
+NYC draft riots (1863) :: Violent protest against the Union draft and its $300 exemption; rioters killed many Black residents.
+Copperheads :: Northern Peace Democrats who opposed the war and favored negotiation (Clement Vallandigham).
+Twenty-negro law :: Confederate draft exemption for men owning 20+ enslaved people; "rich man's war, poor man's fight."
+13th Amendment :: Abolished slavery throughout the United States; ratified December 1865.
+
+@quiz
+Q P1 The Emancipation Proclamation (1863) declared freedom for enslaved people
++ in areas still in rebellion against the United States || It exempted the loyal border states and Union-occupied areas.
+- in every state, including the border states || The border states were exempt; the 13th Amendment ended slavery everywhere.
+- only in Washington, D.C. || Congress abolished slavery in D.C. by law in 1862.
+- only in the western territories || Congress banned slavery in the territories in 1862 by separate law.
+- who had served in the Confederate army || It applied to enslaved people in rebel areas regardless of service.
+
+Q D2 The Battle of Antietam (1862) was significant because it
++ gave Lincoln the opportunity to issue the preliminary Emancipation Proclamation || The halt of Lee's invasion was a strategic Union success.
+- gave the Union control of the Mississippi River || That resulted from Vicksburg (1863).
+- ended the Civil War || The war continued until 1865.
+- was the first battle of the war || The first major battle was First Bull Run (1861).
+- led Britain to recognize the Confederacy || It made British recognition less likely.
+
+Q D1 The fall of Vicksburg in July 1863 was important to the Union because it
++ gave the Union control of the Mississippi River and split the Confederacy || It fulfilled a key goal of the Anaconda Plan.
+- led to the immediate capture of Richmond || Richmond fell in April 1865.
+- forced Lee to surrender his army || Lee surrendered at Appomattox in 1865.
+- ended the Union blockade of southern ports || The blockade continued.
+- brought Britain into the war on the Union side || Britain remained neutral.
+
+Q E2 Which of the following laws was passed by the Union Congress during the Civil War?
++ The Homestead Act, offering 160 acres of public land to settlers || Republicans passed it in 1862 after southern opponents left Congress.
+- The Kansas–Nebraska Act || That passed in 1854.
+- The Specie Circular || That was Jackson's 1836 executive order.
+- The Indian Removal Act || That passed in 1830.
+- The Tariff of Abominations || That passed in 1828.
+
+Q D2 The Confederacy's strategy of "King Cotton diplomacy" failed primarily because
++ Britain had stored surplus cotton and found other suppliers, and it relied on northern grain || Emancipation also made supporting the Confederacy politically unacceptable in Britain.
+- Britain declared war on the Confederacy in 1862 || Britain stayed neutral throughout.
+- the Confederacy refused to export any cotton at all during the war || Although planters held cotton back early in the war, the failure came from Britain's surplus and alternatives.
+- France and Britain had already abolished cotton imports || They continued to import cotton from other sources.
+- the Monroe Doctrine prevented Britain from trading with the South || The Monroe Doctrine concerned colonization, not trade.
+
+Q S2 The New York City draft riots of 1863 reflected
++ resentment among working-class immigrants toward the draft and fear of competition from freed Black workers || Rioters targeted African Americans and symbols of the draft.
+- southern Confederates' attempt to capture New York || The riots were by northern residents.
+- widespread support for the Emancipation Proclamation in New York || Rioters opposed the war's antislavery turn.
+- protests by Copperheads demanding a stronger war effort || Copperheads opposed the war.
+- women's demands for the right to serve in the army || The riots concerned the draft and racial tensions.
+
+Q P2 Which of the following best describes the purpose of the Anaconda Plan?
++ Blockading southern ports and controlling the Mississippi River to squeeze the Confederacy || Winfield Scott designed it to weaken the South economically.
+- Invading the North to win foreign recognition || That was Lee's strategy at Antietam and Gettysburg.
+- Freeing all enslaved people in the border states || The Anaconda Plan was a military strategy.
+- Negotiating peace with the Confederacy in 1861 || It was a war plan.
+- Destroying civilian property in Georgia || That describes Sherman's March in 1864.
+
+Q S2 African American soldiers in the Union army
++ served in segregated units and at first received lower pay than white soldiers || Congress equalized pay in 1864.
+- were barred from combat throughout the war || Black regiments, like the 54th Massachusetts, fought in major battles.
+- made up a majority of Union troops by 1865 || They made up about 10% of the army.
+- were commanded mostly by Black officers || Most officers were white.
+- were enlisted only after the war ended || Black enlistment began in earnest in 1863.
+
+Q C2 In the Gettysburg Address, Lincoln described the purpose of the war as
++ ensuring "a new birth of freedom" and preserving government "of the people, by the people, for the people" || He linked the Union cause to equality and democratic government.
+- restoring the Union exactly as it was before 1861 || The address looked forward to a "new birth of freedom."
+- punishing the South for secession || The speech did not call for punishment.
+- securing British recognition of the United States || It made no reference to foreign policy.
+- defending states' rights against federal power || It emphasized the nation, not states' rights.
+
+Q P2 Copperheads during the Civil War were
++ northern Democrats who opposed the war and favored a negotiated peace || Clement Vallandigham was the best-known Copperhead.
+- Radical Republicans who demanded immediate emancipation || Radicals strongly supported the war.
+- Confederate spies in Washington || The term referred to northern Peace Democrats.
+- Union soldiers from the border states || The term was a political label.
+- southern Unionists who joined the Union army || They were not called Copperheads.
+
+Q E3 Which of the following was a major economic problem for the Confederacy during the war?
++ Severe inflation caused by printing large amounts of paper money || Prices rose roughly 9,000% by war's end.
+- Too much industrial capacity and not enough farmland || The South had little industry.
+- A surplus of imported European goods || The blockade made imports scarce.
+- Excessive income tax revenue || The Confederacy struggled to raise taxes.
+- The Homestead Act drew southern farmers west || The Homestead Act was a Union law that applied to Union-controlled public lands.
+
+Q P3 The 13th Amendment was considered necessary even after the Emancipation Proclamation because
++ the Proclamation was a war measure that did not apply to the border states and might not survive peace || The amendment permanently abolished slavery everywhere.
+- the Supreme Court had declared the Proclamation unconstitutional || The Court never ruled against it.
+- the Proclamation freed enslaved people only in the North || It applied to areas in rebellion, mostly in the South.
+- Congress needed to grant citizenship to freed people || Citizenship came with the 14th Amendment (1868).
+- the Confederacy refused to sign the Proclamation || The Confederacy's agreement was never sought.
+
+Q P2 Sherman's March to the Sea (1864) is best described as an example of
++ total war aimed at destroying the South's resources and will to fight || Sherman's army wrecked railroads, crops, and property from Atlanta to Savannah.
+- a defensive campaign to protect Washington, D.C. || It was an offensive campaign deep in Georgia.
+- naval warfare against Confederate ironclads || It was a land campaign.
+- Confederate guerrilla warfare in Missouri || Sherman was a Union general.
+- a diplomatic mission to Britain || It was a military campaign.
+
+Q D3 During the Civil War, France violated the Monroe Doctrine by
++ installing Maximilian as emperor of Mexico || The US could not respond until after the war, when pressure helped force France out.
+- recognizing the Confederacy as an independent nation || No European nation formally recognized the Confederacy.
+- seizing Confederate diplomats from a British ship || That was the Trent Affair, involving the US Navy.
+- building the CSS Alabama for the Confederacy || The Alabama was built in Britain.
+- blockading New Orleans || The Union navy blockaded and captured New Orleans.
+
+@end

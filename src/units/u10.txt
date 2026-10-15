@@ -1,0 +1,272 @@
+@unit 10
+@title Manifest Destiny & Sectional Crisis
+@short Expansion & Crisis
+@years 1840–1861
+@weight 12
+
+@lesson
+## Why this unit matters
+This is the **most heavily weighted unit**. The story is one long chain: **expansion** added new land → every new territory reopened the question **"Will slavery be allowed there?"** → each attempted compromise failed → the parties broke apart → **secession**. If you can explain each link in that chain, you can answer most questions in this unit. Learn the compromises and laws **in order** and what each did about slavery in the territories.
+
+## Manifest Destiny
+In 1845 the editor **John L. O'Sullivan** wrote that it was America's "**manifest destiny** to overspread the continent allotted by Providence." The phrase captured a belief that the United States was **destined by God** to expand to the Pacific, spreading democracy and Protestant civilization. Motives included land hunger, Pacific ports for Asian trade, fear of British influence, and — for many southerners — new land for **slavery and cotton**. The idea also carried assumptions of racial superiority over Mexicans and Native peoples.
+
+## Texas
+After **Mexico** won independence from Spain (1821), it invited Americans to settle Texas; **empresarios** like **Stephen F. Austin** brought in settlers who agreed to become Mexican citizens and Catholics. By 1830 Americans (many with enslaved people) far outnumbered Mexicans in Texas. Tension grew when Mexico **abolished slavery (1829)**, restricted further American immigration, and **General Antonio López de Santa Anna** centralized power.
+
+In the **Texas Revolution (1835–1836)**, Santa Anna wiped out the defenders of the **Alamo** in San Antonio (March 1836) — "Remember the Alamo!" — but **Sam Houston's** army defeated and captured him at **San Jacinto** (April 1836). Texas became the independent **Lone Star Republic** and asked to join the US. Presidents Jackson and Van Buren held back: annexing Texas would add a huge **slave state** and risk **war with Mexico**, which never recognized Texas's independence.
+
+## Oregon and the election of 1844
+Thousands of families followed the **Oregon Trail** in the 1840s to the fertile Willamette Valley, which the US and Britain jointly occupied. In the **election of 1844**, the Democrats nominated a "dark horse," **James K. Polk** of Tennessee, on a platform of expansion: the "**reoccupation of Oregon and the reannexation of Texas**." Some Democrats demanded all of Oregon up to 54°40′ ("**Fifty-four forty or fight!**"). Polk beat Henry Clay. Interpreting the vote as a mandate, outgoing President Tyler got Congress to annex **Texas by joint resolution (1845)** (a joint resolution needed only a majority in each house, not the two-thirds Senate vote a treaty required).
+
+Polk then compromised with Britain: the **Oregon Treaty (1846)** extended the border along the **49th parallel** to the Pacific. Polk avoided war with Britain because he was preparing for war with Mexico.
+
+## The Mexican–American War (1846–1848)
+The US and Mexico disputed Texas's southern border: Texans claimed the **Rio Grande**, Mexico the **Nueces River** farther north. Polk also wanted **California**, but Mexico refused to sell. Polk sent General **Zachary Taylor** into the disputed zone. When Mexican troops attacked an American patrol there, Polk told Congress that Mexico had "shed **American blood upon American soil**," and Congress declared war (May 1846).
+
+Many **Whigs and abolitionists** opposed the war as a land grab for slavery. A first-term Whig congressman, **Abraham Lincoln**, introduced "**spot resolutions**" demanding Polk identify the exact spot where American blood was shed. Thoreau went to jail rather than pay taxes supporting the war.
+
+The US won quickly: Taylor won in northern Mexico; **Stephen Kearny** took New Mexico; Americans in California revolted (the **Bear Flag Revolt**); and **Winfield Scott** captured **Mexico City** (1847).
+
+The **Treaty of Guadalupe Hidalgo (1848)** gave the US the **Mexican Cession** — California, Nevada, Utah, and most of Arizona and New Mexico — and confirmed the **Rio Grande** border of Texas. The US paid **$15 million** and assumed Americans' claims against Mexico. In the **Gadsden Purchase (1853)**, the US bought a strip of southern Arizona and New Mexico for a southern railroad route.
+
+=> Manifest Destiny; Polk's desire for California; disputed Texas border | Mexican–American War (1846–1848) | Huge Mexican Cession — and an explosive question: would slavery be allowed in the new land?
+
+## The question of slavery in the territories
+In **1846**, Pennsylvania Congressman **David Wilmot** proposed the **Wilmot Proviso**: slavery would be **banned in any land acquired from Mexico**. It passed the House (where the North had more seats) repeatedly but **failed in the Senate**. Votes split along **sectional**, not party, lines — a dangerous sign.
+
+Four positions emerged:
+1. **Free soil:** Congress should ban slavery in all territories (Wilmot Proviso). Many free-soilers wanted the West for **white farmers and free labor**, not necessarily equality for Black people.
+2. **Extend the Missouri Compromise line (36°30′)** to the Pacific.
+3. **Popular sovereignty:** let the **settlers of each territory vote** on slavery (Senator **Lewis Cass**, later **Stephen Douglas**). Appealing because it seemed democratic and kept Congress out of it — but vague about *when* settlers could decide.
+4. **Calhoun's view:** slaves were property protected by the Constitution, so **neither Congress nor territorial governments could ban slavery** in any territory.
+
+In **1848**, antislavery Democrats, Whigs, and Liberty Party men formed the **Free Soil Party** ("Free Soil, Free Speech, Free Labor, and Free Men"), nominating **Martin Van Buren**. Whig war hero **Zachary Taylor** won.
+
+## The Compromise of 1850
+The **California Gold Rush (1849)** brought about 100,000 "forty-niners," and California quickly applied to enter the Union as a **free state** — which would break the 15–15 balance of free and slave states in the Senate. Southerners threatened secession. In the Senate's last great debate, **Henry Clay** proposed a compromise, **Daniel Webster** supported it in his "Seventh of March" speech ("I wish to speak today, not as a Massachusetts man, nor as a Northern man, but as an American"), and the dying **John C. Calhoun** opposed it. President Taylor opposed it, but he died in July 1850; President **Millard Fillmore** supported it, and **Stephen Douglas** passed it as separate bills.
+
+The **Compromise of 1850**:
+- **California** admitted as a **free state** (for the North).
+- **New Mexico and Utah** territories organized with **popular sovereignty** on slavery (for the South).
+- **Slave trade (not slavery) banned in Washington, D.C.** (for the North).
+- A much stronger **Fugitive Slave Act** (for the South).
+- Texas gave up land claims in New Mexico in exchange for federal payment of its debts.
+
+=> California's application as a free state threatens the Senate balance | Compromise of 1850 | Brief calm — but the new Fugitive Slave Act radicalizes many northerners
+
+## The Fugitive Slave Act and Uncle Tom's Cabin
+The **Fugitive Slave Act** denied accused runaways a **jury trial** or the right to testify, paid federal commissioners **$10** if they returned a person to slavery but only **$5** if they freed them, and required northern citizens to **assist** in captures. Free Black northerners were kidnapped into slavery. Northerners who had ignored slavery now saw it enforced on their streets. Crowds tried to rescue captives, and several states passed **personal liberty laws** to obstruct the Act. In **1854**, it took federal troops to return **Anthony Burns** from Boston to slavery.
+
+**Harriet Beecher Stowe's** novel **Uncle Tom's Cabin (1852)**, written in response to the Act, portrayed slavery's cruelty — especially the breakup of families — and sold hundreds of thousands of copies. It turned many northerners against slavery and outraged southerners, who called it lies.
+
+## The Kansas–Nebraska Act and Bleeding Kansas
+Senator **Stephen Douglas** of Illinois wanted a **transcontinental railroad** on a northern route through Chicago, which required organizing the land west of Missouri. To win southern votes, his **Kansas–Nebraska Act (1854)** created two territories, Kansas and Nebraska, to decide slavery by **popular sovereignty** — which **repealed the Missouri Compromise** line, since both lay north of 36°30′.
+
+=> Douglas wants a northern railroad route and southern votes | Kansas–Nebraska Act (1854) repeals the Missouri Compromise | Bleeding Kansas, death of the Whig Party, birth of the Republican Party
+
+Northerners were furious. In Kansas, proslavery and antislavery settlers rushed in to win the vote. Thousands of "**border ruffians**" from Missouri crossed over to vote illegally, electing a proslavery legislature; free-staters formed a rival government. Violence followed — **Bleeding Kansas**: proslavery men sacked the free-state town of **Lawrence** (1856), and the abolitionist **John Brown** led the murder of five proslavery settlers at **Pottawatomie Creek**. Violence reached Congress: after Massachusetts Senator **Charles Sumner** gave his "Crime Against Kansas" speech, South Carolina Congressman **Preston Brooks** beat him nearly to death with a cane on the Senate floor (1856). Southerners sent Brooks new canes; northerners saw southern brutality.
+
+## The party system collapses
+The **Whig Party** split over Kansas–Nebraska and disappeared. In **1854**, opponents of the Act founded the **Republican Party**, a purely **northern** party committed to stopping the **expansion** of slavery into the territories (not abolishing it where it existed). Republicans celebrated "**free labor**" — the idea that a man could work for wages, save, and become an independent farmer or businessman, which they believed slavery degraded.
+
+In **1856**, Republican **John C. Frémont** carried most northern states; Democrat **James Buchanan** won, with ex-president Fillmore running for the Know-Nothings. The Democrats were now the only truly national party.
+
+## Dred Scott and Lecompton
+**Dred Scott**, an enslaved man, sued for freedom because his owner had taken him to live in free Illinois and the free Wisconsin Territory. In **Dred Scott v. Sandford (1857)**, Chief Justice **Roger Taney** ruled that:
+- Black people, enslaved or free, were **not citizens** and could not sue in federal court;
+- Congress had **no power to ban slavery in the territories**, because enslaved people were property protected by the **Fifth Amendment** — so the **Missouri Compromise had been unconstitutional**.
+
+The decision thrilled the South and enraged the North: it seemed to make slavery legal in every territory and destroyed the Republicans' core program — and even undercut popular sovereignty.
+
+In Kansas, the proslavery minority wrote the **Lecompton Constitution** (1857). Buchanan backed it; Stephen Douglas opposed it as a fraud on popular sovereignty, splitting the Democrats. Kansas voters rejected it, and Kansas entered as a free state in 1861. The **Panic of 1857** hit the North harder than the cotton South, convincing southerners that "King Cotton" made them strong.
+
+## Lincoln–Douglas debates and Harpers Ferry
+In **1858**, Abraham Lincoln challenged Douglas for his Illinois Senate seat. Accepting the nomination, Lincoln declared: "**A house divided against itself cannot stand.** I believe this government cannot endure, permanently half slave and half free." In the **Lincoln–Douglas debates**, Lincoln pressed Douglas on how popular sovereignty could survive Dred Scott. In the **Freeport Doctrine**, Douglas answered that territories could still keep slavery out by refusing to pass the local laws (slave codes) needed to protect it. Douglas kept his Senate seat but **lost southern support**; Lincoln became nationally known.
+
+In **October 1859**, John Brown led about 20 men in a raid on the federal arsenal at **Harpers Ferry**, Virginia, hoping to arm enslaved people for a revolt. He was captured and **hanged**. Many northerners mourned him as a martyr; southerners concluded the North wanted to incite slave rebellion.
+
+## The election of 1860 and secession
+In **1860**, the **Democratic Party split**: northern Democrats nominated **Douglas** (popular sovereignty), and southern Democrats nominated **John C. Breckinridge** (federal protection of slavery in all territories). The new **Constitutional Union Party** nominated **John Bell**, who simply urged preserving the Union. The Republicans nominated **Lincoln** on a platform opposing the **expansion** of slavery, plus a protective tariff, a **homestead** law, and a transcontinental railroad.
+
+Lincoln won with about **40% of the popular vote** — every northern free state's electoral votes and **none from the South** (he was not even on the ballot in most southern states).
+
+=> Lincoln, a Republican opposed to slavery's expansion, wins without any southern electoral votes | Secession of the Deep South (Dec. 1860–Feb. 1861) | Confederate States of America formed; crisis over federal forts leads to war
+
+**South Carolina** seceded in **December 1860**, followed by six more Deep South states by February 1861. They formed the **Confederate States of America**, with **Jefferson Davis** as president. Secessionists said they were protecting their rights and property; their declarations stated plainly that the protection of **slavery** was the central cause.
+
+Senator **John J. Crittenden** of Kentucky proposed the **Crittenden Compromise**, which would have extended the **36°30′ line to the Pacific** and protected slavery south of it with constitutional amendments. Lincoln **rejected** any extension of slavery into the territories, and the plan died.
+
+In his **inaugural address (March 1861)**, Lincoln said he had no intention of interfering with slavery where it existed, declared secession illegal, and pledged to hold federal property: "We are not enemies, but friends." When he sent supplies to **Fort Sumter** in Charleston Harbor, Confederate batteries opened fire on **April 12, 1861**. The fort surrendered; Lincoln called for 75,000 volunteers; and **Virginia, North Carolina, Tennessee, and Arkansas** then seceded. The Civil War had begun.
+
+@must
+- **Manifest Destiny** (O'Sullivan, 1845): God-given right to expand to the Pacific.
+- **Texas:** independence 1836 (Alamo, San Jacinto); annexed **1845** by joint resolution.
+- **Oregon Treaty (1846):** 49th parallel. **Polk** (1844) = expansionist president.
+- **Mexican–American War (1846–48)** → **Treaty of Guadalupe Hidalgo (1848):** Mexican Cession, Rio Grande border. Lincoln's "spot resolutions"; Whig opposition.
+- **Wilmot Proviso (1846):** ban slavery in Mexican Cession; passed House, failed Senate.
+- **Popular sovereignty** (Cass, Douglas): territorial settlers decide slavery.
+- **Compromise of 1850:** California free; Utah/New Mexico popular sovereignty; D.C. slave trade banned; tougher **Fugitive Slave Act**.
+- **Uncle Tom's Cabin (1852)** turned northern opinion against slavery.
+- **Kansas–Nebraska Act (1854):** popular sovereignty; **repealed the Missouri Compromise** → **Bleeding Kansas**; **Republican Party** founded.
+- **Dred Scott (1857):** Black people not citizens; Congress can't ban slavery in territories; Missouri Compromise unconstitutional.
+- **Lincoln–Douglas debates (1858):** "House divided"; **Freeport Doctrine**. **John Brown** at Harpers Ferry (1859).
+- **Election of 1860:** Democrats split; Lincoln wins with ~40% and no southern electoral votes → secession; **Fort Sumter (April 1861)**.
+
+@timeline
+*1836 | Texas independence (Alamo, San Jacinto) | D
+1844 | Polk elected on an expansion platform | P
+*1845 | Texas annexed; "manifest destiny" coined | D
+*1846 | Mexican–American War begins; Oregon Treaty; Wilmot Proviso | D
+*1848 | Treaty of Guadalupe Hidalgo; Free Soil Party; gold discovered in California | D
+1849 | California Gold Rush | E
+*1850 | Compromise of 1850; Fugitive Slave Act | P
+*1852 | Uncle Tom's Cabin published | C
+1853 | Gadsden Purchase | D
+*1854 | Kansas–Nebraska Act; Republican Party founded | P
+1856 | Bleeding Kansas; caning of Charles Sumner | S
+*1857 | Dred Scott v. Sandford; Lecompton Constitution; Panic of 1857 | P
+*1858 | Lincoln–Douglas debates; "House Divided" speech | P
+*1859 | John Brown's raid on Harpers Ferry | S
+*1860 | Lincoln elected; South Carolina secedes | P
+1861 | Confederacy formed (February); Crittenden Compromise fails | P
+*1861 | Confederates fire on Fort Sumter (April 12) | D
+
+@cards
+Manifest Destiny :: Belief (O'Sullivan, 1845) that the US was destined by God to expand across North America.
+Texas Revolution (1835–36) :: Texans won independence from Mexico; Alamo (defeat) and San Jacinto (victory, Sam Houston).
+Annexation of Texas (1845) :: Accomplished by joint resolution of Congress under Tyler after Polk's election.
+James K. Polk :: Expansionist Democratic president (1845–49): Oregon Treaty, Mexican War, Mexican Cession.
+Oregon Treaty (1846) :: Divided Oregon Country with Britain at the 49th parallel.
+"Spot resolutions" :: Lincoln's challenge to Polk to name the exact spot where "American blood" was shed to start the Mexican War.
+Treaty of Guadalupe Hidalgo (1848) :: Ended the Mexican War; US gained the Mexican Cession and the Rio Grande border for $15 million.
+Gadsden Purchase (1853) :: Strip of southern Arizona/New Mexico bought from Mexico for a southern railroad route.
+Wilmot Proviso (1846) :: Proposal to ban slavery in land taken from Mexico; passed the House, failed in the Senate.
+Popular sovereignty :: Letting territorial settlers vote on slavery; championed by Lewis Cass and Stephen Douglas.
+Free Soil Party (1848) :: Opposed slavery's expansion into the territories; nominated Martin Van Buren.
+Compromise of 1850 :: California free; Utah and New Mexico popular sovereignty; D.C. slave trade banned; stronger Fugitive Slave Act.
+Fugitive Slave Act (1850) :: Denied accused runaways jury trials and required northerners to help capture them.
+Personal liberty laws :: Northern state laws designed to obstruct enforcement of the Fugitive Slave Act.
+Uncle Tom's Cabin (1852) :: Harriet Beecher Stowe's antislavery novel; hardened northern opinion against slavery.
+Kansas–Nebraska Act (1854) :: Douglas's law applying popular sovereignty to Kansas and Nebraska; repealed the Missouri Compromise.
+Bleeding Kansas :: Violence between proslavery and antislavery settlers (sack of Lawrence, Pottawatomie massacre), 1854–1856.
+Sumner–Brooks caning (1856) :: Rep. Preston Brooks beat Sen. Charles Sumner in the Senate after his "Crime Against Kansas" speech.
+Republican Party (1854) :: Northern party opposing the expansion of slavery; promoted "free labor."
+Dred Scott v. Sandford (1857) :: Taney: Black people not citizens; Congress cannot ban slavery in territories; Missouri Compromise void.
+Lecompton Constitution :: Fraudulent proslavery Kansas constitution backed by Buchanan, opposed by Douglas; split the Democrats.
+Freeport Doctrine (1858) :: Douglas's claim that territories could exclude slavery by refusing to pass slave codes.
+"House Divided" speech (1858) :: Lincoln: the nation "cannot endure, permanently half slave and half free."
+Harpers Ferry (1859) :: John Brown's failed raid on a federal arsenal to spark a slave revolt; he was hanged and became a northern martyr.
+Election of 1860 :: Democrats split (Douglas, Breckinridge); Bell ran for Constitutional Union; Lincoln won with ~40% and no southern electoral votes.
+Crittenden Compromise :: Failed 1860–61 plan to extend 36°30′ to the Pacific and protect slavery; Lincoln rejected it.
+Fort Sumter (April 12, 1861) :: Confederate attack on the federal fort in Charleston Harbor; began the Civil War.
+
+@quiz
+Q C1 The term "manifest destiny" refers to the belief that
++ the United States was destined to expand across the North American continent || John O'Sullivan coined the phrase in 1845.
+- slavery would eventually die out on its own || That was a hope of some founders, not the meaning of manifest destiny.
+- the Union could never be dissolved by secession || That was a Unionist argument, not manifest destiny.
+- European powers should not colonize the Americas || That was the Monroe Doctrine.
+- Native Americans should be granted citizenship || Manifest destiny generally ignored or dismissed Native claims.
+
+Q P2 The Wilmot Proviso (1846) proposed to
++ ban slavery in all territory acquired from Mexico || It passed the House but failed in the Senate, dividing Congress by section.
+- extend the Missouri Compromise line to the Pacific || That idea later appeared in the Crittenden Compromise.
+- allow settlers to decide on slavery by popular vote || That was popular sovereignty.
+- annex Texas as a slave state || Texas was annexed by joint resolution in 1845.
+- end the Mexican–American War immediately || It concerned slavery in conquered land, not ending the war.
+
+Q P1 Which of the following was part of the Compromise of 1850?
++ California entered the Union as a free state || Other parts included a stronger Fugitive Slave Act and popular sovereignty in Utah and New Mexico.
+- Slavery was abolished in Washington, D.C. || Only the slave trade was banned in D.C.; slavery there ended in 1862.
+- Kansas and Nebraska were opened to popular sovereignty || That was the Kansas–Nebraska Act (1854).
+- Missouri entered as a slave state || That was the Missouri Compromise (1820).
+- Congress was barred from regulating slavery in the territories || That was the Dred Scott ruling (1857).
+
+Q S2 The Fugitive Slave Act of 1850 increased antislavery feeling in the North primarily because it
++ forced northerners to help return escaped people and denied accused fugitives a jury trial || Slavery's enforcement now reached northern communities directly.
+- abolished slavery in the territories || It did the opposite of strengthening antislavery law.
+- was written by abolitionists || It was demanded by southerners.
+- allowed northern states to free any enslaved person who entered them || It required the return of escapees.
+- was declared unconstitutional by the Supreme Court in Dred Scott || The Court did not strike down the Act; Dred Scott concerned territories and citizenship.
+
+Q P2 The Kansas–Nebraska Act of 1854 was significant because it
++ repealed the Missouri Compromise by allowing popular sovereignty north of 36°30′ || Outrage over it led to Bleeding Kansas and the founding of the Republican Party.
+- admitted Kansas as a free state || Kansas entered the Union as a free state in 1861.
+- banned slavery in all western territories || It opened territories to slavery by popular vote.
+- was supported by the newly formed Republican Party || The Republican Party formed to oppose it.
+- settled the slavery issue for the rest of the decade || It reignited conflict.
+
+Q P2 In Dred Scott v. Sandford (1857), the Supreme Court ruled that
++ Congress could not prohibit slavery in the territories || Taney held enslaved people were property protected by the Fifth Amendment.
+- popular sovereignty was required in all territories || The ruling undermined popular sovereignty as well.
+- the Fugitive Slave Act was unconstitutional || The ruling did not address the Fugitive Slave Act.
+- Dred Scott was free because he had lived in free territory || The Court ruled he remained enslaved and could not sue.
+- free Black Americans were citizens entitled to sue in federal court || Taney ruled Black Americans were not citizens.
+
+Q C2 Harriet Beecher Stowe's Uncle Tom's Cabin (1852) is significant because it
++ intensified northern opposition to slavery by portraying its human cruelty || The novel's depiction of families torn apart moved millions of readers.
+- defended slavery as a positive good || Southern writers responded with proslavery novels; Stowe opposed slavery.
+- was the first published slave narrative || Slave narratives, like Douglass's, preceded it; Stowe's work was a novel.
+- led to the passage of the Fugitive Slave Act || The novel responded to the Act, which came first.
+- convinced Congress to pass the Wilmot Proviso || The Proviso never passed and predates the novel.
+
+Q D2 The Treaty of Guadalupe Hidalgo (1848)
++ ended the Mexican–American War and gave the US California and the Southwest || It also set the Rio Grande as the Texas border.
+- divided the Oregon Country at the 49th parallel || That was the Oregon Treaty (1846) with Britain.
+- annexed Texas to the United States || Texas was annexed in 1845.
+- purchased southern Arizona for a railroad route || That was the Gadsden Purchase (1853).
+- recognized the Confederate States of America || No nation formally recognized the Confederacy.
+
+Q P2 The Republican Party, founded in 1854, primarily sought to
++ prevent the expansion of slavery into the western territories || Most Republicans did not propose abolishing slavery where it already existed.
+- abolish slavery immediately in all states || That was the position of radical abolitionists, not the party's platform.
+- extend the Missouri Compromise line to the Pacific || Republicans opposed slavery's extension.
+- restrict immigration by Irish Catholics || That was the Know-Nothings' goal.
+- support popular sovereignty in Kansas || The party formed in opposition to the Kansas–Nebraska Act.
+
+Q P1 Abraham Lincoln won the presidential election of 1860 largely because
++ the Democratic Party split between northern and southern candidates || Lincoln carried the North with about 40% of the national popular vote.
+- he won a majority of southern electoral votes || He received no southern electoral votes.
+- he promised to abolish slavery in the southern states || He pledged not to interfere with slavery where it existed.
+- the Whig Party nominated him || The Whig Party no longer existed; he was a Republican.
+- the Supreme Court decided the election || The Electoral College decided it.
+
+Q P3 In the Freeport Doctrine (1858), Stephen Douglas argued that
++ settlers could keep slavery out of a territory by refusing to pass laws protecting it || This angered southerners and helped split the Democrats.
+- the Dred Scott decision should be ignored by the federal government || Douglas accepted the ruling but tried to reconcile it with popular sovereignty.
+- Congress must ban slavery in all territories || That was the free-soil and Republican position.
+- the Union was a compact from which states could secede || That was the secessionist argument.
+- slavery should be extended to all territories by federal law || That was the southern Democratic position.
+
+Q S3 Which of the following best explains why John Brown's raid on Harpers Ferry (1859) deepened sectional conflict?
++ Many northerners praised Brown as a martyr, convincing southerners that the North supported slave insurrection || Brown's failed raid and execution polarized opinion further.
+- The raid succeeded in freeing thousands of enslaved people in Virginia || The raid failed quickly; no large-scale revolt occurred.
+- Brown was acquitted by a northern jury || He was tried, convicted, and hanged in Virginia.
+- The Republican Party nominated Brown for president in 1860 || Republican leaders disavowed the raid.
+- The raid was supported by Stephen Douglas || Douglas condemned it.
+
+Q E2 Which of the following was a goal of the Kansas–Nebraska Act's sponsor, Stephen Douglas?
++ Organizing the territory to support a transcontinental railroad along a northern route || Douglas hoped the route would run through Chicago.
+- Expanding slavery into all of the Mexican Cession || The Act concerned Kansas and Nebraska, which were part of the Louisiana Purchase.
+- Ending the Mexican–American War || That war had ended in 1848.
+- Admitting California as a slave state || California entered as a free state in 1850.
+- Weakening the Democratic Party in the South || Douglas sought southern votes.
+
+Q D2 Why did Presidents Jackson and Van Buren hesitate to annex Texas after 1836?
++ Annexation would add a large slave state and risk war with Mexico || Both sectional tension and Mexico's refusal to recognize Texas made it dangerous.
+- Texas had abolished slavery and northern states opposed it || Texas protected slavery; northerners opposed annexation for that reason.
+- Britain had already annexed Texas || Britain courted Texas but never annexed it.
+- Texans voted against joining the United States || Texans asked to be annexed.
+- The Oregon Treaty forbade further expansion || The Oregon Treaty (1846) concerned the Northwest border.
+
+Q P3 Read the excerpt below.
+> "A house divided against itself cannot stand. I believe this government cannot endure, permanently half slave and half free."
+The speaker most likely intended to
++ argue that the nation would eventually have to resolve the conflict over slavery one way or the other || Lincoln said this in 1858, accepting the Republican Senate nomination in Illinois.
+- defend popular sovereignty as the best solution to the slavery question || That was Douglas's position, which Lincoln opposed.
+- call for the immediate secession of the southern states || Lincoln opposed secession.
+- endorse the Dred Scott decision || Lincoln strongly criticized Dred Scott.
+- support the Crittenden Compromise || The Crittenden plan came in 1860–61, and Lincoln rejected it.
+
+@end

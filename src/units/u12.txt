@@ -1,0 +1,251 @@
+@unit 12
+@title Reconstruction
+@short Reconstruction
+@years 1865–1877
+@weight 10
+
+@lesson
+## Why this unit matters
+**Reconstruction** (1865–1877) asked: How would the Confederate states rejoin the Union, and what would freedom mean for four million formerly enslaved people? The answers produced three constitutional amendments that still shape American law — the **13th, 14th, and 15th** — a battle between **President Andrew Johnson** and the **Radical Republicans**, the first Black officeholders in the South, and then a violent backlash that ended Reconstruction with the **Compromise of 1877**. The exam heavily tests **the amendments**, **competing plans**, **Black Codes**, **sharecropping**, and **why Reconstruction ended**.
+
+## Lincoln's plan
+In December 1863, Lincoln announced his lenient **Ten Percent Plan**: a Confederate state could form a new government once **10% of its 1860 voters** swore loyalty to the Union and accepted emancipation. Most Confederates would be pardoned. Lincoln's goal was a quick reunion.
+
+Radical Republicans in Congress thought this far too easy. Their **Wade–Davis Bill (1864)** required a **majority** of a state's white men to take a loyalty oath and barred anyone who had voluntarily supported the Confederacy from voting for the new state convention. Lincoln killed it with a **pocket veto**. The dispute raised a lasting question: Was Reconstruction the job of the **president** or of **Congress**?
+
+In March 1865, Congress created the **Freedmen's Bureau**, the first major federal social-welfare agency. Headed by General **Oliver O. Howard**, it provided food, clothing, and medical care, negotiated **labor contracts**, and — its greatest success — founded **schools** for freed people, working with northern missionary societies to establish colleges such as **Howard University** and **Fisk University**. But it never achieved meaningful **land redistribution**. General Sherman's **Field Order No. 15** (January 1865) had set aside coastal land for freed families in 40-acre plots — the origin of the hope for "**forty acres and a mule**" — but President Johnson returned most of that land to its former owners.
+
+## Johnson's plan (Presidential Reconstruction, 1865)
+After Lincoln's assassination, **Andrew Johnson**, a Tennessee Democrat who had stayed loyal to the Union, became president. Johnson hated the planter elite but also held deeply racist views and strongly supported **states' rights**. His plan required southern states to:
+- repeal or void their **secession** ordinances,
+- ratify the **13th Amendment**, and
+- repudiate Confederate war debts.
+
+Wealthy Confederates had to apply to Johnson personally for **pardons** — and he granted them by the thousands. Southern voters promptly elected former Confederate leaders to Congress, including the Confederacy's vice president, **Alexander Stephens**.
+
+The new southern governments passed **Black Codes** — laws that restricted freedpeople's lives in ways that resembled slavery. They required Black Southerners to sign yearly **labor contracts**, allowed arrest for "**vagrancy**" (unemployment) with punishment by forced labor, limited the jobs they could hold and their right to own or rent land, and barred them from serving on juries or testifying against whites.
+
+=> Johnson's lenient plan returns former Confederates to power | Black Codes (1865–1866) restrict freedpeople | Northern outrage; Congress takes control of Reconstruction from the president
+
+When Congress met in December 1865, it **refused to seat** the newly elected southern representatives.
+
+## Congress strikes back
+Johnson **vetoed** a bill extending the Freedmen's Bureau and the **Civil Rights Act of 1866**, which declared Black Americans citizens with equal legal rights. Congress **overrode** the Civil Rights Act veto — the first time it overrode a president on a major bill.
+
+To put these rights beyond the reach of future majorities, Congress passed the **14th Amendment** (1866; ratified **1868**):
+- All persons **born or naturalized** in the United States are **citizens** (overturning **Dred Scott**).
+- No state may deny any person "**due process of law**" or "the **equal protection of the laws**."
+- States that denied adult male citizens the vote would lose representation in Congress.
+- Former Confederate officials were barred from office unless Congress removed the ban, and the Confederate debt was declared void.
+
+Johnson urged southern states to **reject** the amendment, and all but Tennessee did. He then campaigned against Radicals in the **1866 midterm elections** with an angry speaking tour ("swing around the circle"). Northern voters responded by giving Republicans a **veto-proof majority** in Congress.
+
+## Radical (Congressional) Reconstruction
+**Radical Republicans** — led by Representative **Thaddeus Stevens** and Senator **Charles Sumner** — wanted to transform the South, protect freedpeople's rights, and punish secession. Their **Military Reconstruction Act of 1867**:
+- divided the ten unreconstructed southern states into **five military districts** under Union generals;
+- required each state to write a new constitution guaranteeing **Black male suffrage**;
+- required each to ratify the **14th Amendment** before being readmitted.
+
+Congress also tried to limit Johnson. The **Tenure of Office Act (1867)** barred the president from firing cabinet officers without Senate approval. When Johnson fired Secretary of War **Edwin Stanton**, a Radical ally, the House **impeached** Johnson in **1868** — the first presidential impeachment. The Senate **acquitted** him by **one vote** short of the two-thirds needed to remove him. Johnson finished his term with little power.
+
+In **1868**, war hero **Ulysses S. Grant** won the presidency, his popular margin made possible by about 500,000 new Black voters in the South. Congress then passed the **15th Amendment** (1869; ratified **1870**): the right to vote cannot be denied "on account of **race, color, or previous condition of servitude**." It did not ban **literacy tests, poll taxes, or property requirements**, loopholes the South later exploited — and it did not include **women**.
+
+The women's movement split over the 15th Amendment. **Elizabeth Cady Stanton** and **Susan B. Anthony** opposed it for excluding women and formed the **National Woman Suffrage Association**; **Lucy Stone** and others supported it and formed the **American Woman Suffrage Association** (both 1869).
+
+!! Know the three amendments cold: **13th** = abolished slavery; **14th** = citizenship + equal protection + due process; **15th** = voting cannot be denied by race. Mnemonic: *free, citizen, vote*.
+
+## Reconstruction governments in the South
+Under the new constitutions, southern **Republican** governments came to power, supported by three groups:
+- **Freedmen**, who voted in large numbers. About **2,000** African Americans held public office; **Hiram Revels** of Mississippi became the first Black **US senator** (1870), followed by **Blanche K. Bruce**. African Americans held a majority only in the lower house of South Carolina's legislature and never controlled any state government.
+- "**Carpetbaggers**" — the insulting name for northerners who moved south (teachers, businessmen, Union veterans, Freedmen's Bureau agents).
+- "**Scalawags**" — the insulting name for white southern Republicans, often small farmers from the hill country who had opposed secession.
+
+These governments created the South's first **public school systems**, rebuilt railroads, expanded the rights of women to property, and opened hospitals and orphanages. They raised taxes and some officials were corrupt — charges that opponents exaggerated to discredit Black political power.
+
+## Freedom in everyday life
+Freedpeople acted quickly on their freedom. They traveled to **reunite families** separated by slavery and legalized marriages. They withdrew from white-controlled churches to build their own, especially the **African Methodist Episcopal (AME)** Church and Baptist congregations, which became centers of community life. They flocked to **schools** — adults and children alike.
+
+Economically, freedpeople wanted **land**; planters wanted controlled labor. Without land redistribution, most freedpeople became **sharecroppers**. A landowner provided land, a cabin, and often tools and seed; the sharecropper farmed it and gave a share of the crop (often half) as rent. Many also became **tenant farmers** who paid rent. Local merchants sold supplies on credit secured by the future crop (the **crop-lien system**), at high interest. Low cotton prices and debts trapped many Black and poor white farmers in a **cycle of debt** that tied them to the land almost like the old system.
+
+=> Freedpeople lack land; planters lack cash to pay wages | Sharecropping and the crop-lien system | Cycle of debt; continued dependence on cotton and on landowners
+
+## White resistance and the retreat from Reconstruction
+Southern Democrats who wanted to restore white supremacy called themselves "**Redeemers**." Terrorist groups — above all the **Ku Klux Klan** (founded 1866 in Tennessee) — beat and murdered Black voters, teachers, and white Republicans. Congress responded with the **Enforcement Acts (1870–1871)**, including the **Ku Klux Klan Act**, and Grant used federal troops and prosecutions to break up the Klan. But violence by other groups continued, notably the **Colfax Massacre** in Louisiana (1873), where scores of Black men were killed.
+
+Northern support for Reconstruction faded for several reasons:
+- **Scandals** in Grant's administration, such as **Crédit Mobilier** (a railroad construction company that bribed congressmen) and the **Whiskey Ring** (officials stealing liquor taxes), discredited Republican government. Reform-minded **Liberal Republicans** broke away in 1872.
+- The **Panic of 1873** began a long depression, shifting northern attention to economic problems.
+- Many northerners were **weary** of the "southern question" and shared racist assumptions.
+- The **Amnesty Act (1872)** restored the right to hold office to most former Confederates.
+- The **Supreme Court** narrowed federal protections. In the **Slaughterhouse Cases (1873)**, it read the 14th Amendment's protections narrowly. In **United States v. Cruikshank (1876)**, arising from the Colfax Massacre, it ruled that the 14th Amendment restricted the actions of **states**, not private individuals, weakening federal power to prosecute racial violence.
+
+Congress's final Reconstruction law, the **Civil Rights Act of 1875**, banned racial discrimination in public accommodations like inns and theaters, but it was weakly enforced (and struck down by the Court in 1883).
+
+One by one, Redeemer Democrats retook southern states, often through fraud and intimidation. Under the **Mississippi Plan (1875)**, armed white groups openly threatened Black voters and the federal government did not intervene.
+
+## The Compromise of 1877
+The **election of 1876** between Republican **Rutherford B. Hayes** and Democrat **Samuel Tilden** was disputed: Tilden won the popular vote, but the electoral votes of **Florida, Louisiana, and South Carolina** — the last southern states with Republican governments — were contested. A special **electoral commission** awarded all the disputed votes to Hayes. In the informal **Compromise of 1877**, southern Democrats accepted Hayes's election; in return, Hayes **withdrew the last federal troops** from the South (and Democrats expected federal aid for southern internal improvements, such as a railroad, and a southerner in the cabinet).
+
+=> Disputed 1876 election; northern retreat from Reconstruction | Compromise of 1877 | Federal troops withdrawn; Redeemer Democrats control the South; Black rights eroded through disfranchisement and segregation (Jim Crow)
+
+Reconstruction was over. Over the following decades, southern states used **poll taxes, literacy tests, and violence** to disfranchise most Black voters and imposed segregation under **Jim Crow** laws. Yet Reconstruction left a permanent legacy: the **14th and 15th Amendments** became the legal basis for the civil rights movement of the twentieth century.
+
+## Beyond the South (1865–1877)
+- **Diplomacy:** Secretary of State **William Seward** bought **Alaska** from Russia in **1867** for $7.2 million (mocked as "**Seward's Folly**"). Britain agreed in the **Treaty of Washington (1871)** to arbitrate the **Alabama claims** for damage by British-built Confederate raiders, and later paid $15.5 million.
+- **The West:** the **transcontinental railroad** was completed at **Promontory Point, Utah (1869)**, built largely by **Chinese** immigrants (Central Pacific) and **Irish** workers (Union Pacific). Conflict with Plains nations intensified: the **Sand Creek Massacre (1864)** of Cheyenne and Arapaho in Colorado, the **Fort Laramie Treaty (1868)** guaranteeing the Black Hills to the Lakota, and — after gold was found there — the Lakota and Cheyenne victory over **George Custer** at the **Little Bighorn (1876)**.
+
+@must
+- **Ten Percent Plan** (Lincoln, lenient) vs. **Wade–Davis Bill** (Congress, majority oath; pocket-vetoed).
+- **Freedmen's Bureau (1865):** food, labor contracts, and especially **schools**; no land redistribution ("forty acres and a mule" denied).
+- **Johnson's plan** → ex-Confederates elected → **Black Codes** (labor contracts, vagrancy laws).
+- **13th** (abolition, 1865) · **14th** (citizenship, equal protection, due process, 1868) · **15th** (vote not denied by race, 1870).
+- **Civil Rights Act of 1866** passed over Johnson's veto.
+- **Military Reconstruction Act (1867):** five military districts; ratify 14th; Black male suffrage.
+- **Johnson impeached (1868)** for violating the **Tenure of Office Act** (firing Stanton); acquitted by one vote.
+- **Hiram Revels** = first Black US senator; **carpetbaggers**, **scalawags**.
+- **Sharecropping** + **crop-lien system** = cycle of debt.
+- **KKK** violence → **Enforcement/KKK Acts (1870–71)**.
+- End of Reconstruction: Grant scandals, **Panic of 1873**, northern fatigue, court rulings (**Slaughterhouse**, **Cruikshank**), **Compromise of 1877** (Hayes president; troops withdrawn).
+- **Alaska purchase (1867)** = "Seward's Folly."
+
+@timeline
+1863 | Lincoln's Ten Percent Plan | P
+1864 | Wade–Davis Bill pocket-vetoed; Sand Creek Massacre | P
+*1865 | Freedmen's Bureau created; Lincoln assassinated; 13th Amendment ratified | P
+1865–1866 | Black Codes passed in southern states | S
+*1866 | Civil Rights Act passed over Johnson's veto; KKK founded | P
+*1867 | Military Reconstruction Act; Tenure of Office Act; Alaska purchased | P
+*1868 | Johnson impeached and acquitted; 14th Amendment ratified; Grant elected | P
+1869 | Transcontinental railroad completed; women's suffrage movement splits | E
+*1870 | 15th Amendment ratified; Hiram Revels enters the Senate | P
+1870–1871 | Enforcement Acts (Ku Klux Klan Act) | P
+1872 | Amnesty Act; Liberal Republican revolt; Crédit Mobilier scandal exposed | P
+*1873 | Panic of 1873; Slaughterhouse Cases; Colfax Massacre | E
+1875 | Civil Rights Act of 1875; Mississippi Plan | P
+1876 | Disputed Hayes–Tilden election; Battle of the Little Bighorn | P
+*1877 | Compromise of 1877 ends Reconstruction | P
+
+@cards
+Ten Percent Plan (1863) :: Lincoln's lenient plan: a state could rejoin once 10% of 1860 voters swore loyalty and accepted emancipation.
+Wade–Davis Bill (1864) :: Radical plan requiring a majority loyalty oath; Lincoln pocket-vetoed it.
+Freedmen's Bureau (1865) :: Federal agency aiding freed people with food, labor contracts, and schools; failed to redistribute land.
+"Forty acres and a mule" :: Freedpeople's hope for land, from Sherman's Field Order No. 15; reversed by Johnson.
+Black Codes :: Southern laws (1865–66) restricting freedpeople — labor contracts, vagrancy arrests, limits on rights.
+Civil Rights Act of 1866 :: Declared Black Americans citizens with equal legal rights; passed over Johnson's veto.
+13th Amendment (1865) :: Abolished slavery and involuntary servitude except as punishment for crime.
+14th Amendment (1868) :: Birthright citizenship; no state may deny due process or equal protection; overturned Dred Scott.
+15th Amendment (1870) :: Voting rights cannot be denied based on race, color, or previous condition of servitude.
+Radical Republicans :: Thaddeus Stevens, Charles Sumner; sought to protect freedpeople's rights and remake the South.
+Military Reconstruction Act (1867) :: Put the South under five military districts; required Black male suffrage and ratification of the 14th Amendment.
+Tenure of Office Act (1867) :: Barred the president from removing officials without Senate consent; Johnson's violation led to impeachment.
+Johnson's impeachment (1868) :: House impeached Johnson for firing Stanton; Senate acquitted by one vote.
+Carpetbaggers :: Derogatory term for northerners who moved south during Reconstruction.
+Scalawags :: Derogatory term for white southerners who supported the Republican Party.
+Hiram Revels :: Mississippi; first African American US senator (1870).
+Sharecropping :: Farming land for a share of the crop as rent; with the crop-lien system it created a cycle of debt.
+Crop-lien system :: Merchants supplied goods on credit secured by the future crop, trapping farmers in debt.
+Ku Klux Klan :: White supremacist terrorist group (1866) attacking Black voters and Republicans; targeted by the 1871 Ku Klux Klan Act.
+Redeemers :: Southern Democrats who regained control of state governments and ended Reconstruction policies.
+U.S. v. Cruikshank (1876) :: Held the 14th Amendment applies to state, not private, action; weakened federal protection of Black rights.
+Compromise of 1877 :: Democrats accepted Hayes as president; federal troops withdrawn from the South; Reconstruction ended.
+Seward's Folly (1867) :: Secretary of State Seward's purchase of Alaska from Russia for $7.2 million.
+
+@quiz
+Q P1 Which constitutional amendment granted citizenship to all persons born or naturalized in the United States?
++ The 14th Amendment || Ratified in 1868, it also guaranteed due process and equal protection, overturning Dred Scott.
+- The 13th Amendment || The 13th abolished slavery.
+- The 15th Amendment || The 15th barred racial discrimination in voting.
+- The 12th Amendment || The 12th (1804) changed electoral voting for president and vice president.
+- The 10th Amendment || The 10th reserves powers to the states.
+
+Q S2 The Black Codes passed by southern states in 1865–1866 were designed to
++ restrict the freedom of formerly enslaved people and maintain a controlled labor force || They required labor contracts and punished "vagrancy" with forced labor.
+- guarantee voting rights to freedmen || The codes denied rights; voting rights came later through Congress.
+- establish public schools for Black children || Schools were promoted by the Freedmen's Bureau and later Reconstruction governments.
+- redistribute plantation land to freedpeople || The codes protected planters' control.
+- implement the Freedmen's Bureau's programs || The codes undermined the Bureau's work.
+
+Q P2 Andrew Johnson was impeached by the House of Representatives in 1868 primarily for
++ violating the Tenure of Office Act by firing Secretary of War Edwin Stanton || The Senate acquitted him by one vote.
+- accepting bribes in the Crédit Mobilier scandal || That scandal involved members of Congress and came to light in 1872.
+- vetoing the Wade–Davis Bill || Lincoln pocket-vetoed the Wade–Davis Bill in 1864.
+- signing the Compromise of 1877 || That occurred under Hayes, nine years later.
+- refusing to sign the 13th Amendment || Presidents do not sign amendments, and Johnson supported the 13th.
+
+Q P2 Which of the following was a requirement of the Military Reconstruction Act of 1867?
++ Southern states had to ratify the 14th Amendment and guarantee Black male suffrage to rejoin the Union || The Act also divided the South into five military districts.
+- Southern states had to pay reparations to the Union || No reparations were required.
+- Ten percent of voters had to swear loyalty to the Union || That was Lincoln's 1863 plan.
+- Former Confederate states had to grant women the right to vote || Women's suffrage was not required.
+- Southern states had to redistribute plantation land to freedpeople || Congress never enacted large-scale land redistribution.
+
+Q E2 Sharecropping became common in the postwar South primarily because
++ freedpeople lacked land and planters lacked cash to pay wages || Splitting the crop met both groups' immediate needs but often led to a cycle of debt.
+- the Freedmen's Bureau gave each family forty acres of land || Most land promised to freedpeople was returned to former owners.
+- northern factories recruited most southern farm workers || Large-scale migration north came mostly later.
+- the 15th Amendment required it || The 15th Amendment concerned voting.
+- the Homestead Act gave southern land to freedpeople || The Homestead Act mainly opened western public land and did little to help freedpeople.
+
+Q P2 The Compromise of 1877 resulted in
++ the withdrawal of federal troops from the South and the end of Reconstruction || Democrats accepted Rutherford B. Hayes's election in exchange.
+- the impeachment of President Hayes || Hayes was not impeached.
+- ratification of the 15th Amendment || That was ratified in 1870.
+- the readmission of California as a free state || California entered as a free state in 1850.
+- a federal guarantee of land for freedpeople || No such guarantee was made.
+
+Q S2 Which of the following was a major accomplishment of the Freedmen's Bureau?
++ Establishing schools and colleges for freed people || Howard and Fisk universities trace their roots to this era.
+- Redistributing most southern plantation land to freedpeople || Johnson returned most confiscated land to former owners.
+- Guaranteeing Black men the right to vote || That came through the Reconstruction Acts and the 15th Amendment.
+- Ending sharecropping in the South || Sharecropping spread during Reconstruction.
+- Breaking up the Ku Klux Klan || The Enforcement Acts and federal troops targeted the Klan.
+
+Q P3 The Supreme Court's decisions in the Slaughterhouse Cases (1873) and United States v. Cruikshank (1876) contributed to the end of Reconstruction by
++ narrowly interpreting the 14th Amendment and limiting federal power to protect Black Americans' rights || Cruikshank held the amendment applied to states, not private individuals.
+- declaring the 13th Amendment unconstitutional || The Court never did so.
+- ordering federal troops to occupy the South || The Court issued no such order.
+- requiring southern states to integrate public schools || That came with Brown v. Board of Education in 1954.
+- awarding the 1876 election to Samuel Tilden || An electoral commission awarded the disputed votes to Hayes.
+
+Q S2 The 15th Amendment divided the women's rights movement because
++ it protected voting rights regardless of race but did not include women || Stanton and Anthony opposed it; Lucy Stone supported it.
+- it gave women the right to vote but not Black men || It did the opposite.
+- it outlawed the temperance movement || It concerned voting rights.
+- it was written by Susan B. Anthony || Anthony opposed it.
+- it repealed the 14th Amendment || It added to, rather than repealed, earlier amendments.
+
+Q P2 Radical Republicans differed from President Andrew Johnson in that the Radicals
++ wanted to protect the civil and political rights of freedpeople and impose stricter terms on the South || Johnson favored a lenient plan and states' rights.
+- wanted former Confederate leaders to regain power quickly || That was the effect of Johnson's pardons.
+- supported the Black Codes || Radicals were outraged by the Black Codes.
+- opposed the 14th Amendment || Radicals wrote and passed it; Johnson opposed it.
+- believed the president alone should control Reconstruction || Radicals believed Congress should control it.
+
+Q E3 Which of the following best explains why northern support for Reconstruction declined in the 1870s?
++ Economic depression after the Panic of 1873 and scandals in the Grant administration shifted northern attention and weakened Republicans || Weariness and racism also eroded support.
+- The Ku Klux Klan grew powerful in northern states || The Klan operated in the South.
+- The 15th Amendment was repealed in 1872 || It was never repealed.
+- Southern states voluntarily granted full equality to freedpeople || Redeemer governments rolled back Black rights.
+- The Freedmen's Bureau completed its land redistribution || There was no large-scale land redistribution.
+
+Q D2 The purchase of Alaska in 1867 was arranged by Secretary of State
++ William Seward || Critics mocked it as "Seward's Folly."
+- John Quincy Adams || Adams negotiated the Adams–Onís Treaty in 1819.
+- Daniel Webster || Webster negotiated the Webster–Ashburton Treaty in 1842.
+- Thomas Jefferson || Jefferson was secretary of state in the 1790s.
+- Charles Francis Adams || Adams was US minister to Britain during the Civil War.
+
+Q S3 Read the table below.
+T Year | Black officeholders at all levels (approx.)
+T 1867 | 0
+T 1872 | 1,000+
+T 1877 | Declining sharply
+T 1890 | Very few
+Which development best explains the trend shown after 1877?
++ Redeemer Democrats used violence, fraud, and later legal barriers to disfranchise Black voters || Without federal protection, Black political power collapsed.
+- The 15th Amendment was repealed by Congress || It remained in the Constitution.
+- Most African Americans moved to western territories || Most remained in the South.
+- Black voters chose to support the Democratic Party || Disfranchisement, not party switching, explains the decline.
+- The Freedmen's Bureau appointed fewer Black officials || The Bureau closed in 1872 and did not appoint elected officials.
+
+@end
