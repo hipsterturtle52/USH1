@@ -1,0 +1,186 @@
+@unit 1
+@title Native Peoples & European Exploration
+@short Natives & Exploration
+@years to 1607
+@weight 5
+
+@lesson
+## Why this unit matters
+The exam opens where American history opens: millions of people already living in the Americas, and Europeans arriving with new motives and new tools. Expect questions on **Native American diversity**, **why Europeans explored**, the **Columbian Exchange**, and how **Spain, France, and England** built very different empires. This unit is only about 5% of the exam, so focus on the big contrasts, not every explorer.
+
+## The Americas before 1492
+Before Europeans arrived, the Americas held somewhere between 50 and 100 million people (estimates vary widely). They were not one culture but hundreds, shaped by environment.
+
+- **Mesoamerica and the Andes:** the **Maya**, **Aztecs** (capital Tenochtitlán, in today's Mexico City), and **Inca** (Andes Mountains) built large empires with cities, roads, tribute systems, and advanced astronomy. **Maize (corn)** cultivation was the foundation that made large populations possible.
+- **Southwest:** the **Ancestral Puebloans** (Anasazi) and later **Pueblo** peoples farmed corn with irrigation in a dry land and built multistory adobe and cliff dwellings.
+- **Mississippi River valley:** the **Mississippian culture** built mound cities. **Cahokia** (near today's St. Louis) may have held 10,000–20,000 people around 1100 CE.
+- **Northeast woodlands:** the **Iroquois Confederacy** (Haudenosaunee) united five nations — Mohawk, Oneida, Onondaga, Cayuga, Seneca — under the Great Law of Peace. Many eastern peoples combined farming (the "Three Sisters": corn, beans, squash) with hunting. In many of these societies, women farmed and held real political influence; Iroquois clan mothers helped choose leaders.
+- **Great Plains and Great Basin:** more mobile hunting and gathering. (The horse-centered Plains culture came *later*, after Spanish horses spread north.)
+- **Pacific Northwest:** abundant salmon allowed settled villages without farming; the **potlatch** was a gift-giving ceremony that displayed status.
+
+!! The exam likes the idea that Native societies adapted to their environment, and that most Native peoples viewed land as something used in common, not owned as private property. That difference fueled centuries of conflict.
+
+## Why Europe went exploring
+Europe in the 1400s was changing fast. Historians often summarize motives as **"God, gold, and glory."**
+
+=> Ottoman control of eastern trade routes and demand for Asian spices | Search for an all-water route to Asia | Portuguese voyages around Africa and Columbus sailing west
+
+- **Gold:** Europeans wanted Asian spices, silks, and gold without paying Muslim and Italian middlemen.
+- **God:** the **Reconquista** — Spain's centuries-long campaign to drive Muslim rulers out of Iberia — ended in **1492** with the fall of Granada, leaving Spain's monarchs, **Ferdinand and Isabella**, eager to spread Catholicism. Later, the **Protestant Reformation** (begun by **Martin Luther** in **1517**) turned Catholic–Protestant rivalry into a reason to compete overseas.
+- **Glory:** new centralized **nation-states** (Portugal, Spain, France, England) could fund expeditions and wanted prestige.
+- **Tools:** the **Renaissance** spread curiosity and learning; the **printing press** spread maps and travel accounts; the **caravel** ship, the **compass**, and the **astrolabe** made long voyages possible.
+
+**Portugal** led first. **Prince Henry the Navigator** sponsored voyages down Africa's coast. **Bartolomeu Dias** rounded the Cape of Good Hope (1488) and **Vasco da Gama** reached India (1498). Portugal also began the Atlantic trade in enslaved Africans to work sugar plantations on Atlantic islands — a model later copied in the Americas.
+
+## Columbus and the Spanish empire
+**Christopher Columbus**, an Italian sailing for Spain, reached the Caribbean in **1492**, believing he was near Asia. Spain and Portugal quickly divided the non-European world in the **Treaty of Tordesillas (1494)**, which is why Brazil speaks Portuguese and most of Latin America speaks Spanish.
+
+Spanish **conquistadores** followed. **Hernán Cortés** conquered the Aztec Empire (1519–1521) and **Francisco Pizarro** the Inca (1530s). They won with small forces because of **disease** (smallpox killed huge numbers), Native allies who hated Aztec rule, steel weapons, and horses. Silver from mines like **Potosí** made Spain the richest power in Europe for a century.
+
+Spain controlled labor through the **encomienda system**, which granted colonists the labor and tribute of Native people in return for "protecting" and Christianizing them — in practice, near-slavery. The Dominican friar **Bartolomé de Las Casas** denounced these abuses in his writings. Spain's colonies became a rigid, **hierarchical society** in which Spanish-born *peninsulares* ranked above American-born *creoles*, *mestizos* (mixed Spanish and Native ancestry), Native people, and enslaved Africans. Spanish men frequently intermarried with Native women, unlike most later English colonists.
+
+In what is now the United States, Spain founded **St. Augustine, Florida (1565)** — the oldest continuously occupied European city in the US — and pushed into New Mexico under **Juan de Oñate** (1598). Catholic **missions** tried to convert Pueblo peoples while suppressing their religion and demanding labor. In the **Pueblo Revolt of 1680**, a leader named **Popé** united the Pueblos and drove the Spanish out of New Mexico for about twelve years — the most successful Native uprising against European colonization. When Spain returned, it allowed more tolerance of Pueblo customs.
+
+## The Columbian Exchange
+The **Columbian Exchange** was the transfer of plants, animals, people, and diseases between the Eastern and Western Hemispheres after 1492. It is one of the most tested ideas in this unit.
+
+- **Americas → Europe/Africa/Asia:** maize, potatoes, tomatoes, cacao, tobacco. American crops fed Europe's population growth.
+- **Europe/Africa → Americas:** horses, cattle, pigs, wheat, sugarcane, and — most important — **diseases** such as **smallpox** and measles, to which Native peoples had no immunity. Epidemics killed a large majority of the Native population in many regions.
+- **People:** Europeans and, increasingly, enslaved Africans brought to replace dying Native laborers.
+
+=> Native peoples had no immunity to Old World diseases | Smallpox and other epidemics spread ahead of colonizers | Native population collapse made conquest easier and drove demand for enslaved African labor
+
+## France and the Netherlands
+The French came for **fur, fish, and souls**, not gold. **Jacques Cartier** explored the St. Lawrence River (1530s), and **Samuel de Champlain** founded **Quebec (1608)**. New France stayed thinly populated; the French relied on **alliances and trade with Native peoples** (especially the Huron), intermarried, and sent **Jesuit missionaries** who lived among Native communities. Because they needed Native partners rather than land, the French generally had better relations with Native peoples than the English did.
+
+The Dutch, sailing with **Henry Hudson** (1609), built a fur-trading colony, **New Netherland**, with its capital **New Amsterdam** on Manhattan (more in Unit 2).
+
+## England's late start
+England was slower. **John Cabot** claimed Newfoundland for England in **1497**, but England was absorbed in religious upheaval after **Henry VIII** broke with the pope (1530s) and founded the Church of England. Under **Elizabeth I**, English "sea dogs" like **Francis Drake** raided Spanish treasure ships.
+
+The defeat of the **Spanish Armada in 1588** was a turning point: it weakened Spanish sea power and opened North America to English colonization.
+
+England's first attempt, **Roanoke** (Sir Walter Raleigh's colony, 1585–1587), failed; the 1587 colonists vanished — the "**Lost Colony**." Writers like **Richard Hakluyt** urged colonization to rival Spain, spread Protestantism, and employ England's "surplus" poor.
+
+Why did English people eventually come in large numbers? At home, the **enclosure movement** pushed farmers off land, the population grew, and inheritance by **primogeniture** (eldest son inherits) left younger sons looking for opportunity. New **joint-stock companies** let investors pool money and share risk — the tool that would fund Jamestown in 1607.
+
+=> Spanish Armada defeated; overpopulation and enclosure at home; joint-stock companies | England turns to colonization | Jamestown (1607) and the English colonies of Unit 2
+
+## Big comparisons to remember
+- **Spain:** conquest, gold and silver, missions, encomienda, intermarriage, rigid hierarchy.
+- **France:** fur trade, few settlers, Native alliances, Jesuits.
+- **England:** many settlers, farming families, took land, kept Native peoples separate — the subject of the rest of this course.
+
+@must
+- **Columbian Exchange:** crops (maize, potatoes) went east; horses, livestock, wheat, sugar, and especially **smallpox** came west — disease caused the Native population collapse.
+- Motives for exploration: **God, gold, glory** + new technology (caravel, compass, printing press) + desire for an all-water route to Asia.
+- **1492:** Columbus reaches the Caribbean; Reconquista ends. **1494 Treaty of Tordesillas** splits the world between Spain and Portugal.
+- **Encomienda system** = Spanish grant of Native labor/tribute; **Las Casas** condemned the abuses.
+- **Pueblo Revolt (1680)** led by **Popé** expelled the Spanish from New Mexico for about 12 years.
+- **French** colonization = fur trade, small population, Native alliances, Jesuit missionaries.
+- **Iroquois Confederacy** = league of five nations in the Northeast; women (clan mothers) held political influence.
+- **Spanish Armada (1588)** defeat opened the way for English colonization; **Roanoke** = the "Lost Colony."
+- **Joint-stock companies**, enclosure, and primogeniture explain *why* England colonized.
+
+@timeline
+c. 1100 | Cahokia, largest Mississippian mound city, at its peak | S
+1488 | Dias rounds the Cape of Good Hope | D
+*1492 | Columbus reaches the Caribbean; Reconquista ends | D
+1494 | Treaty of Tordesillas divides lands between Spain and Portugal | D
+1497 | John Cabot claims Newfoundland for England | D
+1517 | Luther begins the Protestant Reformation | C
+1519–1521 | Cortés conquers the Aztec Empire | D
+1534 | Henry VIII breaks with Rome; Cartier explores the St. Lawrence | C
+*1565 | St. Augustine, Florida founded by Spain | P
+1587 | Roanoke "Lost Colony" settled | S
+*1588 | English defeat the Spanish Armada | D
+1598 | Oñate colonizes New Mexico | P
+*1680 | Pueblo Revolt (Popé) drives Spain from New Mexico | S
+
+@cards
+Columbian Exchange :: Transfer of crops, animals, people, and diseases between the hemispheres after 1492 (maize and potatoes east; horses, wheat, sugar, smallpox west).
+Encomienda :: Spanish grant giving colonists the labor and tribute of Native people in exchange for "protection" and Christian instruction — near-slavery in practice.
+Bartolomé de Las Casas :: Spanish Dominican friar who condemned the cruelty of the encomienda system and Spanish treatment of Native peoples.
+Treaty of Tordesillas (1494) :: Divided newly found lands between Spain (west) and Portugal (east, including Brazil).
+Pueblo Revolt (1680) :: Uprising led by Popé that drove the Spanish out of New Mexico for about 12 years.
+Iroquois Confederacy :: Alliance of five (later six) Northeastern nations under the Great Law of Peace; clan mothers chose leaders.
+Cahokia :: Largest city of the Mississippian mound-building culture, near present-day St. Louis.
+"God, gold, and glory" :: Shorthand for European motives for exploration: spreading Christianity, wealth, and national/personal prestige.
+Spanish Armada (1588) :: Spanish fleet defeated by England; weakened Spain and opened North America to English colonization.
+Roanoke :: England's failed 1580s colony off North Carolina; the 1587 settlers disappeared ("Lost Colony").
+Joint-stock company :: Business in which investors pool money and share risk; funded early English colonies such as Jamestown.
+New France :: French colony centered on Quebec (1608); built on the fur trade, Native alliances, and Jesuit missions, with few settlers.
+Primogeniture :: Inheritance by the eldest son; left younger English sons seeking land and fortune in the colonies.
+
+@quiz
+Q S1 Which of the following best explains the dramatic decline of Native American populations after 1492?
++ Epidemic diseases such as smallpox to which Native peoples had no immunity || Disease killed far more Native people than warfare or enslavement; it often spread ahead of the Europeans themselves.
+- Large-scale warfare among Native nations over European trade goods || Intertribal war did occur, but it was not the main cause of the population collapse.
+- Mass emigration of Native peoples to Asia across the Bering Strait || There was no such reverse migration; the Bering land bridge migration happened thousands of years earlier.
+- Famine caused by the introduction of maize from Europe || Maize was native to the Americas and went the other way, to Europe.
+- A deliberate Spanish policy of extermination ordered by the Treaty of Tordesillas || The Treaty of Tordesillas divided territory between Spain and Portugal; it said nothing about extermination.
+
+Q C2 The Spanish friar Bartolomé de Las Casas is best known for
++ condemning the brutal treatment of Native peoples under Spanish rule || Las Casas wrote passionately against the abuses of the encomienda system and conquest.
+- founding the first Spanish mission in New Mexico || Missions in New Mexico followed Oñate's 1598 expedition; Las Casas worked in the Caribbean and Mexico.
+- negotiating the Treaty of Tordesillas with Portugal || The treaty was negotiated by the Spanish and Portuguese crowns with papal backing, not by Las Casas.
+- leading the conquest of the Inca Empire || That was Francisco Pizarro.
+- introducing the printing press to the Americas || Las Casas is known as a critic and writer, not for printing.
+
+Q D1 The Treaty of Tordesillas (1494) is significant because it
++ divided newly encountered lands between Spain and Portugal || The line gave Spain most of the Americas and Portugal Brazil and the route to Asia around Africa.
+- ended the Reconquista in Spain || The Reconquista ended with the fall of Granada in January 1492.
+- gave England the right to colonize North America || England was not a party and ignored the treaty.
+- established peace between France and the Iroquois || That is unrelated; the treaty predates French colonization.
+- ended the Spanish Armada's war with England || The Armada sailed in 1588, almost a century later.
+
+Q S2 Compared with English colonizers, French colonizers in North America generally
++ relied on trade and alliances with Native peoples because they had few settlers || New France's fur trade economy depended on Native partners, so the French had fewer land conflicts.
+- brought far larger numbers of farming families || The opposite: New France stayed thinly populated, while English colonies filled with families.
+- established large plantations worked by enslaved Native people || That better describes Spanish encomienda labor, not New France.
+- avoided all contact with Native religion and culture || French Jesuits lived among Native peoples precisely to convert them.
+- settled primarily in the Caribbean rather than the mainland || New France was centered on the St. Lawrence River and Great Lakes.
+
+Q P2 Which of the following was a major reason England began to colonize North America in the late 1500s and early 1600s?
++ The defeat of the Spanish Armada reduced the threat of Spanish naval power || After 1588 England could challenge Spain at sea and plant colonies more safely.
+- The Pope granted England exclusive rights to North America || England had broken with Rome; the papacy backed Spain and Portugal.
+- England had already conquered the Aztec Empire and sought more gold || The Aztecs were conquered by Spain under Cortés.
+- England's population was shrinking, leaving labor shortages at home || England's population was growing; colonization advocates talked of "surplus" people.
+- The Treaty of Tordesillas assigned North America to England || The treaty divided lands only between Spain and Portugal.
+
+Q E2 The encomienda system in Spanish America
++ gave colonists the right to demand labor and tribute from Native people || In return colonists were supposed to protect and Christianize them, but abuse was widespread.
+- distributed land equally among Native families || It was a labor grant to Spaniards, not land reform for Native people.
+- allowed Native peoples to vote for colonial governors || Spanish colonies had no elected governors for anyone.
+- was a French system of fur-trade partnerships || Encomienda was Spanish; the French relied on trade alliances.
+- required colonists to pay wages to enslaved Africans || Enslaved Africans were not paid; encomienda concerned Native labor.
+
+Q D3 Which of the following lists events in the correct chronological order?
++ Columbus's first voyage, Cortés's conquest of the Aztecs, defeat of the Spanish Armada, Pueblo Revolt || 1492, 1519–1521, 1588, 1680.
+- Defeat of the Spanish Armada, Columbus's first voyage, Pueblo Revolt, Cortés's conquest of the Aztecs || The Armada (1588) came long after Columbus (1492).
+- Cortés's conquest of the Aztecs, Columbus's first voyage, Pueblo Revolt, defeat of the Spanish Armada || Cortés could not conquer before Columbus reached the Americas.
+- Columbus's first voyage, Pueblo Revolt, Cortés's conquest of the Aztecs, defeat of the Spanish Armada || The Pueblo Revolt (1680) was the latest of the four.
+- Pueblo Revolt, defeat of the Spanish Armada, Columbus's first voyage, Cortés's conquest of the Aztecs || This reverses most of the actual order.
+
+Q S2 Which Native American society is correctly matched with a characteristic feature?
++ Iroquois Confederacy — a political alliance in which clan mothers helped choose leaders || The Haudenosaunee league of five nations gave women real political influence.
+- Pueblo peoples — nomadic buffalo hunting on horseback || Pueblos were settled farmers in the Southwest; horses came later via the Spanish.
+- Pacific Northwest peoples — large-scale maize plantations || Abundant salmon let them live in villages without farming.
+- Mississippian culture — stone cities high in the Andes Mountains || That describes the Inca; Mississippians built earthen mound cities like Cahokia.
+- Aztecs — small bands of hunter-gatherers in the Great Basin || The Aztecs ruled a large empire from Tenochtitlán in central Mexico.
+
+Q P3 The Pueblo Revolt of 1680 is significant primarily because it
++ temporarily expelled Spanish colonizers and led Spain to tolerate more Pueblo customs after it returned || It was the most successful Native revolt against colonization; Spain later eased religious suppression.
+- marked the first contact between Europeans and Native Americans in the Southwest || Coronado entered the region in 1540, and Oñate colonized it in 1598.
+- permanently ended Spanish presence in North America || Spain reconquered New Mexico in the 1690s and held Florida and other lands into the 1800s.
+- was a revolt by English settlers against the Spanish crown || It was a Native uprising led by Popé.
+- led directly to the founding of St. Augustine || St. Augustine was founded in 1565, more than a century earlier.
+
+Q C1 Which development in fifteenth-century Europe most directly helped spread knowledge of new lands and encouraged further exploration?
++ The printing press || Printed maps and travel accounts circulated widely and quickly.
+- The Protestant Reformation of 1517 || Important to later rivalries, but it came after Columbus and did not spread geographic knowledge.
+- The enclosure movement || Enclosure pushed English farmers off land; it did not spread knowledge.
+- The encomienda system || That was a Spanish colonial labor system in the Americas.
+- The Great Law of Peace || That was the founding constitution of the Iroquois Confederacy.
+
+@end

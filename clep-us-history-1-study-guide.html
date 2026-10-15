@@ -1,0 +1,744 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CLEP US History I</title>
+<meta name="description" content="Self-paced CLEP History of the United States I study guide: lessons, quizzes, flashcards, diagnostic and two timed practice exams.">
+<style>
+:root{
+  --bg:#f7f6f2; --surface:#ffffff; --surface2:#f0eee8; --text:#1d1d1b; --muted:#5f5d57; --border:#dcd9d0;
+  --accent:#1f5f8b; --accent-ink:#ffffff; --accent-soft:#e3eef6;
+  --good:#1e7a46; --good-soft:#e2f3e8; --bad:#b3261e; --bad-soft:#fbe7e5; --warn:#9a6200; --warn-soft:#fbf0d9;
+  --tP:#1f5f8b; --tS:#7a3e9d; --tE:#1e7a46; --tC:#b05a00; --tD:#a8324a;
+  --radius:10px; --shadow:0 1px 2px rgba(0,0,0,.06),0 2px 8px rgba(0,0,0,.04);
+  --sans: system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  --serif: Charter,"Bitstream Charter","Sitka Text",Cambria,Georgia,serif;
+}
+:root[data-theme="dark"]{
+  --bg:#141517; --surface:#1d1f22; --surface2:#25282c; --text:#e8e6e1; --muted:#a19e97; --border:#34373c;
+  --accent:#6fb0dc; --accent-ink:#0d1b26; --accent-soft:#1c2f3d;
+  --good:#5cc489; --good-soft:#163024; --bad:#f08b83; --bad-soft:#3a1b19; --warn:#e3b04f; --warn-soft:#382c12;
+  --tP:#6fb0dc; --tS:#c08ee0; --tE:#5cc489; --tC:#e9a050; --tD:#ec8095;
+  --shadow:none;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#141517; --surface:#1d1f22; --surface2:#25282c; --text:#e8e6e1; --muted:#a19e97; --border:#34373c;
+    --accent:#6fb0dc; --accent-ink:#0d1b26; --accent-soft:#1c2f3d;
+    --good:#5cc489; --good-soft:#163024; --bad:#f08b83; --bad-soft:#3a1b19; --warn:#e3b04f; --warn-soft:#382c12;
+    --tP:#6fb0dc; --tS:#c08ee0; --tE:#5cc489; --tC:#e9a050; --tD:#ec8095;
+    --shadow:none;
+  }
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--text);font:16px/1.55 var(--sans)}
+a{color:var(--accent)}
+button,input,select{font:inherit;color:inherit}
+h1,h2,h3{line-height:1.25;margin:0 0 .5em}
+h1{font-size:1.6rem} h2{font-size:1.25rem} h3{font-size:1.05rem}
+.app{display:flex;min-height:100vh}
+.side{width:248px;flex:none;border-right:1px solid var(--border);background:var(--surface);position:sticky;top:0;height:100vh;overflow:auto;padding:16px 12px}
+.brand{font-weight:700;font-size:1.05rem;margin:4px 8px 14px;display:flex;gap:8px;align-items:center}
+.brand small{display:block;font-weight:500;color:var(--muted);font-size:.78rem}
+.nav a{display:flex;justify-content:space-between;align-items:center;gap:8px;padding:7px 10px;border-radius:8px;color:var(--text);text-decoration:none;font-size:.94rem}
+.nav a:hover{background:var(--surface2)}
+.nav a.on{background:var(--accent-soft);color:var(--accent);font-weight:600}
+.nav .grp{font-size:.72rem;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin:14px 10px 4px}
+.nav .badge{font-size:.72rem;color:var(--muted);font-weight:500}
+.main{flex:1;min-width:0;padding:24px 28px 80px;max-width:980px}
+.top{display:none}
+@media (max-width:900px){
+  .side{position:fixed;z-index:30;left:0;top:0;transform:translateX(-105%);transition:transform .2s;box-shadow:0 0 40px rgba(0,0,0,.25)}
+  .side.open{transform:none}
+  .top{display:flex;position:sticky;top:0;z-index:20;align-items:center;gap:10px;padding:10px 16px;background:var(--surface);border-bottom:1px solid var(--border)}
+  .top .t{font-weight:700;flex:1;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .main{padding:16px 16px 80px}
+  .scrim{position:fixed;inset:0;background:rgba(0,0,0,.35);z-index:25;display:none}
+  .scrim.on{display:block}
+}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:6px;padding:9px 16px;border-radius:8px;border:1px solid var(--border);background:var(--surface);cursor:pointer;text-decoration:none;color:var(--text);font-weight:600;font-size:.94rem;min-height:40px}
+.btn:hover{border-color:var(--accent)}
+.btn.pri{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
+.btn.sm{padding:5px 10px;min-height:32px;font-size:.85rem}
+.btn.ghost{background:transparent}
+.btn:disabled{opacity:.5;cursor:not-allowed}
+.icon-btn{border:1px solid var(--border);background:var(--surface);border-radius:8px;width:38px;height:38px;cursor:pointer;display:inline-flex;align-items:center;justify-content:center}
+.row{display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.grid{display:grid;gap:14px}
+.g2{grid-template-columns:repeat(auto-fit,minmax(260px,1fr))}
+.g4{grid-template-columns:repeat(auto-fit,minmax(150px,1fr))}
+.card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:18px;box-shadow:var(--shadow)}
+.muted{color:var(--muted)} .small{font-size:.86rem} .tiny{font-size:.76rem}
+.stat .n{font-size:1.6rem;font-weight:700} .stat .l{color:var(--muted);font-size:.85rem}
+.pill{display:inline-block;padding:2px 9px;border-radius:99px;font-size:.75rem;font-weight:600;border:1px solid var(--border);color:var(--muted);white-space:nowrap}
+.pill.good{background:var(--good-soft);color:var(--good);border-color:transparent}
+.pill.bad{background:var(--bad-soft);color:var(--bad);border-color:transparent}
+.pill.warn{background:var(--warn-soft);color:var(--warn);border-color:transparent}
+.pill.acc{background:var(--accent-soft);color:var(--accent);border-color:transparent}
+.unver{background:var(--warn-soft);color:var(--warn);border-radius:4px;padding:0 5px;font-size:.75rem;font-weight:600}
+.bar{height:8px;background:var(--surface2);border-radius:99px;overflow:hidden}
+.bar>i{display:block;height:100%;background:var(--accent);border-radius:99px}
+.bar.good>i{background:var(--good)} .bar.bad>i{background:var(--bad)} .bar.warn>i{background:var(--warn)}
+table{border-collapse:collapse;width:100%;font-size:.92rem}
+th,td{text-align:left;padding:7px 8px;border-bottom:1px solid var(--border);vertical-align:top}
+th{font-size:.78rem;text-transform:uppercase;letter-spacing:.04em;color:var(--muted)}
+.tbl-wrap{overflow-x:auto}
+.unit-row{display:grid;grid-template-columns:34px 1fr auto;gap:12px;align-items:center;padding:12px 4px;border-bottom:1px solid var(--border);text-decoration:none;color:inherit}
+.unit-row:hover{background:var(--surface2)}
+.unit-num{width:34px;height:34px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:700;background:var(--surface2);font-size:.9rem}
+.unit-num.done{background:var(--good);color:#fff}
+.tabs{display:flex;gap:4px;border-bottom:1px solid var(--border);margin:14px 0 18px;overflow-x:auto}
+.tabs a{padding:9px 14px;text-decoration:none;color:var(--muted);font-weight:600;border-bottom:2px solid transparent;white-space:nowrap}
+.tabs a.on{color:var(--accent);border-color:var(--accent)}
+/* lesson */
+.lesson{font-family:var(--serif);font-size:1.08rem;line-height:1.7;max-width:70ch}
+.lesson h2{font-family:var(--sans);font-size:1.15rem;margin:1.6em 0 .5em}
+.lesson p{margin:0 0 1em}
+.lesson ul{padding-left:1.2em;margin:0 0 1em}
+.lesson strong{font-weight:700}
+.chain{display:grid;grid-template-columns:1fr auto 1fr auto 1fr;gap:6px;align-items:stretch;margin:1em 0 1.3em;font-family:var(--sans);font-size:.9rem;line-height:1.4}
+.chain>div{border:1px solid var(--border);border-radius:8px;padding:8px 10px;background:var(--surface)}
+.chain>div b{display:block;font-size:.68rem;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);margin-bottom:2px}
+.chain>div.ev{border-color:var(--accent);background:var(--accent-soft)}
+.chain>span{align-self:center;color:var(--muted)}
+@media (max-width:640px){.chain{grid-template-columns:1fr}.chain>span{transform:rotate(90deg);justify-self:center;line-height:1}}
+.tip{font-family:var(--sans);font-size:.92rem;background:var(--warn-soft);border-left:3px solid var(--warn);padding:9px 12px;border-radius:6px;margin:0 0 1em}
+.must{border:2px solid var(--accent);border-radius:var(--radius);padding:14px 18px;background:var(--accent-soft)}
+.must h3{color:var(--accent)}
+.must ol{margin:0;padding-left:1.3em}
+.must li{margin:.35em 0}
+/* timeline */
+.tl{position:relative;margin:6px 0 0;padding-left:0;list-style:none}
+.tl li{display:grid;grid-template-columns:86px 18px 1fr;gap:8px;align-items:start;padding:5px 0}
+.tl .y{font-weight:700;text-align:right;font-variant-numeric:tabular-nums;font-size:.92rem}
+.tl .dot{width:12px;height:12px;border-radius:50%;margin-top:5px;background:var(--muted);position:relative}
+.tl li:not(:last-child) .dot::after{content:"";position:absolute;left:5px;top:12px;width:2px;height:calc(100% + 26px);background:var(--border)}
+.tl .ev{font-size:.94rem}
+.tl .key .ev{font-weight:600}
+.th-P{--tc:var(--tP)} .th-S{--tc:var(--tS)} .th-E{--tc:var(--tE)} .th-C{--tc:var(--tC)} .th-D{--tc:var(--tD)}
+.tl .dot{background:var(--tc,var(--muted))}
+.ttag{display:inline-block;font-size:.66rem;font-weight:700;padding:0 5px;border-radius:4px;color:var(--tc);border:1px solid var(--tc);margin-left:6px;vertical-align:1px;font-family:var(--sans)}
+.legend{display:flex;gap:12px;flex-wrap:wrap;font-size:.8rem;color:var(--muted);margin:8px 0}
+.legend span::before{content:"";display:inline-block;width:9px;height:9px;border-radius:50%;background:var(--tc);margin-right:5px}
+/* quiz */
+.qhead{display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap;margin-bottom:10px}
+.timer{font-variant-numeric:tabular-nums;font-weight:700;font-size:1.1rem;padding:4px 10px;border-radius:8px;background:var(--surface2)}
+.timer.low{background:var(--bad-soft);color:var(--bad)}
+.qtext{font-size:1.08rem;margin:6px 0 14px}
+.qtext blockquote{margin:8px 0;padding:8px 14px;border-left:3px solid var(--border);font-family:var(--serif);color:var(--text);background:var(--surface2);border-radius:0 6px 6px 0}
+.qtext table{margin:8px 0;width:auto;min-width:60%}
+.opts{display:grid;gap:8px}
+.opt{display:grid;grid-template-columns:30px 1fr;gap:10px;text-align:left;padding:11px 12px;border:1.5px solid var(--border);border-radius:9px;background:var(--surface);cursor:pointer;width:100%;line-height:1.4}
+.opt:hover{border-color:var(--accent)}
+.opt .k{width:26px;height:26px;border-radius:6px;background:var(--surface2);display:flex;align-items:center;justify-content:center;font-weight:700;font-size:.85rem}
+.opt.sel{border-color:var(--accent);background:var(--accent-soft)}
+.opt.sel .k{background:var(--accent);color:var(--accent-ink)}
+.opt.right{border-color:var(--good);background:var(--good-soft)}
+.opt.right .k{background:var(--good);color:#fff}
+.opt.wrong{border-color:var(--bad);background:var(--bad-soft)}
+.opt.wrong .k{background:var(--bad);color:#fff}
+.opt .why{grid-column:2;font-size:.88rem;color:var(--muted);margin-top:4px}
+.opt.right .why,.opt.wrong .why{color:var(--text)}
+.opt[disabled]{cursor:default}
+.navgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(38px,1fr));gap:5px;margin-top:12px}
+.navgrid button{padding:6px 0;border-radius:6px;border:1px solid var(--border);background:var(--surface);cursor:pointer;font-size:.8rem;font-variant-numeric:tabular-nums}
+.navgrid button.a{background:var(--accent-soft);border-color:var(--accent)}
+.navgrid button.m{box-shadow:inset 0 -3px 0 var(--warn)}
+.navgrid button.cur{outline:2px solid var(--text)}
+.kbd{font:600 .75rem var(--sans);border:1px solid var(--border);border-bottom-width:2px;border-radius:5px;padding:0 5px;color:var(--muted)}
+.fb{margin-top:12px;padding:10px 14px;border-radius:8px;font-weight:600}
+.fb.good{background:var(--good-soft);color:var(--good)} .fb.bad{background:var(--bad-soft);color:var(--bad)}
+.foot{display:flex;justify-content:space-between;gap:10px;margin-top:16px;flex-wrap:wrap}
+/* flashcards */
+.fc{min-height:210px;display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;cursor:pointer;padding:28px 22px;user-select:none}
+.fc .front{font-size:1.3rem;font-weight:700}
+.fc .back{font-size:1.02rem;margin-top:14px;padding-top:14px;border-top:1px solid var(--border);max-width:60ch;font-family:var(--serif)}
+.boxes{display:flex;gap:6px}
+.boxes div{flex:1;text-align:center;background:var(--surface2);border-radius:8px;padding:6px 2px;font-size:.78rem}
+.boxes div b{display:block;font-size:1.05rem}
+/* meter */
+.meter{height:16px;border-radius:99px;background:var(--surface2);overflow:hidden;position:relative}
+.meter>i{display:block;height:100%;background:linear-gradient(90deg,var(--warn),var(--good))}
+.meter .mark{position:absolute;top:-3px;bottom:-3px;width:2px;background:var(--text);left:75%}
+.ready{font-weight:700;font-size:1.15rem}
+.banner{background:var(--warn-soft);color:var(--warn);padding:8px 14px;border-radius:8px;margin-bottom:14px;font-size:.9rem}
+.hide{display:none!important}
+input[type=number],input[type=date],select{padding:8px 10px;border:1px solid var(--border);border-radius:8px;background:var(--surface)}
+label.f{display:flex;flex-direction:column;gap:4px;font-size:.88rem;font-weight:600}
+.plan-day{border-bottom:1px solid var(--border);padding:10px 0;display:grid;grid-template-columns:120px 1fr;gap:12px}
+.plan-day.today{background:var(--accent-soft);border-radius:8px;padding:10px}
+.plan-day ul{margin:0;padding-left:1.1em}
+@media (max-width:640px){.plan-day{grid-template-columns:1fr;gap:2px}}
+/* cheat sheet */
+.cheat{font-size:.86rem;line-height:1.38}
+.cheat h2{font-size:1rem;margin:10px 0 4px;border-bottom:2px solid var(--text);padding-bottom:2px}
+.cheat table{font-size:.8rem}
+.cheat td,.cheat th{padding:3px 5px}
+.cheat .cols{columns:2 300px;column-gap:22px}
+.cheat .cols>*{break-inside:avoid}
+.cheat ul{margin:0;padding-left:1.1em}
+.cheat.recall .hidev{color:transparent;background:var(--surface2);border-radius:3px;cursor:pointer}
+.cheat.recall .hidev.show{color:inherit;background:none}
+.cheat .mt{columns:3 220px;column-gap:18px}
+.cheat .mt div{break-inside:avoid;padding:1px 0}
+.cheat .mt b{font-variant-numeric:tabular-nums;display:inline-block;min-width:3.2em}
+@media print{
+  body{background:#fff;color:#000}
+  .side,.top,.noprint,.scrim{display:none!important}
+  .main{padding:0;max-width:none}
+  .card{border:none;box-shadow:none;padding:0}
+  .cheat{font-size:7.4pt;line-height:1.25}
+  .cheat h2{font-size:8.6pt;margin:4px 0 2px}
+  .cheat table{font-size:7pt}
+  @page{size:letter;margin:.35in}
+}
+</style>
+</head>
+<body>
+<div class="app">
+  <aside class="side" id="side">
+    <div class="brand"><span aria-hidden="true">★</span><div>CLEP US History I<small>Colonization → 1877</small></div></div>
+    <nav class="nav" id="nav"></nav>
+  </aside>
+  <div class="scrim" id="scrim"></div>
+  <div style="flex:1;min-width:0">
+    <div class="top noprint">
+      <button class="icon-btn" id="menuBtn" aria-label="Menu">☰</button>
+      <div class="t" id="topTitle">CLEP US History I</div>
+      <button class="icon-btn" id="themeBtn2" aria-label="Toggle dark mode"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg></button>
+    </div>
+    <main class="main" id="main"></main>
+  </div>
+</div>
+<script>
+const DATA={"meta":{"exam":"CLEP History of the United States I: Early Colonization to 1877","format":{"questions":120,"minutes":90,"qStatus":"verified-via-search","tStatus":"verified-via-search","sStatus":"verified-via-search"},"chronological":[{"period":"1500-1789","weight":30,"status":"verified-via-search"},{"period":"1790-1877","weight":70,"status":"verified-via-search"}],"sources":[{"label":"College Board exam page (official)","url":"https://clep.collegeboard.org/exam/history-us-i"},{"label":"College Board exam page (alternate URL)","url":"https://clep.collegeboard.org/clep-exams/history-of-the-us-1"},{"label":"College Board fact sheet (PDF)","url":"https://secure-media.collegeboard.org/digitalServices/pdf/clep/history_united_states_I_fact_sheet.pdf"}],"note":"The build environment's network policy blocked direct access to collegeboard.org. Figures below were confirmed from search-engine indexed text of the official page (two independent searches agreed) and cross-checked against a university testing page (Ferris State). Status per field is given in 'status'. Re-check the official page before booking.","hours":{"diag":0.6,"unitsTotal":17,"exam":2.75,"final":2,"total":25}},"themes":{"P":{"name":"Political institutions, political developments & public policy","short":"Political","weight":25,"status":"verified-via-search"},"S":{"name":"Social developments","short":"Social","weight":25,"status":"verified-via-search"},"E":{"name":"Economic developments","short":"Economic","weight":15,"status":"verified-via-search"},"C":{"name":"Cultural & intellectual developments","short":"Cultural","weight":20,"status":"verified-via-search"},"D":{"name":"Diplomacy & transnational interactions","short":"Diplomacy","weight":15,"status":"verified-via-search"}},"units":[{"n":1,"title":"Native Peoples & European Exploration","short":"Natives & Exploration","years":"to 1607","weight":5,"lesson":"<h2>Why this unit matters<\/h2>\n<p>The exam opens where American history opens: millions of people already living in the Americas, and Europeans arriving with new motives and new tools. Expect questions on <strong>Native American diversity<\/strong>, <strong>why Europeans explored<\/strong>, the <strong>Columbian Exchange<\/strong>, and how <strong>Spain, France, and England<\/strong> built very different empires. This unit is only about 5% of the exam, so focus on the big contrasts, not every explorer.<\/p>\n<h2>The Americas before 1492<\/h2>\n<p>Before Europeans arrived, the Americas held somewhere between 50 and 100 million people (estimates vary widely). They were not one culture but hundreds, shaped by environment.<\/p>\n<ul><li><strong>Mesoamerica and the Andes:<\/strong> the <strong>Maya<\/strong>, <strong>Aztecs<\/strong> (capital Tenochtitlán, in today's Mexico City), and <strong>Inca<\/strong> (Andes Mountains) built large empires with cities, roads, tribute systems, and advanced astronomy. <strong>Maize (corn)<\/strong> cultivation was the foundation that made large populations possible.<\/li><li><strong>Southwest:<\/strong> the <strong>Ancestral Puebloans<\/strong> (Anasazi) and later <strong>Pueblo<\/strong> peoples farmed corn with irrigation in a dry land and built multistory adobe and cliff dwellings.<\/li><li><strong>Mississippi River valley:<\/strong> the <strong>Mississippian culture<\/strong> built mound cities. <strong>Cahokia<\/strong> (near today's St. Louis) may have held 10,000–20,000 people around 1100 CE.<\/li><li><strong>Northeast woodlands:<\/strong> the <strong>Iroquois Confederacy<\/strong> (Haudenosaunee) united five nations — Mohawk, Oneida, Onondaga, Cayuga, Seneca — under the Great Law of Peace. Many eastern peoples combined farming (the \"Three Sisters\": corn, beans, squash) with hunting. In many of these societies, women farmed and held real political influence; Iroquois clan mothers helped choose leaders.<\/li><li><strong>Great Plains and Great Basin:<\/strong> more mobile hunting and gathering. (The horse-centered Plains culture came <em>later<\/em>, after Spanish horses spread north.)<\/li><li><strong>Pacific Northwest:<\/strong> abundant salmon allowed settled villages without farming; the <strong>potlatch<\/strong> was a gift-giving ceremony that displayed status.<\/li><\/ul>\n<div class=\"tip\"><b>Exam tip:<\/b> The exam likes the idea that Native societies adapted to their environment, and that most Native peoples viewed land as something used in common, not owned as private property. That difference fueled centuries of conflict.<\/div>\n<h2>Why Europe went exploring<\/h2>\n<p>Europe in the 1400s was changing fast. Historians often summarize motives as <strong>\"God, gold, and glory.\"<\/strong><\/p>\n<div class=\"chain\"><div><b>Cause<\/b>Ottoman control of eastern trade routes and demand for Asian spices<\/div><span>→<\/span><div class=\"ev\"><b>Event<\/b>Search for an all-water route to Asia<\/div><span>→<\/span><div><b>Consequence<\/b>Portuguese voyages around Africa and Columbus sailing west<\/div><\/div>\n<ul><li><strong>Gold:<\/strong> Europeans wanted Asian spices, silks, and gold without paying Muslim and Italian middlemen.<\/li><li><strong>God:<\/strong> the <strong>Reconquista<\/strong> — Spain's centuries-long campaign to drive Muslim rulers out of Iberia — ended in <strong>1492<\/strong> with the fall of Granada, leaving Spain's monarchs, <strong>Ferdinand and Isabella<\/strong>, eager to spread Catholicism. Later, the <strong>Protestant Reformation<\/strong> (begun by <strong>Martin Luther<\/strong> in <strong>1517<\/strong>) turned Catholic–Protestant rivalry into a reason to compete overseas.<\/li><li><strong>Glory:<\/strong> new centralized <strong>nation-states<\/strong> (Portugal, Spain, France, England) could fund expeditions and wanted prestige.<\/li><li><strong>Tools:<\/strong> the <strong>Renaissance<\/strong> spread curiosity and learning; the <strong>printing press<\/strong> spread maps and travel accounts; the <strong>caravel<\/strong> ship, the <strong>compass<\/strong>, and the <strong>astrolabe<\/strong> made long voyages possible.<\/li><\/ul>\n<p><strong>Portugal<\/strong> led first. <strong>Prince Henry the Navigator<\/strong> sponsored voyages down Africa's coast. <strong>Bartolomeu Dias<\/strong> rounded the Cape of Good Hope (1488) and <strong>Vasco da Gama<\/strong> reached India (1498). Portugal also began the Atlantic trade in enslaved Africans to work sugar plantations on Atlantic islands — a model later copied in the Americas.<\/p>\n<h2>Columbus and the Spanish empire<\/h2>\n<p><strong>Christopher Columbus<\/strong>, an Italian sailing for Spain, reached the Caribbean in <strong>1492<\/strong>, believing he was near Asia. Spain and Portugal quickly divided the non-European world in the <strong>Treaty of Tordesillas (1494)<\/strong>, which is why Brazil speaks Portuguese and most of Latin America speaks Spanish.<\/p>\n<p>Spanish <strong>conquistadores<\/strong> followed. <strong>Hernán Cortés<\/strong> conquered the Aztec Empire (1519–1521) and <strong>Francisco Pizarro<\/strong> the Inca (1530s). They won with small forces because of <strong>disease<\/strong> (smallpox killed huge numbers), Native allies who hated Aztec rule, steel weapons, and horses. Silver from mines like <strong>Potosí<\/strong> made Spain the richest power in Europe for a century.<\/p>\n<p>Spain controlled labor through the <strong>encomienda system<\/strong>, which granted colonists the labor and tribute of Native people in return for \"protecting\" and Christianizing them — in practice, near-slavery. The Dominican friar <strong>Bartolomé de Las Casas<\/strong> denounced these abuses in his writings. Spain's colonies became a rigid, <strong>hierarchical society<\/strong> in which Spanish-born <em>peninsulares<\/em> ranked above American-born <em>creoles<\/em>, <em>mestizos<\/em> (mixed Spanish and Native ancestry), Native people, and enslaved Africans. Spanish men frequently intermarried with Native women, unlike most later English colonists.<\/p>\n<p>In what is now the United States, Spain founded <strong>St. Augustine, Florida (1565)<\/strong> — the oldest continuously occupied European city in the US — and pushed into New Mexico under <strong>Juan de Oñate<\/strong> (1598). Catholic <strong>missions<\/strong> tried to convert Pueblo peoples while suppressing their religion and demanding labor. In the <strong>Pueblo Revolt of 1680<\/strong>, a leader named <strong>Popé<\/strong> united the Pueblos and drove the Spanish out of New Mexico for about twelve years — the most successful Native uprising against European colonization. When Spain returned, it allowed more tolerance of Pueblo customs.<\/p>\n<h2>The Columbian Exchange<\/h2>\n<p>The <strong>Columbian Exchange<\/strong> was the transfer of plants, animals, people, and diseases between the Eastern and Western Hemispheres after 1492. It is one of the most tested ideas in this unit.<\/p>\n<ul><li><strong>Americas → Europe/Africa/Asia:<\/strong> maize, potatoes, tomatoes, cacao, tobacco. American crops fed Europe's population growth.<\/li><li><strong>Europe/Africa → Americas:<\/strong> horses, cattle, pigs, wheat, sugarcane, and — most important — <strong>diseases<\/strong> such as <strong>smallpox<\/strong> and measles, to which Native peoples had no immunity. Epidemics killed a large majority of the Native population in many regions.<\/li><li><strong>People:<\/strong> Europeans and, increasingly, enslaved Africans brought to replace dying Native laborers.<\/li><\/ul>\n<div class=\"chain\"><div><b>Cause<\/b>Native peoples had no immunity to Old World diseases<\/div><span>→<\/span><div class=\"ev\"><b>Event<\/b>Smallpox and other epidemics spread ahead of colonizers<\/div><span>→<\/span><div><b>Consequence<\/b>Native population collapse made conquest easier and drove demand for enslaved African labor<\/div><\/div>\n<h2>France and the Netherlands<\/h2>\n<p>The French came for <strong>fur, fish, and souls<\/strong>, not gold. <strong>Jacques Cartier<\/strong> explored the St. Lawrence River (1530s), and <strong>Samuel de Champlain<\/strong> founded <strong>Quebec (1608)<\/strong>. New France stayed thinly populated; the French relied on <strong>alliances and trade with Native peoples<\/strong> (especially the Huron), intermarried, and sent <strong>Jesuit missionaries<\/strong> who lived among Native communities. Because they needed Native partners rather than land, the French generally had better relations with Native peoples than the English did.<\/p>\n<p>The Dutch, sailing with <strong>Henry Hudson<\/strong> (1609), built a fur-trading colony, <strong>New Netherland<\/strong>, with its capital <strong>New Amsterdam<\/strong> on Manhattan (more in Unit 2).<\/p>\n<h2>England's late start<\/h2>\n<p>England was slower. <strong>John Cabot<\/strong> claimed Newfoundland for England in <strong>1497<\/strong>, but England was absorbed in religious upheaval after <strong>Henry VIII<\/strong> broke with the pope (1530s) and founded the Church of England. Under <strong>Elizabeth I<\/strong>, English \"sea dogs\" like <strong>Francis Drake<\/strong> raided Spanish treasure ships.<\/p>\n<p>The defeat of the <strong>Spanish Armada in 1588<\/strong> was a turning point: it weakened Spanish sea power and opened North America to English colonization.<\/p>\n<p>England's first attempt, <strong>Roanoke<\/strong> (Sir Walter Raleigh's colony, 1585–1587), failed; the 1587 colonists vanished — the \"<strong>Lost Colony<\/strong>.\" Writers like <strong>Richard Hakluyt<\/strong> urged colonization to rival Spain, spread Protestantism, and employ England's \"surplus\" poor.<\/p>\n<p>Why did English people eventually come in large numbers? At home, the <strong>enclosure movement<\/strong> pushed farmers off land, the population grew, and inheritance by <strong>primogeniture<\/strong> (eldest son inherits) left younger sons looking for opportunity. New <strong>joint-stock companies<\/strong> let investors pool money and share risk — the tool that would fund Jamestown in 1607.<\/p>\n<div class=\"chain\"><div><b>Cause<\/b>Spanish Armada defeated; overpopulation and enclosure at home; joint-stock companies<\/div><span>→<\/span><div class=\"ev\"><b>Event<\/b>England turns to colonization<\/div><span>→<\/span><div><b>Consequence<\/b>Jamestown (1607) and the English colonies of Unit 2<\/div><\/div>\n<h2>Big comparisons to remember<\/h2>\n<ul><li><strong>Spain:<\/strong> conquest, gold and silver, missions, encomienda, intermarriage, rigid hierarchy.<\/li><li><strong>France:<\/strong> fur trade, few settlers, Native alliances, Jesuits.<\/li><li><strong>England:<\/strong> many settlers, farming families, took land, kept Native peoples separate — the subject of the rest of this course.<\/li><\/ul>","words":1507,"minutes":10,"must":["<strong>Columbian Exchange:<\/strong> crops (maize, potatoes) went east; horses, livestock, wheat, sugar, and especially <strong>smallpox<\/strong> came west — disease caused the Native population collapse.","Motives for exploration: <strong>God, gold, glory<\/strong> + new technology (caravel, compass, printing press) + desire for an all-water route to Asia.","<strong>1492:<\/strong> Columbus reaches the Caribbean; Reconquista ends. <strong>1494 Treaty of Tordesillas<\/strong> splits the world between Spain and Portugal.","<strong>Encomienda system<\/strong> = Spanish grant of Native labor/tribute; <strong>Las Casas<\/strong> condemned the abuses.","<strong>Pueblo Revolt (1680)<\/strong> led by <strong>Popé<\/strong> expelled the Spanish from New Mexico for about 12 years.","<strong>French<\/strong> colonization = fur trade, small population, Native alliances, Jesuit missionaries.","<strong>Iroquois Confederacy<\/strong> = league of five nations in the Northeast; women (clan mothers) held political influence.","<strong>Spanish Armada (1588)<\/strong> defeat opened the way for English colonization; <strong>Roanoke<\/strong> = the \"Lost Colony.\"","<strong>Joint-stock companies<\/strong>, enclosure, and primogeniture explain <em>why<\/em> England colonized."],"timeline":[{"y":"c. 1100","e":"Cahokia, largest Mississippian mound city, at its peak","th":"S","key":false},{"y":"1488","e":"Dias rounds the Cape of Good Hope","th":"D","key":false},{"y":"1492","e":"Columbus reaches the Caribbean; Reconquista ends","th":"D","key":true},{"y":"1494","e":"Treaty of Tordesillas divides lands between Spain and Portugal","th":"D","key":false},{"y":"1497","e":"John Cabot claims Newfoundland for England","th":"D","key":false},{"y":"1517","e":"Luther begins the Protestant Reformation","th":"C","key":false},{"y":"1519–1521","e":"Cortés conquers the Aztec Empire","th":"D","key":false},{"y":"1534","e":"Henry VIII breaks with Rome; Cartier explores the St. Lawrence","th":"C","key":false},{"y":"1565","e":"St. Augustine, Florida founded by Spain","th":"P","key":true},{"y":"1587","e":"Roanoke \"Lost Colony\" settled","th":"S","key":false},{"y":"1588","e":"English defeat the Spanish Armada","th":"D","key":true},{"y":"1598","e":"Oñate colonizes New Mexico","th":"P","key":false},{"y":"1680","e":"Pueblo Revolt (Popé) drives Spain from New Mexico","th":"S","key":true}],"cards":[{"id":"c1-1","u":1,"f":"Columbian Exchange","b":"Transfer of crops, animals, people, and diseases between the hemispheres after 1492 (maize and potatoes east; horses, wheat, sugar, smallpox west)."},{"id":"c1-2","u":1,"f":"Encomienda","b":"Spanish grant giving colonists the labor and tribute of Native people in exchange for \"protection\" and Christian instruction — near-slavery in practice."},{"id":"c1-3","u":1,"f":"Bartolomé de Las Casas","b":"Spanish Dominican friar who condemned the cruelty of the encomienda system and Spanish treatment of Native peoples."},{"id":"c1-4","u":1,"f":"Treaty of Tordesillas (1494)","b":"Divided newly found lands between Spain (west) and Portugal (east, including Brazil)."},{"id":"c1-5","u":1,"f":"Pueblo Revolt (1680)","b":"Uprising led by Popé that drove the Spanish out of New Mexico for about 12 years."},{"id":"c1-6","u":1,"f":"Iroquois Confederacy","b":"Alliance of five (later six) Northeastern nations under the Great Law of Peace; clan mothers chose leaders."},{"id":"c1-7","u":1,"f":"Cahokia","b":"Largest city of the Mississippian mound-building culture, near present-day St. Louis."},{"id":"c1-8","u":1,"f":"\"God, gold, and glory\"","b":"Shorthand for European motives for exploration: spreading Christianity, wealth, and national/personal prestige."},{"id":"c1-9","u":1,"f":"Spanish Armada (1588)","b":"Spanish fleet defeated by England; weakened Spain and opened North America to English colonization."},{"id":"c1-10","u":1,"f":"Roanoke","b":"England's failed 1580s colony off North Carolina; the 1587 settlers disappeared (\"Lost Colony\")."},{"id":"c1-11","u":1,"f":"Joint-stock company","b":"Business in which investors pool money and share risk; funded early English colonies such as Jamestown."},{"id":"c1-12","u":1,"f":"New France","b":"French colony centered on Quebec (1608); built on the fur trade, Native alliances, and Jesuit missions, with few settlers."},{"id":"c1-13","u":1,"f":"Primogeniture","b":"Inheritance by the eldest son; left younger English sons seeking land and fortune in the colonies."}],"quiz":["q1-1","q1-2","q1-3","q1-4","q1-5","q1-6","q1-7","q1-8","q1-9","q1-10"]}],"Q":{"q1-1":{"id":"q1-1","u":1,"t":"S","d":1,"q":"Which of the following best explains the dramatic decline of Native American populations after 1492?","o":["Large-scale warfare among Native nations over European trade goods","Mass emigration of Native peoples to Asia across the Bering Strait","A deliberate Spanish policy of extermination ordered by the Treaty of Tordesillas","Epidemic diseases such as smallpox to which Native peoples had no immunity","Famine caused by the introduction of maize from Europe"],"e":["Intertribal war did occur, but it was not the main cause of the population collapse.","There was no such reverse migration; the Bering land bridge migration happened thousands of years earlier.","The Treaty of Tordesillas divided territory between Spain and Portugal; it said nothing about extermination.","Disease killed far more Native people than warfare or enslavement; it often spread ahead of the Europeans themselves.","Maize was native to the Americas and went the other way, to Europe."],"a":3},"q1-2":{"id":"q1-2","u":1,"t":"C","d":2,"q":"The Spanish friar Bartolomé de Las Casas is best known for","o":["condemning the brutal treatment of Native peoples under Spanish rule","leading the conquest of the Inca Empire","negotiating the Treaty of Tordesillas with Portugal","founding the first Spanish mission in New Mexico","introducing the printing press to the Americas"],"e":["Las Casas wrote passionately against the abuses of the encomienda system and conquest.","That was Francisco Pizarro.","The treaty was negotiated by the Spanish and Portuguese crowns with papal backing, not by Las Casas.","Missions in New Mexico followed Oñate's 1598 expedition; Las Casas worked in the Caribbean and Mexico.","Las Casas is known as a critic and writer, not for printing."],"a":0},"q1-3":{"id":"q1-3","u":1,"t":"D","d":1,"q":"The Treaty of Tordesillas (1494) is significant because it","o":["gave England the right to colonize North America","ended the Spanish Armada's war with England","established peace between France and the Iroquois","divided newly encountered lands between Spain and Portugal","ended the Reconquista in Spain"],"e":["England was not a party and ignored the treaty.","The Armada sailed in 1588, almost a century later.","That is unrelated; the treaty predates French colonization.","The line gave Spain most of the Americas and Portugal Brazil and the route to Asia around Africa.","The Reconquista ended with the fall of Granada in January 1492."],"a":3},"q1-4":{"id":"q1-4","u":1,"t":"S","d":2,"q":"Compared with English colonizers, French colonizers in North America generally","o":["brought far larger numbers of farming families","relied on trade and alliances with Native peoples because they had few settlers","avoided all contact with Native religion and culture","settled primarily in the Caribbean rather than the mainland","established large plantations worked by enslaved Native people"],"e":["The opposite: New France stayed thinly populated, while English colonies filled with families.","New France's fur trade economy depended on Native partners, so the French had fewer land conflicts.","French Jesuits lived among Native peoples precisely to convert them.","New France was centered on the St. Lawrence River and Great Lakes.","That better describes Spanish encomienda labor, not New France."],"a":1},"q1-5":{"id":"q1-5","u":1,"t":"P","d":2,"q":"Which of the following was a major reason England began to colonize North America in the late 1500s and early 1600s?","o":["England's population was shrinking, leaving labor shortages at home","The Pope granted England exclusive rights to North America","The defeat of the Spanish Armada reduced the threat of Spanish naval power","England had already conquered the Aztec Empire and sought more gold","The Treaty of Tordesillas assigned North America to England"],"e":["England's population was growing; colonization advocates talked of \"surplus\" people.","England had broken with Rome; the papacy backed Spain and Portugal.","After 1588 England could challenge Spain at sea and plant colonies more safely.","The Aztecs were conquered by Spain under Cortés.","The treaty divided lands only between Spain and Portugal."],"a":2},"q1-6":{"id":"q1-6","u":1,"t":"E","d":2,"q":"The encomienda system in Spanish America","o":["was a French system of fur-trade partnerships","required colonists to pay wages to enslaved Africans","allowed Native peoples to vote for colonial governors","distributed land equally among Native families","gave colonists the right to demand labor and tribute from Native people"],"e":["Encomienda was Spanish; the French relied on trade alliances.","Enslaved Africans were not paid; encomienda concerned Native labor.","Spanish colonies had no elected governors for anyone.","It was a labor grant to Spaniards, not land reform for Native people.","In return colonists were supposed to protect and Christianize them, but abuse was widespread."],"a":4},"q1-7":{"id":"q1-7","u":1,"t":"D","d":3,"q":"Which of the following lists events in the correct chronological order?","o":["Defeat of the Spanish Armada, Columbus's first voyage, Pueblo Revolt, Cortés's conquest of the Aztecs","Columbus's first voyage, Cortés's conquest of the Aztecs, defeat of the Spanish Armada, Pueblo Revolt","Pueblo Revolt, defeat of the Spanish Armada, Columbus's first voyage, Cortés's conquest of the Aztecs","Cortés's conquest of the Aztecs, Columbus's first voyage, Pueblo Revolt, defeat of the Spanish Armada","Columbus's first voyage, Pueblo Revolt, Cortés's conquest of the Aztecs, defeat of the Spanish Armada"],"e":["The Armada (1588) came long after Columbus (1492).","1492, 1519–1521, 1588, 1680.","This reverses most of the actual order.","Cortés could not conquer before Columbus reached the Americas.","The Pueblo Revolt (1680) was the latest of the four."],"a":1},"q1-8":{"id":"q1-8","u":1,"t":"S","d":2,"q":"Which Native American society is correctly matched with a characteristic feature?","o":["Pacific Northwest peoples — large-scale maize plantations","Aztecs — small bands of hunter-gatherers in the Great Basin","Mississippian culture — stone cities high in the Andes Mountains","Pueblo peoples — nomadic buffalo hunting on horseback","Iroquois Confederacy — a political alliance in which clan mothers helped choose leaders"],"e":["Abundant salmon let them live in villages without farming.","The Aztecs ruled a large empire from Tenochtitlán in central Mexico.","That describes the Inca; Mississippians built earthen mound cities like Cahokia.","Pueblos were settled farmers in the Southwest; horses came later via the Spanish.","The Haudenosaunee league of five nations gave women real political influence."],"a":4},"q1-9":{"id":"q1-9","u":1,"t":"P","d":3,"q":"The Pueblo Revolt of 1680 is significant primarily because it","o":["temporarily expelled Spanish colonizers and led Spain to tolerate more Pueblo customs after it returned","permanently ended Spanish presence in North America","marked the first contact between Europeans and Native Americans in the Southwest","was a revolt by English settlers against the Spanish crown","led directly to the founding of St. Augustine"],"e":["It was the most successful Native revolt against colonization; Spain later eased religious suppression.","Spain reconquered New Mexico in the 1690s and held Florida and other lands into the 1800s.","Coronado entered the region in 1540, and Oñate colonized it in 1598.","It was a Native uprising led by Popé.","St. Augustine was founded in 1565, more than a century earlier."],"a":0},"q1-10":{"id":"q1-10","u":1,"t":"C","d":1,"q":"Which development in fifteenth-century Europe most directly helped spread knowledge of new lands and encouraged further exploration?","o":["The Protestant Reformation of 1517","The encomienda system","The printing press","The enclosure movement","The Great Law of Peace"],"e":["Important to later rivalries, but it came after Columbus and did not spread geographic knowledge.","That was a Spanish colonial labor system in the Americas.","Printed maps and travel accounts circulated widely and quickly.","Enclosure pushed English farmers off land; it did not spread knowledge.","That was the founding constitution of the Iroquois Confederacy."],"a":2}},"diag":[],"exams":[[],[]],"cheat":"<p>Cheat sheet coming soon.<\/p>"};
+</script>
+<script>
+'use strict';
+const $=(s,r=document)=>r.querySelector(s), $$=(s,r=document)=>[...r.querySelectorAll(s)];
+const esc=s=>String(s==null?'':s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const pct=(c,t)=>t?Math.round(100*c/t):0;
+const U=DATA.units, Q=DATA.Q, TH=DATA.themes;
+const KEY='clep-ush1-v1';
+const LETTERS='ABCDE';
+const dayNum=d=>Math.floor((d.getTime()-d.getTimezoneOffset()*6e4)/864e5);
+const TODAY=()=>dayNum(new Date());
+const fmtDay=n=>new Date(n*864e5+new Date(n*864e5).getTimezoneOffset()*6e4).toLocaleDateString(undefined,{weekday:'short',month:'short',day:'numeric'});
+let storageOK=true;
+
+/* ---------- state ---------- */
+function defState(){return {v:1,theme:null,read:{},quiz:{},diag:null,cards:{},mis:{},misCleared:0,exams:{},run:null,plan:null}}
+function load(){
+  try{const r=localStorage.getItem(KEY); if(r){const o=JSON.parse(r); if(o&&typeof o==='object') return Object.assign(defState(),o);}}
+  catch(e){storageOK=false}
+  return defState();
+}
+let S=load();
+function save(){
+  try{localStorage.setItem(KEY,JSON.stringify(S)); storageOK=true}
+  catch(e){storageOK=false}
+}
+
+/* ---------- theme ---------- */
+function applyTheme(){ if(S.theme) document.documentElement.setAttribute('data-theme',S.theme); else document.documentElement.removeAttribute('data-theme'); }
+function toggleTheme(){
+  const cur=S.theme||(matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light');
+  S.theme=cur==='dark'?'light':'dark'; save(); applyTheme();
+}
+applyTheme();
+
+/* ---------- derived progress ---------- */
+const unitCards=u=>U[u-1].cards;
+const allCards=()=>U.flatMap(u=>u.cards);
+function cardStats(cards){
+  let n=0,learned=0,mastered=0;
+  for(const c of cards){const s=S.cards[c.id]; if(s){n++; if(s.b>=3)learned++; if(s.b>=4)mastered++;}}
+  return {seen:n,learned,mastered,total:cards.length};
+}
+function unitDone(u){return !!S.read[u] && !!S.quiz[u]}
+function unitHours(u){return DATA.meta.hours.unitsTotal*U[u-1].weight/100}
+function unitProgress(u){
+  const cs=cardStats(unitCards(u));
+  return (S.read[u]?0.45:0)+(S.quiz[u]?0.3:0)+0.25*(cs.total?cs.learned/cs.total:0);
+}
+function hoursLeft(){
+  const H=DATA.meta.hours; let h=0;
+  if(!S.diag) h+=H.diag;
+  for(const u of U) h+=unitHours(u.n)*(1-unitProgress(u.n))*diagFactor(u.n);
+  for(const k of [1,2]) if(!S.exams[k]) h+=H.exam;
+  h+=H.final*(Object.keys(S.exams).length>=2?0:1);
+  return Math.max(0,h);
+}
+function diagLabel(u){
+  if(!S.diag) return null; const r=S.diag.byUnit[u]; if(!r||!r[1]) return null;
+  const p=r[0]/r[1]; return p===1?'skim':p>=.5?'study':'must';
+}
+function diagFactor(u){const l=diagLabel(u); return l==='skim'?.55:l==='must'?1.15:1}
+function quizAvg(){const v=Object.values(S.quiz).map(q=>q.best); return v.length?Math.round(v.reduce((a,b)=>a+b,0)/v.length):null}
+function readiness(){
+  const done=U.filter(u=>unitDone(u.n)).length/U.length;
+  const qa=(quizAvg()||0)/100, e1=S.exams[1]?S.exams[1].score/100:0, e2=S.exams[2]?S.exams[2].score/100:0;
+  const score=Math.round(100*(0.3*done+0.2*qa+0.25*e1+0.25*e2));
+  const ready=!!(S.exams[1]&&S.exams[2]&&S.exams[1].score>=75&&S.exams[2].score>=75);
+  return {score,ready,done,qa,e1,e2};
+}
+
+/* ---------- nav ---------- */
+function navHTML(route){
+  const misN=Object.keys(S.mis).length, due=dueCards(allCards()).length;
+  const L=(h,t,b='')=>`<a href="${h}" class="${route===h?'on':''}"><span>${t}</span><span class="badge">${b}</span></a>`;
+  let h=L('#home','Dashboard')+L('#diag','Diagnostic test',S.diag?S.diag.score+'%':'start')+'<div class="grp">Units</div>';
+  for(const u of U) h+=L('#unit/'+u.n,`${u.n}. ${esc(u.short)}`,unitDone(u.n)?'✓':u.weight+'%');
+  h+='<div class="grp">Practice</div>'+L('#cards','Flashcards',due?due+' due':'')+L('#mistakes','Mistake log',misN||'')
+    +L('#exam/1','Practice exam A',S.exams[1]?S.exams[1].score+'%':'')+L('#exam/2','Practice exam B',S.exams[2]?S.exams[2].score+'%':'')
+    +'<div class="grp">Tools</div>'+L('#cheat','Cheat sheet')+L('#plan','Study plan')+L('#about','About & data')
+    +`<div class="grp"></div><a href="#" id="themeBtn"><span>Toggle dark mode</span><span class="badge"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg></span></a>`;
+  return h;
+}
+function setNav(route){
+  $('#nav').innerHTML=navHTML(route);
+  $('#themeBtn').onclick=e=>{e.preventDefault();toggleTheme()};
+}
+
+/* ---------- router ---------- */
+let RUN=null, timerInt=null;
+function route(){
+  clearInterval(timerInt); timerInt=null;
+  const h=location.hash||'#home'; const p=h.slice(1).split('/');
+  closeMenu();
+  const main=$('#main'); let title='CLEP US History I';
+  let html='';
+  if(!storageOK) html+='<div class="banner">Browser storage is blocked, so progress will not be saved after you close this tab. Use <a href="#about">Export progress</a> to keep a copy.</div>';
+  main.innerHTML=html+'<div id="view"></div>';
+  const v=$('#view');
+  switch(p[0]){
+    case 'unit': {const n=+p[1]; if(U[n-1]){title=`Unit ${n}`; viewUnit(v,n,p[2]||'lesson');} else viewHome(v); break;}
+    case 'diag': title='Diagnostic'; viewDiag(v); break;
+    case 'exam': title='Practice exam '+(p[1]==='2'?'B':'A'); viewExam(v,p[1]==='2'?2:1); break;
+    case 'cards': title='Flashcards'; viewCards(v,0); break;
+    case 'mistakes': title='Mistake log'; viewMistakes(v); break;
+    case 'cheat': title='Cheat sheet'; viewCheat(v); break;
+    case 'plan': title='Study plan'; viewPlan(v); break;
+    case 'about': title='About & data'; viewAbout(v); break;
+    default: viewHome(v);
+  }
+  $('#topTitle').textContent=title;
+  setNav('#'+p.slice(0,p[0]==='unit'?2:p[0]==='exam'?2:1).join('/'));
+  window.scrollTo(0,0);
+}
+window.addEventListener('hashchange',route);
+function openMenu(){$('#side').classList.add('open');$('#scrim').classList.add('on')}
+function closeMenu(){$('#side').classList.remove('open');$('#scrim').classList.remove('on')}
+$('#menuBtn').onclick=openMenu; $('#scrim').onclick=closeMenu; $('#themeBtn2').onclick=toggleTheme;
+
+/* ---------- home ---------- */
+function meterHTML(){
+  const r=readiness();
+  const e=k=>S.exams[k]?`<span class="pill ${S.exams[k].score>=75?'good':'bad'}">Exam ${k===1?'A':'B'}: ${S.exams[k].score}%</span>`:`<span class="pill">Exam ${k===1?'A':'B'}: not taken</span>`;
+  return `<div class="card"><div class="row" style="justify-content:space-between"><h2 style="margin:0">Readiness</h2>
+  <span class="ready" style="color:${r.ready?'var(--good)':'var(--warn)'}">${r.ready?'✓ Ready to book':'Not ready yet'}</span></div>
+  <div class="meter" style="margin:12px 0 6px" title="Overall readiness ${r.score}%"><i style="width:${r.score}%"></i><span class="mark"></span></div>
+  <div class="row small muted" style="justify-content:space-between"><span>Overall ${r.score}%</span><span>Rule: both practice exams ≥ 75%</span></div>
+  <div class="row" style="margin-top:10px">${e(1)}${e(2)}<span class="pill">Units done: ${U.filter(u=>unitDone(u.n)).length}/${U.length}</span><span class="pill">Quiz avg: ${quizAvg()==null?'—':quizAvg()+'%'}</span></div></div>`;
+}
+function nextStep(){
+  if(S.run) return {t:`Resume your ${S.run.kind==='exam'?'practice exam (timer is running)':'diagnostic'}`,h:S.run.kind==='exam'?'#exam/'+S.run.key:'#diag'};
+  if(!S.diag) return {t:'Take the 30-question diagnostic (≈25 min) to find what you can skim',h:'#diag'};
+  const order=[...U].sort((a,b)=>a.n-b.n);
+  for(const u of order){ if(!S.read[u.n]) return {t:`Read Unit ${u.n}: ${u.title}`+(diagLabel(u.n)==='skim'?' (skim it)':''),h:'#unit/'+u.n}; if(!S.quiz[u.n]) return {t:`Take the Unit ${u.n} quiz`,h:'#unit/'+u.n+'/quiz'}; }
+  if(dueCards(allCards()).length>20) return {t:'Clear your due flashcards',h:'#cards'};
+  if(!S.exams[1]) return {t:'Take Practice exam A (120 Q, 90 min, no pausing)',h:'#exam/1'};
+  if(Object.keys(S.mis).length) return {t:`Drill your mistake log (${Object.keys(S.mis).length} questions)`,h:'#mistakes'};
+  if(!S.exams[2]) return {t:'Take Practice exam B',h:'#exam/2'};
+  return {t:'Redraw the cheat sheet from memory, then book the exam',h:'#cheat'};
+}
+function viewHome(v){
+  const ns=nextStep(), cs=cardStats(allCards()), due=dueCards(allCards()).length;
+  let rows='';
+  for(const u of U){
+    const q=S.quiz[u.n], dl=diagLabel(u.n);
+    const dlp=dl?`<span class="pill ${dl==='skim'?'good':dl==='must'?'bad':'warn'}">${dl==='skim'?'Skim':dl==='must'?'Must study':'Study'}</span>`:'';
+    rows+=`<a class="unit-row" href="#unit/${u.n}"><div class="unit-num ${unitDone(u.n)?'done':''}">${unitDone(u.n)?'✓':u.n}</div>
+    <div><div style="font-weight:600">${esc(u.title)}</div><div class="small muted">${esc(u.years)} · ${u.weight}% of exam · ${S.read[u.n]?'lesson read':'lesson not read'} · ${q?'quiz best '+q.best+'%':'quiz not taken'}</div>
+    <div class="bar" style="margin-top:6px;max-width:260px"><i style="width:${Math.round(100*unitProgress(u.n))}%"></i></div></div>
+    <div>${dlp}</div></a>`;
+  }
+  const todays=planToday();
+  v.innerHTML=`<h1>Your path to a pass</h1>
+  <p class="muted" style="margin-top:-4px">${DATA.meta.format.questions} questions · ${DATA.meta.format.minutes} minutes · ${U.length} units weighted by the official outline.</p>
+  <div class="card" style="border-color:var(--accent);margin-bottom:14px"><div class="small muted">Next step</div>
+   <div class="row" style="justify-content:space-between"><div style="font-weight:700;font-size:1.05rem">${esc(ns.t)}</div><a class="btn pri" href="${ns.h}">Go →</a></div></div>
+  ${todays}
+  <div class="grid g2" style="margin-bottom:14px">${meterHTML()}
+   <div class="card"><h2>Progress</h2><div class="grid g4" style="grid-template-columns:repeat(2,1fr)">
+   <div class="stat"><div class="n">${hoursLeft().toFixed(1)}h</div><div class="l">estimated study left</div></div>
+   <div class="stat"><div class="n">${U.filter(u=>unitDone(u.n)).length}/${U.length}</div><div class="l">units complete</div></div>
+   <div class="stat"><div class="n">${cs.mastered}/${cs.total}</div><div class="l">cards mastered (box 4–5)</div></div>
+   <div class="stat"><div class="n">${Object.keys(S.mis).length}</div><div class="l">questions in mistake log</div></div>
+   </div><div class="row" style="margin-top:12px"><a class="btn sm" href="#cards">Review ${due} due cards</a><a class="btn sm" href="#mistakes">Drill mistakes</a></div></div></div>
+  <div class="card"><h2>Learning path</h2><p class="small muted" style="margin-top:-4px">A unit is complete when its lesson is marked read and its quiz is taken.${S.diag?' Badges come from your diagnostic.':''}</p>${rows}</div>`;
+}
+
+/* ---------- unit ---------- */
+function timelineHTML(items){
+  return `<div class="legend">${Object.entries(TH).map(([k,n])=>`<span class="th-${k}">${esc(n.short)}</span>`).join('')}</div>
+  <ol class="tl">${items.map(t=>`<li class="th-${t.th} ${t.key?'key':''}"><span class="y">${esc(t.y)}</span><span class="dot"></span><span class="ev">${t.e}<span class="ttag">${t.th}</span></span></li>`).join('')}</ol>`;
+}
+function viewUnit(v,n,tab){
+  const u=U[n-1], q=S.quiz[n], dl=diagLabel(n);
+  const tabs=['lesson','quiz','cards'].map(t=>`<a href="#unit/${n}/${t}" class="${tab===t?'on':''}">${t==='lesson'?'Lesson':t==='quiz'?'Quiz'+(q?' · '+q.best+'%':''):'Flashcards'}</a>`).join('');
+  v.innerHTML=`<div class="small muted">Unit ${n} of ${U.length} · ${esc(u.years)} · ${u.weight}% of exam ${dl?`· diagnostic says <b>${dl==='skim'?'skim':dl==='must'?'must study':'study'}</b>`:''}</div>
+  <h1>${esc(u.title)}</h1><div class="tabs">${tabs}</div><div id="ut"></div>`;
+  const t=$('#ut');
+  if(tab==='quiz') return unitQuizIntro(t,n);
+  if(tab==='cards') return viewCards(t,n);
+  t.innerHTML=`<div class="row small muted" style="margin-bottom:12px">≈ ${u.minutes} min read · <a href="#must">Must know</a> · <a href="#tl">Timeline</a></div>
+  <article class="lesson">${u.lesson}</article>
+  <div class="must" id="must" style="margin:22px 0"><h3>Must know — most likely to be tested</h3><ol>${u.must.map(m=>`<li>${m}</li>`).join('')}</ol></div>
+  <div class="card" id="tl"><h2>Timeline</h2>${timelineHTML(u.timeline)}</div>
+  <div class="row" style="margin-top:18px"><button class="btn ${S.read[n]?'':'pri'}" id="markRead">${S.read[n]?'✓ Marked as read':'Mark lesson as read'}</button><a class="btn" href="#unit/${n}/quiz">Take the quiz →</a><a class="btn" href="#unit/${n}/cards">Flashcards</a></div>`;
+  $('#markRead').onclick=()=>{S.read[n]=!S.read[n]; save(); route();};
+}
+function unitQuizIntro(t,n){
+  const ids=U[n-1].quiz, q=S.quiz[n];
+  t.innerHTML=`<div class="card"><h2>Unit ${n} quiz</h2><p>${ids.length} CLEP-style questions. You see the explanation for every option right after you answer. Missed questions go to your mistake log.</p>
+  <p class="small muted">Keys: <span class="kbd">1</span>–<span class="kbd">5</span> answer · <span class="kbd">Enter</span> next</p>
+  ${q?`<p>Best: <b>${q.best}%</b> · Last: ${q.last}% · Attempts: ${q.n}</p>`:''}
+  <button class="btn pri" id="go">${q?'Retake':'Start'} quiz</button></div>`;
+  $('#go').onclick=()=>startRun({kind:'quiz',key:n,ids:shuffle([...ids]),title:`Unit ${n} quiz`,host:t});
+}
+
+/* ---------- question engine ---------- */
+function shuffle(a){for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a}
+const isTest=k=>k==='exam'||k==='diag';
+function startRun(o){
+  RUN={kind:o.kind,key:o.key,ids:o.ids,i:0,ans:{},marked:{},start:Date.now(),end:o.minutes?Date.now()+o.minutes*6e4:null,title:o.title,host:null};
+  if(isTest(o.kind)){S.run=Object.assign({},RUN); delete S.run.host; save();}
+  RUN.host=o.host||$('#view'); renderRun();
+}
+function resumeRun(host){RUN=Object.assign({},S.run,{host}); renderRun();}
+function persistRun(){ if(RUN&&isTest(RUN.kind)){const c=Object.assign({},RUN); delete c.host; S.run=c; save();} }
+function qHTML(q){return `<div class="qtext">${q.q}</div>`}
+function renderRun(){
+  const R=RUN, host=R.host, id=R.ids[R.i], q=Q[id], test=isTest(R.kind), ans=R.ans[id], answered=ans!=null;
+  if(R.end&&Date.now()>=R.end) return finishRun(true);
+  let opts='';
+  q.o.forEach((o,k)=>{
+    let cls='opt';
+    if(test){ if(ans===k) cls+=' sel'; }
+    else if(answered){ if(k===q.a) cls+=' right'; else if(k===ans) cls+=' wrong'; }
+    const why=(!test&&answered)?`<div class="why"><b>${k===q.a?'Why it’s right: ':'Why not: '}</b>${q.e[k]}</div>`:'';
+    opts+=`<button class="${cls}" data-k="${k}" ${(!test&&answered)?'disabled':''}><span class="k">${LETTERS[k]}</span><span>${o}</span>${why}</button>`;
+  });
+  const u=U[q.u-1];
+  const fb=(!test&&answered)?`<div class="fb ${ans===q.a?'good':'bad'}">${ans===q.a?'Correct.':'Not quite — the answer is '+LETTERS[q.a]+'.'}</div>`:'';
+  const nav=test?`<details style="margin-top:14px"><summary class="small muted" style="cursor:pointer">Question navigator (${Object.keys(R.ans).length}/${R.ids.length} answered, ${Object.keys(R.marked).filter(k=>R.marked[k]).length} marked)</summary><div class="navgrid">${R.ids.map((x,i)=>`<button data-go="${i}" class="${R.ans[x]!=null?'a':''} ${R.marked[x]?'m':''} ${i===R.i?'cur':''}">${i+1}</button>`).join('')}</div></details>`:'';
+  host.innerHTML=`<div class="card">
+   <div class="qhead"><div><b>${esc(R.title)}</b> <span class="muted small">· Question ${R.i+1} of ${R.ids.length}</span></div>
+   <div class="row">${R.end?'<span class="timer" id="timer"></span>':''}${test?`<button class="btn sm ${R.marked[id]?'pri':''}" id="markQ">${R.marked[id]?'★ Marked':'☆ Mark'}</button>`:''}</div></div>
+   ${R.kind==='exam'?'':`<div class="small muted" style="margin-bottom:4px">Unit ${q.u}: ${esc(u.short)} · ${esc(TH[q.t].short)}</div>`}
+   ${qHTML(q)}<div class="opts">${opts}</div>${fb}
+   <div class="foot"><div class="row">${test&&R.i>0?'<button class="btn" id="prev">← Prev</button>':''}</div>
+   <div class="row">${test?'<button class="btn" id="submit">Submit '+(R.kind==='exam'?'exam':'test')+'</button>':''}
+   <button class="btn pri" id="next" ${(!test&&!answered)?'disabled':''}>${R.i===R.ids.length-1?(test?'Review & submit':'Finish'):'Next →'}</button></div></div>
+   <div class="tiny muted" style="margin-top:8px"><span class="kbd">1</span>–<span class="kbd">5</span> answer · <span class="kbd">Enter</span> ${test?'next':'next (after answering)'}${R.kind==='exam'?' · no pausing: the timer keeps running if you leave':''}</div>
+   ${nav}</div>`;
+  $$('.opt',host).forEach(b=>b.onclick=()=>answer(+b.dataset.k));
+  $$('[data-go]',host).forEach(b=>b.onclick=()=>{R.i=+b.dataset.go;persistRun();renderRun()});
+  const nx=$('#next',host); if(nx) nx.onclick=next;
+  const pv=$('#prev',host); if(pv) pv.onclick=()=>{R.i--;persistRun();renderRun()};
+  const sb=$('#submit',host); if(sb) sb.onclick=()=>confirmSubmit();
+  const mk=$('#markQ',host); if(mk) mk.onclick=()=>{R.marked[id]=!R.marked[id];persistRun();renderRun()};
+  if(R.end){tick(); clearInterval(timerInt); timerInt=setInterval(tick,1000);}
+}
+function tick(){
+  const el=$('#timer'); if(!RUN||!RUN.end) return;
+  const left=Math.max(0,RUN.end-Date.now());
+  if(el){const m=Math.floor(left/6e4),s=Math.floor(left/1e3)%60; el.textContent=`${m}:${String(s).padStart(2,'0')}`; el.classList.toggle('low',left<5*6e4);}
+  if(left<=0){clearInterval(timerInt); finishRun(true);}
+}
+function answer(k){
+  const R=RUN, id=R.ids[R.i], q=Q[id];
+  if(isTest(R.kind)){R.ans[id]=k; persistRun(); renderRun(); return;}
+  if(R.ans[id]!=null) return;
+  R.ans[id]=k; recordAnswer(id,k===q.a,R.kind); renderRun();
+}
+function next(){
+  const R=RUN, id=R.ids[R.i];
+  if(!isTest(R.kind)&&R.ans[id]==null) return;
+  if(R.i<R.ids.length-1){R.i++; persistRun(); renderRun(); window.scrollTo(0,0);}
+  else if(isTest(R.kind)) confirmSubmit(); else finishRun();
+}
+function confirmSubmit(){
+  const R=RUN, un=R.ids.length-Object.keys(R.ans).length;
+  if(un>0&&!confirm(`${un} question(s) unanswered. There is no guessing penalty on CLEP — answer everything. Submit anyway?`)) return;
+  finishRun();
+}
+function recordAnswer(id,ok,src){
+  if(ok){ if(S.mis[id]){delete S.mis[id]; S.misCleared=(S.misCleared||0)+1;} }
+  else { const m=S.mis[id]||{n:0}; m.n++; m.t=Date.now(); m.src=src; S.mis[id]=m; }
+  save();
+}
+function tally(ids,ans){
+  const r={c:0,t:ids.length,byUnit:{},byTheme:{}};
+  for(const id of ids){const q=Q[id], ok=ans[id]===q.a; if(ok) r.c++;
+    (r.byUnit[q.u]=r.byUnit[q.u]||[0,0]); r.byUnit[q.u][1]++; if(ok) r.byUnit[q.u][0]++;
+    (r.byTheme[q.t]=r.byTheme[q.t]||[0,0]); r.byTheme[q.t][1]++; if(ok) r.byTheme[q.t][0]++;}
+  r.score=pct(r.c,r.t); return r;
+}
+function finishRun(timeUp){
+  clearInterval(timerInt); timerInt=null;
+  const R=RUN; if(!R) return; const res=tally(R.ids,R.ans);
+  if(isTest(R.kind)){
+    for(const id of R.ids){ const q=Q[id]; recordAnswer(id,R.ans[id]===q.a,R.kind); }
+    const rec={date:Date.now(),score:res.score,c:res.c,t:res.t,byUnit:res.byUnit,byTheme:res.byTheme,ans:R.ans,ids:R.ids,mins:Math.round((Math.min(Date.now(),R.end||Date.now())-R.start)/6e4),timeUp:!!timeUp};
+    if(R.kind==='diag') S.diag=rec; else S.exams[R.key]=rec;
+    S.run=null;
+  } else if(R.kind==='quiz'){
+    const old=S.quiz[R.key]; S.quiz[R.key]={best:Math.max(res.score,old?old.best:0),last:res.score,n:(old?old.n:0)+1};
+  }
+  save(); setNav(location.hash.split('/').slice(0,2).join('/'));
+  showResults(R,res,timeUp);
+}
+function breakdownHTML(res){
+  const ub=Object.keys(res.byUnit).map(Number).sort((a,b)=>a-b).map(u=>{const [c,t]=res.byUnit[u],p=pct(c,t);
+    return `<tr><td>${u}. ${esc(U[u-1].short)}</td><td>${c}/${t}</td><td style="width:40%"><div class="bar ${p>=75?'good':p>=50?'warn':'bad'}"><i style="width:${p}%"></i></div></td><td>${p}%</td></tr>`}).join('');
+  const tb=Object.keys(TH).filter(k=>res.byTheme[k]).map(k=>{const [c,t]=res.byTheme[k],p=pct(c,t);
+    return `<tr><td>${esc(TH[k].name)}</td><td>${c}/${t}</td><td style="width:40%"><div class="bar ${p>=75?'good':p>=50?'warn':'bad'}"><i style="width:${p}%"></i></div></td><td>${p}%</td></tr>`}).join('');
+  return `<div class="grid g2"><div class="tbl-wrap"><h3>By unit</h3><table>${ub}</table></div><div class="tbl-wrap"><h3>By topic (official categories)</h3><table>${tb}</table></div></div>`;
+}
+function reviewHTML(ids,ans,onlyWrong){
+  return ids.filter(id=>!onlyWrong||ans[id]!==Q[id].a).map((id,i)=>{const q=Q[id],a=ans[id];
+    return `<div class="card" style="margin-top:10px"><div class="small muted">Unit ${q.u} · ${esc(TH[q.t].short)} · ${a===q.a?'<span style="color:var(--good)">correct</span>':a==null?'<span style="color:var(--bad)">unanswered</span>':'<span style="color:var(--bad)">missed</span>'}</div>
+    ${qHTML(q)}<div class="opts">${q.o.map((o,k)=>`<div class="opt ${k===q.a?'right':k===a?'wrong':''}"><span class="k">${LETTERS[k]}</span><span>${o}</span><div class="why"><b>${k===q.a?'Why it’s right: ':'Why not: '}</b>${q.e[k]}</div></div>`).join('')}</div></div>`}).join('')||'<p class="muted">Nothing to show.</p>';
+}
+function showResults(R,res,timeUp){
+  const host=R.host||$('#view');
+  let extra='';
+  if(R.kind==='diag'){
+    extra=`<h3 style="margin-top:18px">What to skim vs. study</h3><table>${U.map(u=>{const l=diagLabel(u.n);const r=S.diag.byUnit[u.n]||[0,0];
+      return `<tr><td>${u.n}. ${esc(u.title)}</td><td>${r[0]}/${r[1]}</td><td><span class="pill ${l==='skim'?'good':l==='must'?'bad':'warn'}">${l==='skim'?'Skim':l==='must'?'Must study':'Study'}</span></td></tr>`}).join('')}</table>
+      <p class="small muted">With only 1–4 diagnostic questions per unit these labels are rough. “Skim” units still get their quiz — if you score ≥ 80% there, move on.</p>`;
+  }
+  if(R.kind==='exam') extra=`<p>${res.score>=75?'<b style="color:var(--good)">≥ 75% — this exam counts toward “ready to book.”</b>':'<b style="color:var(--warn)">Below the 75% readiness bar.</b> Drill your mistake log, revisit the weakest units below, then try the other exam.'}</p>
+   <p class="small muted">CLEP reports a scaled score (20–80; 50 earns credit). The College Board does not publish a percent-to-scale conversion, so the 75% bar is a deliberately conservative target <span class="unver">unverified</span>.</p>`;
+  host.innerHTML=`<div class="card"><h2>${esc(R.title)} — results</h2>${timeUp?'<p class="fb bad">Time expired — submitted automatically.</p>':''}
+   <div class="row"><div class="stat"><div class="n">${res.score}%</div><div class="l">${res.c} of ${res.t} correct</div></div></div>
+   ${extra}${isTest(R.kind)||R.kind==='quiz'?breakdownHTML(res):''}
+   <div class="row" style="margin-top:14px" id="rbtns"></div></div>
+   <div class="row" style="margin-top:16px"><h2 style="margin:0">Review</h2><label class="small"><input type="checkbox" id="onlyWrong" checked> missed only</label></div><div id="rev"></div>`;
+  const rb=$('#rbtns',host);
+  const add=(t,f,pri)=>{const b=document.createElement(f.charAt?'a':'button');b.className='btn'+(pri?' pri':'');b.textContent=t;if(f.charAt)b.href=f;else b.onclick=f;rb.appendChild(b)};
+  if(R.kind==='quiz'){add('Retake quiz',()=>startRun({kind:'quiz',key:R.key,ids:shuffle([...U[R.key-1].quiz]),title:R.title,host}));add('Flashcards','#unit/'+R.key+'/cards');if(R.key<U.length)add(`Next: Unit ${R.key+1} →`,'#unit/'+(R.key+1),true);}
+  else if(R.kind==='drill'){add('Back to mistake log',()=>route(),true);}
+  else add('Dashboard','#home',true);
+  const draw=()=>{$('#rev',host).innerHTML=reviewHTML(R.ids,R.ans,$('#onlyWrong',host).checked)};
+  $('#onlyWrong',host).onchange=draw; draw();
+  RUN=null;
+}
+document.addEventListener('keydown',e=>{
+  if(e.target.matches('input,textarea,select')||e.ctrlKey||e.metaKey||e.altKey) return;
+  if(RUN&&document.body.contains(RUN.host)){
+    if(/^[1-5]$/.test(e.key)){const k=+e.key-1; if(Q[RUN.ids[RUN.i]].o[k]!=null){e.preventDefault();answer(k);}}
+    else if(e.key==='Enter'){e.preventDefault();next();}
+    else if(isTest(RUN.kind)&&e.key==='ArrowLeft'&&RUN.i>0){RUN.i--;persistRun();renderRun();}
+    else if(isTest(RUN.kind)&&e.key==='ArrowRight'&&RUN.i<RUN.ids.length-1){RUN.i++;persistRun();renderRun();}
+    return;
+  }
+  if(CARD&&document.body.contains(CARD.host)){
+    if(e.key===' '||e.key==='Enter'){e.preventDefault();flipCard();}
+    else if(CARD.flipped&&(e.key==='1'||e.key==='2')){e.preventDefault();gradeCard(e.key==='2');}
+  }
+});
+
+/* ---------- diagnostic & exams ---------- */
+function viewDiag(v){
+  if(S.run&&S.run.kind==='diag') return resumeRun(v);
+  if(S.run&&S.run.kind==='exam'){v.innerHTML=`<div class="card"><p>Practice exam ${S.run.key===1?'A':'B'} is in progress (timer running).</p><a class="btn pri" href="#exam/${S.run.key}">Resume exam</a></div>`;return;}
+  const d=S.diag;
+  v.innerHTML=`<h1>Diagnostic test</h1><div class="card"><p><b>${DATA.diag.length} questions</b> drawn from every unit in proportion to the official weights. No feedback until the end; untimed (aim for ~25 minutes). Afterward you get a score per unit and a <b>skim / study / must study</b> label that the dashboard and study plan use.</p>
+  <p class="small muted">Take it cold — guessing is fine and expected. These questions never reappear in unit quizzes or practice exams.</p>
+  ${d?`<p>Last result: <b>${d.score}%</b> on ${new Date(d.date).toLocaleDateString()}.</p>`:''}
+  <div class="row"><button class="btn pri" id="go">${d?'Retake diagnostic':'Start diagnostic'}</button>${d?'<button class="btn" id="see">See last results</button>':''}</div></div>`;
+  $('#go').onclick=()=>startRun({kind:'diag',key:0,ids:[...DATA.diag],title:'Diagnostic test',host:v});
+  if(d) $('#see').onclick=()=>showResults({kind:'diag',ids:d.ids,ans:d.ans,title:'Diagnostic test',host:v},tally(d.ids,d.ans));
+}
+function viewExam(v,k){
+  const name=k===1?'A':'B';
+  if(S.run){
+    if(S.run.kind==='exam'&&S.run.key===k) return resumeRun(v);
+    v.innerHTML=`<div class="card"><p>You have a ${S.run.kind==='exam'?'practice exam '+(S.run.key===1?'A':'B'):'diagnostic'} in progress. Finish it first.</p><a class="btn pri" href="${S.run.kind==='exam'?'#exam/'+S.run.key:'#diag'}">Resume</a></div>`; return;
+  }
+  const ex=S.exams[k], ids=DATA.exams[k-1];
+  v.innerHTML=`<h1>Practice exam ${name}</h1><div class="card">
+  <p><b>${ids.length} questions · ${DATA.meta.format.minutes} minutes · no pausing.</b> Mirrors the real format: questions are spread across units by the official weights, no feedback until you submit, and you can mark questions and jump back. The clock runs on real time — closing the tab does <i>not</i> stop it.</p>
+  <p class="small muted">Pace: about 45 seconds per question. Answer everything — there is no guessing penalty. None of these questions appear in unit quizzes, the diagnostic, or the other exam.</p>
+  ${ex?`<p>Last result: <b>${ex.score}%</b> (${ex.c}/${ex.t}) on ${new Date(ex.date).toLocaleDateString()}, ${ex.mins} min used.</p>`:''}
+  <div class="row"><button class="btn pri" id="go">${ex?'Retake':'Start'} exam ${name}</button>${ex?'<button class="btn" id="see">See last results</button>':''}</div></div>`;
+  $('#go').onclick=()=>{ if(confirm(`Start Practice exam ${name}? The ${DATA.meta.format.minutes}-minute timer cannot be paused.`)) startRun({kind:'exam',key:k,ids:shuffle([...ids]),title:'Practice exam '+name,minutes:DATA.meta.format.minutes,host:v}); };
+  if(ex) $('#see').onclick=()=>showResults({kind:'exam',key:k,ids:ex.ids,ans:ex.ans,title:'Practice exam '+name,host:v},tally(ex.ids,ex.ans));
+}
+
+/* ---------- mistakes ---------- */
+function viewMistakes(v){
+  const ids=Object.keys(S.mis).filter(id=>Q[id]).sort((a,b)=>S.mis[b].n-S.mis[a].n);
+  const byU={}; ids.forEach(id=>{const u=Q[id].u;byU[u]=(byU[u]||0)+1});
+  v.innerHTML=`<h1>Mistake log</h1><div class="card"><p>Every question you miss anywhere lands here. Answer it correctly in a drill and it leaves the queue. ${S.misCleared?`<b>${S.misCleared}</b> cleared so far.`:''}</p>
+  ${ids.length?`<div class="row" style="margin-bottom:10px">${Object.keys(byU).sort((a,b)=>a-b).map(u=>`<span class="pill">Unit ${u}: ${byU[u]}</span>`).join('')}</div>
+  <div class="row"><button class="btn pri" id="drill">Drill all ${ids.length}</button><select id="du"><option value="0">…or one unit</option>${Object.keys(byU).sort((a,b)=>a-b).map(u=>`<option value="${u}">Unit ${u} (${byU[u]})</option>`).join('')}</select></div>`:'<p class="muted">Empty — nice. Take a quiz or exam to fill it.</p>'}</div><div id="ml"></div>`;
+  if(!ids.length) return;
+  const go=list=>startRun({kind:'drill',key:0,ids:shuffle(list).slice(0,40),title:'Mistake drill',host:v});
+  $('#drill').onclick=()=>go([...ids]);
+  $('#du').onchange=e=>{const u=+e.target.value; if(u) go(ids.filter(id=>Q[id].u===u));};
+  $('#ml').innerHTML=`<h2 style="margin-top:18px">Queue</h2>`+ids.map(id=>{const q=Q[id];return `<div class="card small" style="margin-top:8px"><div class="muted tiny">Unit ${q.u} · missed ${S.mis[id].n}× · ${esc(TH[q.t].short)}</div>${q.q.replace(/<blockquote[\s\S]*?<\/blockquote>|<table[\s\S]*?<\/table>/g,'[…]').slice(0,260)}</div>`}).join('');
+}
+
+/* ---------- flashcards (Leitner) ---------- */
+const IV=[0,0,1,3,7,14]; // days until due, by box 1..5
+let CARD=null;
+function dueCards(cards){const t=TODAY(); return cards.filter(c=>S.cards[c.id]&&S.cards[c.id].due<=t)}
+function newCards(cards){return cards.filter(c=>!S.cards[c.id])}
+function missedCards(cards){return cards.filter(c=>{const s=S.cards[c.id];return s&&(s.last===0||(s.m>0&&s.b<=2))})}
+function viewCards(host,n){
+  const cards=n?unitCards(n):allCards(), cs=cardStats(cards);
+  const box=[1,2,3,4,5].map(b=>cards.filter(c=>S.cards[c.id]&&S.cards[c.id].b===b).length);
+  const due=dueCards(cards).length, nw=newCards(cards).length, ms=missedCards(cards).length;
+  host.innerHTML=`${n?'':'<h1>Flashcards</h1>'}<div class="card"><p class="small" style="margin-top:0">Leitner boxes: a miss sends a card back to box 1 (it returns this session and tomorrow); each hit moves it up a box and spaces it out (box 2 → 1 day, 3 → 3 days, 4 → 7, 5 → 14).</p>
+  <div class="boxes"><div><b>${nw}</b>new</div>${box.map((x,i)=>`<div><b>${x}</b>box ${i+1}</div>`).join('')}</div>
+  ${n?'':`<div class="row" style="margin-top:12px"><label class="f">Unit<select id="cu"><option value="0">All units</option>${U.map(u=>`<option value="${u.n}">${u.n}. ${esc(u.short)} (${u.cards.length})</option>`).join('')}</select></label></div>`}
+  <div class="row" style="margin-top:12px"><button class="btn pri" data-m="due">Review due + new (${due} due, ${Math.min(nw,20)} new)</button><button class="btn" data-m="miss" ${ms?'':'disabled'}>Review missed only (${ms})</button><button class="btn" data-m="all">Cram all ${cards.length}</button></div></div><div id="fc" style="margin-top:14px"></div>`;
+  if(!n) $('#cu').onchange=e=>{const u=+e.target.value; viewCards(host,0); if(u){ $('#cu').value=u; startCards(unitCards(u),'due',$('#fc'),host); }};
+  $$('[data-m]',host).forEach(b=>b.onclick=()=>{const u=n||(+($('#cu')||{}).value||0); startCards(u?unitCards(u):cards,b.dataset.m,$('#fc'),host)});
+}
+function startCards(cards,mode,el,outer){
+  let list = mode==='due'?[...shuffle(dueCards(cards)),...shuffle(newCards(cards)).slice(0,20)] : mode==='miss'?shuffle(missedCards(cards)):shuffle([...cards]);
+  if(!list.length){el.innerHTML='<div class="card muted">Nothing due right now. Come back tomorrow, or cram.</div>';return;}
+  CARD={list,i:0,flipped:false,host:el,ok:0,miss:0,requeued:{}}; drawCard();
+}
+function drawCard(){
+  const C=CARD; if(C.i>=C.list.length){C.host.innerHTML=`<div class="card"><h3>Session done</h3><p>${C.ok} known · ${C.miss} missed. Missed cards come back first next time.</p></div>`; CARD=null; return;}
+  const c=C.list[C.i], s=S.cards[c.id];
+  C.host.innerHTML=`<div class="small muted" style="margin-bottom:6px">Card ${C.i+1} of ${C.list.length} · ${s?'box '+s.b:'new'} · Unit ${c.u}</div>
+  <div class="card fc" id="fcard"><div class="front">${c.f}</div>${C.flipped?`<div class="back">${c.b}</div>`:'<div class="small muted" style="margin-top:14px">tap or <span class="kbd">Space</span> to flip</div>'}</div>
+  ${C.flipped?`<div class="row" style="margin-top:10px;justify-content:center"><button class="btn" id="g1">✗ Missed <span class="kbd">1</span></button><button class="btn pri" id="g2">✓ Knew it <span class="kbd">2</span></button></div>`:''}`;
+  $('#fcard').onclick=flipCard;
+  if(C.flipped){$('#g1').onclick=()=>gradeCard(false);$('#g2').onclick=()=>gradeCard(true);}
+}
+function flipCard(){if(!CARD)return;CARD.flipped=!CARD.flipped;drawCard()}
+function gradeCard(ok){
+  const C=CARD, c=C.list[C.i], s=S.cards[c.id]||{b:0,m:0};
+  if(ok){s.b=Math.min(5,Math.max(s.b,1)+1);C.ok++} else {s.b=1;s.m=(s.m||0)+1;C.miss++; if(!C.requeued[c.id]){C.requeued[c.id]=1;C.list.push(c);}}
+  s.last=ok?1:0; s.due=TODAY()+IV[s.b]; S.cards[c.id]=s; save();
+  C.i++; C.flipped=false; drawCard();
+}
+
+/* ---------- cheat sheet ---------- */
+function viewCheat(v){
+  v.innerHTML=`<div class="row noprint" style="justify-content:space-between;margin-bottom:12px"><h1 style="margin:0">Cheat sheet</h1>
+  <div class="row"><label class="small"><input type="checkbox" id="recall"> Recall mode (hide dates & answers — tap to reveal)</label><button class="btn pri" onclick="print()">Print one page</button></div></div>
+  <div class="card cheat" id="cs">${DATA.cheat}</div>`;
+  $('#recall').onchange=e=>$('#cs').classList.toggle('recall',e.target.checked);
+  $('#cs').addEventListener('click',e=>{const h=e.target.closest('.hidev');if(h)h.classList.toggle('show')});
+}
+
+/* ---------- study plan ---------- */
+function planTasks(){
+  const H=DATA.meta.hours, t=[];
+  if(!S.diag) t.push({l:'Diagnostic test (30 Q)',h:H.diag,href:'#diag'});
+  U.forEach((u,i)=>{
+    const f=diagFactor(u.n), base=unitHours(u.n)*f, cs=cardStats(u.cards), lab=diagLabel(u.n);
+    const tag=lab==='skim'?' (skim)':'';
+    if(!S.read[u.n]) t.push({l:`Unit ${u.n} lesson${tag}: ${u.short}`,h:base*.45,href:'#unit/'+u.n});
+    if(!S.quiz[u.n]) t.push({l:`Unit ${u.n} quiz + review explanations`,h:base*.3,href:'#unit/'+u.n+'/quiz'});
+    if(cs.learned<cs.total) t.push({l:`Unit ${u.n} flashcards`,h:base*.25*(1-cs.learned/Math.max(1,cs.total)),href:'#unit/'+u.n+'/cards'});
+    if((i+1)%4===0) t.push({l:'Cumulative review: due flashcards + mistake log',h:.5,href:'#mistakes'});
+  });
+  t.push({l:'Mistake-log drill + redraw the cheat sheet from memory',h:H.final,href:'#cheat'});
+  return t.filter(x=>x.h>0.04);
+}
+function makePlan(hpd,examDay){
+  const today=TODAY(), days=[];
+  const nDays=examDay-today; if(nDays<1) return {err:'Pick an exam date after today.'};
+  const tasks=planTasks().map(x=>Object.assign({},x));
+  const H=DATA.meta.hours;
+  const examSlots = nDays>=3 ? [examDay-2,examDay-1] : nDays===2 ? [examDay-2,examDay-1] : [examDay-1,examDay-1];
+  const lastStudy = Math.min(...examSlots); // content days: today .. lastStudy-1 (or same day if squeezed)
+  const contentDays=Math.max(1,lastStudy-today);
+  const need=tasks.reduce((a,b)=>a+b.h,0), cap=contentDays*hpd;
+  for(let d=today; d<=examDay; d++) days.push({d,items:[]});
+  const at=d=>days[d-today];
+  let di=today, room=hpd;
+  for(const tk of tasks){
+    let h=tk.h, part=0;
+    while(h>0.04){
+      if(di>=lastStudy && lastStudy>today){ at(lastStudy-1).items.push({l:tk.l+(part?' (cont.)':''),h,href:tk.href,over:true}); h=0; break; }
+      const take=Math.min(h,room);
+      if(take>0.04){at(di).items.push({l:tk.l+(part?' (cont.)':''),h:take,href:tk.href}); h-=take; room-=take; part++;}
+      if(room<=0.04){di++; room=hpd;}
+      if(lastStudy===today&&di>today){at(today).items.push({l:tk.l,h,href:tk.href,over:true});h=0;}
+    }
+  }
+  for(let d=di+(room<hpd?1:0); d<lastStudy; d++) if(!at(d).items.length) at(d).items.push({l:'Review: retake your 2 weakest unit quizzes, due flashcards, mistake log',h:Math.min(hpd,1.5),href:'#mistakes'});
+  const ex=(k,d)=>{ if(!S.exams[k]) at(d).items.push({l:`Practice exam ${k===1?'A':'B'} (90 min, timed) + review every miss`,h:H.exam,href:'#exam/'+k}); else at(d).items.push({l:`Practice exam ${k===1?'A':'B'} done (${S.exams[k].score}%) — retake weakest units' quizzes`,h:1,href:'#mistakes'}); };
+  ex(1,examSlots[0]); ex(2,examSlots[1]);
+  at(examDay).items.push({l:'EXAM DAY — 20-minute cheat-sheet skim, then go. No new material.',h:.3,href:'#cheat'});
+  return {days:days.filter(x=>x.items.length),need,cap,contentDays,warn: need>cap?`This plan needs about ${need.toFixed(1)} h of content before the practice exams but you have ${cap.toFixed(1)} h. Increase to ~${Math.ceil(10*need/contentDays)/10} h/day or move the date.`:''};
+}
+function planHTML(p){
+  if(p.err) return `<p class="fb bad">${esc(p.err)}</p>`;
+  const t=TODAY();
+  return `${p.warn?`<div class="banner">${esc(p.warn)}</div>`:`<p class="small muted">Content left: ${p.need.toFixed(1)} h across ${p.contentDays} study day(s), then the two practice exams.</p>`}
+  ${p.days.map(x=>`<div class="plan-day ${x.d===t?'today':''}"><div><b>${fmtDay(x.d)}</b>${x.d===t?'<div class="tiny">today</div>':''}<div class="tiny muted">${x.items.reduce((a,b)=>a+b.h,0).toFixed(1)} h</div></div>
+   <ul>${x.items.map(i=>`<li><a href="${i.href}">${esc(i.l)}</a> <span class="muted small">· ${Math.round(i.h*60)} min${i.over?' · over budget':''}</span></li>`).join('')}</ul></div>`).join('')}`;
+}
+function planToday(){
+  if(!S.plan) return '';
+  const p=makePlan(S.plan.hpd,S.plan.day); if(p.err) return '';
+  const d=p.days.find(x=>x.d===TODAY()); if(!d) return '';
+  return `<div class="card" style="margin-bottom:14px"><div class="row" style="justify-content:space-between"><h2 style="margin:0">Today’s plan</h2><a class="small" href="#plan">full schedule</a></div>
+  <ul style="margin:8px 0 0;padding-left:1.1em">${d.items.map(i=>`<li><a href="${i.href}">${esc(i.l)}</a> <span class="muted small">· ${Math.round(i.h*60)} min</span></li>`).join('')}</ul></div>`;
+}
+function viewPlan(v){
+  const p=S.plan, def=new Date(Date.now()+21*864e5).toISOString().slice(0,10);
+  const dstr=p?new Date(p.day*864e5).toISOString().slice(0,10):def;
+  v.innerHTML=`<h1>Study plan</h1><div class="card"><p class="small" style="margin-top:0">Builds a day-by-day schedule from what you have <i>not</i> finished yet, weighted by the exam outline and your diagnostic (skim units get ~55% of the time, must-study units ~115%). Practice exams land 2 days and 1 day before the exam. Regenerate any time — it adapts to your progress.</p>
+  <div class="row"><label class="f">Hours per day<input type="number" id="hpd" min="0.5" max="12" step="0.5" value="${p?p.hpd:1.5}"></label>
+  <label class="f">Exam date<input type="date" id="edate" value="${dstr}"></label><button class="btn pri" id="mk" style="align-self:flex-end">Generate plan</button></div>
+  <p class="small muted">Total budget for a beginner: ≈ ${DATA.meta.hours.total} h. Currently left: ≈ ${hoursLeft().toFixed(1)} h.</p></div><div class="card" id="pl" style="margin-top:14px"></div>`;
+  const show=()=>{ if(!S.plan){$('#pl').innerHTML='<p class="muted">Enter your hours and date, then generate.</p>';return;} $('#pl').innerHTML=planHTML(makePlan(S.plan.hpd,S.plan.day)); };
+  $('#mk').onclick=()=>{const h=+$('#hpd').value, ds=$('#edate').value; if(!(h>0)||!ds){alert('Enter hours per day and a date.');return;}
+    const [y,m,d]=ds.split('-').map(Number); S.plan={hpd:h,day:dayNum(new Date(y,m-1,d))}; save(); show();};
+  show();
+}
+
+/* ---------- about / data ---------- */
+function viewAbout(v){
+  const M=DATA.meta, st=s=>s==='verified-via-search'?'<span class="pill acc" title="Confirmed from search-indexed text of the official page">verified (search)</span>':'<span class="unver">unverified</span>';
+  const counts=U.map(u=>{const all=Object.values(Q).filter(q=>q.u===u.n).length;return `<tr><td>${u.n}. ${esc(u.short)}</td><td>${u.weight}%</td><td>1 (${u.minutes} min)</td><td>${u.quiz.length}</td><td>${all}</td><td>${pct(all,Object.keys(Q).length)}%</td><td>${u.cards.length}</td><td>${pct(u.cards.length,allCards().length)}%</td></tr>`}).join('');
+  const thc=Object.keys(TH).map(k=>{const n=Object.values(Q).filter(q=>q.t===k).length;return `<tr><td>${esc(TH[k].name)}</td><td>${TH[k].weight}% ${st(TH[k].status)}</td><td>${n}</td><td>${pct(n,Object.keys(Q).length)}%</td></tr>`}).join('');
+  v.innerHTML=`<h1>About & data</h1>
+  <div class="card"><h2>Exam facts</h2><table>
+   <tr><td>Exam</td><td>${esc(M.exam)}</td></tr>
+   <tr><td>Questions</td><td>~${M.format.questions} (includes some unscored pretest questions) ${st(M.format.qStatus)}</td></tr>
+   <tr><td>Time</td><td>${M.format.minutes} minutes ${st(M.format.tStatus)}</td></tr>
+   <tr><td>Format</td><td>Multiple choice; this guide uses 5 options per question ${st('unverified')}</td></tr>
+   <tr><td>Passing</td><td>Scaled score 50 (20–80 scale) for 3 semester hours (ACE recommendation); your college sets its own policy ${st(M.format.sStatus)}</td></tr>
+   <tr><td>Chronology</td><td>${M.chronological.map(c=>`${c.period}: ${c.weight}%`).join(' · ')} ${st('verified-via-search')}</td></tr></table>
+   <p class="small muted">${esc(M.note)}</p>
+   <p class="small">Sources: ${M.sources.map(s=>`<a href="${s.url}" target="_blank" rel="noopener">${esc(s.label)}</a>`).join(' · ')}</p></div>
+  <div class="card" style="margin-top:14px"><h2>Official topical weights vs. this guide’s question bank</h2><div class="tbl-wrap"><table><tr><th>Category</th><th>Official</th><th>Questions</th><th>Share</th></tr>${thc}</table></div></div>
+  <div class="card" style="margin-top:14px"><h2>Content budget by unit</h2><div class="tbl-wrap"><table><tr><th>Unit</th><th>Weight</th><th>Lesson</th><th>Quiz Q</th><th>All Q</th><th>Q share</th><th>Cards</th><th>Card share</th></tr>${counts}</table></div>
+   <p class="small muted">Totals: ${Object.keys(Q).length} original questions (quiz ${U.reduce((a,u)=>a+u.quiz.length,0)} · diagnostic ${DATA.diag.length} · exam A ${DATA.exams[0].length} · exam B ${DATA.exams[1].length}, no overlap), ${allCards().length} flashcards. Questions are original, written for this guide.</p></div>
+  <div class="card" style="margin-top:14px"><h2>Your data</h2><p class="small">Progress is saved in this browser (localStorage)${storageOK?'':' — <b>currently blocked</b>'}. Export a JSON backup to move between devices.</p>
+   <div class="row"><button class="btn pri" id="exp">Export progress (.json)</button><label class="btn">Import progress<input type="file" id="imp" accept="application/json,.json" class="hide"></label><button class="btn" id="rst">Reset everything</button></div></div>`;
+  $('#exp').onclick=()=>{const b=new Blob([JSON.stringify({app:KEY,exported:new Date().toISOString(),state:S},null,1)],{type:'application/json'});const a=document.createElement('a');a.href=URL.createObjectURL(b);a.download='clep-ush1-progress-'+new Date().toISOString().slice(0,10)+'.json';document.body.appendChild(a);a.click();setTimeout(()=>{URL.revokeObjectURL(a.href);a.remove()},500);};
+  $('#imp').onchange=e=>{const f=e.target.files[0]; if(!f) return; const r=new FileReader(); r.onload=()=>{try{const o=JSON.parse(r.result); const st=o.state||o; if(typeof st!=='object'||!('read' in st)) throw new Error('Not a progress file'); S=Object.assign(defState(),st); save(); applyTheme(); alert('Progress imported.'); location.hash='#home'; route();}catch(err){alert('Could not import: '+err.message)}}; r.readAsText(f);};
+  $('#rst').onclick=()=>{if(confirm('Erase all progress? Export first if unsure.')){S=defState();save();applyTheme();route();}};
+}
+
+route();
+</script>
+</body>
+</html>
