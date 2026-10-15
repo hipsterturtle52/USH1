@@ -1,0 +1,216 @@
+@unit 3
+@title Colonial Society, Economy & Empire
+@short Colonial Society & Empire
+@years 1680–1763
+@weight 7
+
+@lesson
+## Why this unit matters
+Between about 1680 and 1763 the colonies grew from struggling outposts into prosperous, crowded, increasingly self-confident societies. This unit explains the **economic system** that bound them to Britain (**mercantilism**), the spread of **slavery**, two big intellectual currents (**the Great Awakening** and **the Enlightenment**), the habit of **self-government** that grew under **salutary neglect**, and the **French and Indian War** that changed everything. Unit 4's revolution grows directly out of this unit.
+
+## Mercantilism and the Navigation Acts
+**Mercantilism** was the economic theory behind the British Empire: a nation grows rich by exporting more than it imports and piling up gold and silver. Colonies existed to benefit the **mother country** — supplying raw materials (tobacco, rice, lumber, furs) and buying finished British goods.
+
+Parliament enforced this through the **Navigation Acts** (beginning in 1651 and 1660). Key rules:
+- Colonial trade had to use **English or colonial ships**.
+- Certain "**enumerated goods**" — like tobacco, sugar, and later rice — could be shipped **only to England**.
+- Most European goods bound for the colonies had to pass through England first.
+
+=> Mercantilist belief that colonies should enrich the mother country | Navigation Acts restrict colonial trade | Colonial resentment and widespread smuggling; later British enforcement after 1763 sparks protest
+
+In practice, the system worked tolerably well for colonists: they had a protected market, and British naval protection. Many merchants simply **smuggled** to avoid duties, especially molasses from the French West Indies (the **Molasses Act of 1733** taxed it but was rarely enforced).
+
+## Salutary neglect and colonial self-government
+From about the 1720s to 1763, Britain — under Prime Minister **Robert Walpole** — followed a policy later called **salutary neglect**: it loosely enforced trade laws and let colonies run their own affairs as long as they stayed loyal and profitable. Edmund Burke later praised this as a wise "neglect."
+
+During these decades **colonial assemblies** grew powerful. Royal governors were appointed in London, but assemblies controlled the **"power of the purse"** — taxes and even the governor's salary. Colonists came to see their assemblies as small parliaments and believed only their own elected representatives could tax them. Voting was limited to property-owning white men, but because land was widespread, a much larger share of men could vote than in England.
+
+The **Zenger trial (1735)** advanced freedom of the press: New York printer **John Peter Zenger** was acquitted of libel for criticizing the governor because what he printed was true.
+
+!! Salutary neglect matters because it explains *why* colonists reacted so strongly after 1763: they had grown used to self-government, and new British taxes felt like a break from long tradition.
+
+## The Atlantic economy and slavery
+Colonial trade formed a web often called the **triangular trade**: for example, New England rum went to Africa to buy enslaved people; enslaved Africans were carried to the West Indies and mainland colonies; and sugar and molasses went back to New England to make more rum.
+
+The voyage of captives across the Atlantic was the **Middle Passage** — weeks chained below decks, with very high death rates. Roughly 10–12 million Africans were carried across the Atlantic over the whole slave trade; most went to the Caribbean and Brazil, and roughly 400,000 to mainland North America.
+
+By the 1700s, slavery existed in **every colony**, but it was the base of the southern economy: **tobacco** in the Chesapeake, **rice and indigo** in South Carolina and Georgia. In South Carolina enslaved people outnumbered whites. Unlike Caribbean populations, the enslaved population of North America grew by **natural increase** after the early 1700s, and enslaved people built families, churches, and a distinctive culture blending African traditions.
+
+Enslaved people resisted — by working slowly, running away, and occasionally by revolt. In the **Stono Rebellion (1739)** in South Carolina, about 60–100 enslaved people marched toward Spanish Florida, which promised freedom; the revolt was crushed and South Carolina passed a harsher **slave code**. **Slave codes** across the colonies denied enslaved people the right to assemble, travel, own weapons, or learn to read.
+
+**Georgia (1732)**, the last of the thirteen colonies, was founded by **James Oglethorpe** as a **buffer** against Spanish Florida and a fresh start for the "worthy poor" (including some former debtors). It originally **banned slavery** and large landholdings, but settlers protested and slavery was legalized in **1751**.
+
+## A growing, diverse population
+Colonial population roughly doubled every 25 years, from about 250,000 in 1700 to 2.5 million by 1775, through high birth rates and immigration. Newcomers included the **Scots-Irish** (Presbyterians who moved to the western frontier and clashed with Native peoples) and **Germans** (often called the "Pennsylvania Dutch"), many of whom settled in Pennsylvania's fertile backcountry.
+
+Society was hierarchical: a wealthy **gentry** of planters and merchants at the top, many small farmers in the middle, and servants and the enslaved at the bottom. Women under the legal doctrine of **coverture** lost their separate legal identity when they married — their property and earnings belonged to their husbands.
+
+## The Great Awakening
+The **Great Awakening** (1730s–1740s) was a wave of emotional religious revivals. Preachers stressed personal conversion, sin, and an emotional relationship with God rather than formal learning.
+
+- **Jonathan Edwards**, a Massachusetts minister, preached "**Sinners in the Hands of an Angry God**" (1741), warning listeners of hell.
+- **George Whitefield**, an English evangelist, toured the colonies drawing huge outdoor crowds; even the skeptical Ben Franklin admired his speaking.
+
+Churches split between "**New Lights**" (pro-revival) and "**Old Lights**" (traditional). New denominations, especially **Baptists and Methodists**, grew. New colleges — such as Princeton, Brown, Rutgers, and Dartmouth — were founded partly to train ministers.
+
+=> Declining religious zeal; formal, intellectual preaching | Great Awakening revivals (1730s–1740s) | Splits in churches, growth of new denominations, more willingness to challenge established authority, and a shared intercolonial experience
+
+The Awakening's biggest political effect: it taught ordinary people that they could **judge authority for themselves** and break from established churches — habits that carried into the Revolution. It was also the first event experienced across **all the colonies**.
+
+## The Enlightenment
+At the same time, educated colonists absorbed the **Enlightenment**, the European intellectual movement that stressed **reason**, science, and natural laws.
+
+- **John Locke** (English philosopher) argued that people have **natural rights** to life, liberty, and property, and that government rests on the **consent of the governed**; if it violates those rights, people may change it. This idea runs straight into the Declaration of Independence.
+- **Benjamin Franklin** embodied the colonial Enlightenment: printer, scientist (electricity experiments), inventor, and author of **Poor Richard's Almanack**.
+- **Deism** — belief in a creator God who set up natural laws and then did not intervene — appealed to some elite thinkers, including Franklin and Jefferson.
+
+!! A favorite exam contrast: the Great Awakening appealed to **emotion and faith**; the Enlightenment appealed to **reason and science**. Both encouraged people to question traditional authority.
+
+## Imperial wars and the French and Indian War
+Britain and France fought a series of wars for empire — **King William's War**, **Queen Anne's War**, and **King George's War** — with colonists and Native allies fighting in North America. The decisive one was the **French and Indian War (1754–1763)** (part of the global **Seven Years' War**).
+
+**Cause:** both Britain and France claimed the **Ohio River Valley**. In 1754, a young Virginia militia officer, **George Washington**, clashed with French forces and was forced to surrender at **Fort Necessity**.
+
+That same year, delegates met at Albany. **Benjamin Franklin** proposed the **Albany Plan of Union**, a council of colonies to coordinate defense (his famous "**Join, or Die**" snake cartoon promoted it). The colonial assemblies **rejected** it because they did not want to give up control over taxes — but it was an early idea of colonial unity.
+
+The war went badly for Britain at first (General **Braddock** was killed in 1755). Then Prime Minister **William Pitt** poured money and troops into America. The British captured **Quebec (1759)**, where General **Wolfe** defeated **Montcalm** on the Plains of Abraham, and Montreal fell in 1760.
+
+The **Treaty of Paris (1763)** ended French power in North America:
+- **Britain** gained **Canada** and all French land **east of the Mississippi**, plus **Florida** from Spain.
+- **Spain** received **Louisiana** (land west of the Mississippi and New Orleans) from France.
+
+=> Rivalry over the Ohio Valley | French and Indian War (1754–1763) | Britain dominates eastern North America but has a huge war debt; Native peoples lose their French ally; Britain ends salutary neglect
+
+## Consequences that set up the Revolution
+The war left Britain with an enormous **debt** and a belief that colonists should help pay for their own defense. Colonists, meanwhile, felt proud of their contribution and no longer needed British protection from France. Many British officers had looked down on colonial soldiers, and colonists resented it. Native peoples, no longer able to play France against Britain, faced a flood of settlers. Unit 4 begins at this exact moment.
+
+@must
+- **Mercantilism:** colonies exist to enrich the mother country; enforced by the **Navigation Acts** (enumerated goods to England only; English/colonial ships).
+- **Salutary neglect** (c. 1720s–1763, Walpole): loose enforcement → strong **colonial assemblies** with the power of the purse.
+- **Great Awakening** (1730s–40s): **Jonathan Edwards**, **George Whitefield**; emotional revivals; New Lights vs. Old Lights; encouraged questioning authority.
+- **Enlightenment:** reason and natural law; **John Locke** = natural rights and consent of the governed; **Franklin** as the model colonial thinker.
+- **Middle Passage** = Atlantic crossing of enslaved Africans; **triangular trade** linked New England, Africa, the West Indies.
+- **Stono Rebellion (1739)** in South Carolina → harsher slave codes.
+- **Georgia (1732):** Oglethorpe; buffer against Spanish Florida; banned slavery until 1751.
+- **Zenger trial (1735)** → truth as a defense in libel; freedom of the press.
+- **Albany Plan of Union (1754):** Franklin's plan for colonial cooperation — **rejected** by the colonies.
+- **Treaty of Paris (1763):** France loses Canada and lands east of the Mississippi; Britain left with huge war debt.
+
+@timeline
+1651–1696 | Navigation Acts passed and expanded | E
+1689–1763 | Series of Anglo-French imperial wars | D
+1733 | Molasses Act (rarely enforced) | E
+*1732 | Georgia founded by James Oglethorpe | P
+1735 | Zenger trial establishes truth as a libel defense | P
+*1739 | Stono Rebellion in South Carolina | S
+*1730s–1740s | Great Awakening; Edwards's "Sinners" sermon (1741) | C
+1751 | Georgia legalizes slavery | S
+*1754 | French and Indian War begins; Albany Plan of Union rejected | D
+1755 | Braddock's defeat | D
+1759 | British capture Quebec | D
+*1763 | Treaty of Paris ends the French and Indian War | D
+
+@cards
+Mercantilism :: Theory that a nation grows rich through favorable trade balances and stores of gold; colonies supply raw materials and buy the mother country's goods.
+Navigation Acts :: Laws (from 1651) requiring colonial trade to use English/colonial ships and sending enumerated goods like tobacco only to England.
+Enumerated goods :: Colonial products (tobacco, sugar, later rice) that could be shipped only to England under the Navigation Acts.
+Salutary neglect :: British policy (c. 1720s–1763) of loosely enforcing trade laws, letting colonial self-government grow.
+Power of the purse :: Colonial assemblies' control over taxes and the governor's salary — their main lever over royal governors.
+Triangular trade :: Atlantic trade network linking New England (rum), Africa (enslaved people), and the West Indies (sugar/molasses).
+Middle Passage :: The deadly voyage of enslaved Africans across the Atlantic.
+Stono Rebellion (1739) :: South Carolina slave revolt; rebels headed for Spanish Florida; led to a harsher slave code.
+Great Awakening :: 1730s–40s religious revival stressing emotion and personal conversion; Edwards and Whitefield; split churches into New and Old Lights.
+Jonathan Edwards :: Massachusetts minister of the Great Awakening; "Sinners in the Hands of an Angry God" (1741).
+George Whitefield :: English evangelist whose open-air preaching tours spread the Great Awakening across the colonies.
+John Locke :: Enlightenment philosopher: natural rights to life, liberty, property; government by consent; right to change bad government.
+Deism :: Belief in a rational creator who set natural laws and does not intervene; held by some Enlightenment figures like Franklin and Jefferson.
+Zenger trial (1735) :: New York printer acquitted of libel because his criticism of the governor was true; advanced freedom of the press.
+Albany Plan of Union (1754) :: Franklin's proposal for a colonial council for defense ("Join, or Die"); rejected by the colonial assemblies.
+Treaty of Paris (1763) :: Ended the French and Indian War; France lost Canada and land east of the Mississippi; Spain gained Louisiana.
+Coverture :: Legal doctrine under which a married woman's legal identity and property were absorbed by her husband.
+
+@quiz
+Q E1 Under the theory of mercantilism, the primary purpose of colonies was to
++ supply raw materials and buy manufactured goods from the mother country || Mercantilism aimed to enrich the home country through a favorable balance of trade.
+- develop independent manufacturing to compete with the mother country || Mercantilism discouraged colonial manufacturing that competed with home industries.
+- provide religious refuge for persecuted groups || Some colonies did, but that was not the economic purpose under mercantilism.
+- trade freely with all nations to maximize profits || Free trade is the opposite of mercantilism; that idea came from Adam Smith.
+- serve as penal colonies for convicted criminals || Some convicts were sent, but this was not the theory's goal.
+
+Q P2 The policy of "salutary neglect" contributed to the American Revolution primarily because it
++ allowed colonists to grow accustomed to self-government through their own assemblies || When Britain tightened control after 1763, colonists saw it as a violation of established practice.
+- imposed heavy taxes on the colonies during the early 1700s || Salutary neglect meant loose enforcement and few new taxes.
+- banned colonial assemblies from meeting || Assemblies grew stronger during this period.
+- encouraged the colonies to form a military alliance with France || The colonies fought against France.
+- required colonists to quarter British soldiers || The Quartering Act came in 1765, after salutary neglect ended.
+
+Q C1 Jonathan Edwards and George Whitefield are most closely associated with
++ the Great Awakening || Both were leading revival preachers of the 1730s–1740s.
+- the Enlightenment || The Enlightenment was associated with figures like Locke and Franklin and stressed reason.
+- the Salem witch trials || Those occurred in 1692, before both men's careers.
+- the founding of Pennsylvania || Pennsylvania was founded by William Penn in 1681.
+- the Albany Plan of Union || That was Benjamin Franklin's plan.
+
+Q C2 Which of the following was a significant effect of the Great Awakening?
++ It divided congregations and encouraged colonists to challenge established religious authority || New Light vs. Old Light splits and new denominations taught people to question authority.
+- It strengthened the authority of the Church of England in all colonies || The revivals weakened established churches, including the Anglican Church.
+- It ended slavery in the northern colonies || Slavery remained legal in all colonies at this time.
+- It led directly to the passage of the Navigation Acts || The Navigation Acts began in 1651, long before the Awakening.
+- It caused most colonists to adopt deism || Deism was an Enlightenment belief held by a small elite; the Awakening moved people toward emotional Christianity.
+
+Q C2 The ideas of John Locke most directly influenced colonists' belief that
++ government derives its power from the consent of the governed || Locke argued that people form governments to protect natural rights and may replace governments that violate them.
+- kings rule by divine right || Locke wrote against divine-right monarchy.
+- colonies should exist to enrich the mother country || That is mercantilism.
+- emotional conversion is necessary for salvation || That was the message of Great Awakening preachers.
+- a strong central government should control the economy || Locke focused on natural rights and limited government.
+
+Q S2 The Stono Rebellion of 1739 led South Carolina to
++ adopt a stricter slave code restricting enslaved people's movement and assembly || Authorities responded to the revolt with tighter controls.
+- abolish the slave trade || South Carolina continued importing enslaved Africans for decades.
+- declare war on Spanish Florida || The legislature tightened laws; it did not declare war.
+- grant freedom to enslaved people who converted to Christianity || Baptism did not bring freedom; laws said so explicitly.
+- shift its economy from rice to tobacco || Rice and indigo remained South Carolina's staples.
+
+Q P2 Georgia, founded in 1732, was originally intended to
++ serve as a buffer against Spanish Florida and offer a new start for poor English settlers || Oglethorpe's colony banned slavery and large estates at first.
+- provide a refuge for English Catholics || That was Maryland.
+- be a center of large-scale rice plantations worked by enslaved people from the start || Georgia originally banned slavery; it was legalized only in 1751.
+- serve as the capital of the Dominion of New England || The Dominion was in the North and had collapsed in 1689.
+- protect French fur traders in the Ohio Valley || Georgia was a British colony on the southern frontier.
+
+Q D2 The Albany Plan of Union (1754) is significant because it
++ was an early proposal for colonial cooperation, even though the colonies rejected it || Franklin's plan for a joint council failed because assemblies guarded their taxing power.
+- formally united the colonies against Britain || It was meant to coordinate defense against France, not resist Britain, and was never adopted.
+- ended the French and Indian War || The war ended with the Treaty of Paris in 1763.
+- created the first written constitution in America || That honor usually goes to the Fundamental Orders of Connecticut (1639).
+- was approved by Parliament and every colonial assembly || Both colonial assemblies and the Crown declined to adopt it.
+
+Q D2 As a result of the Treaty of Paris of 1763,
++ France lost nearly all of its North American territory || Britain took Canada and land east of the Mississippi; Spain took Louisiana.
+- Britain ceded Canada to Spain || Britain gained Canada.
+- the United States gained independence || That was the Treaty of Paris of 1783.
+- France gained Florida from Spain || Britain, not France, gained Florida.
+- Native peoples received guaranteed title to the Ohio Valley || The treaty did not protect Native land claims; Native peoples were not party to it.
+
+Q E3 Read the table below on colonial exports (illustrative figures, about 1770).
+T Region | Leading exports
+T New England | Fish, lumber, ships, rum
+T Middle colonies | Wheat, flour, livestock
+T Chesapeake | Tobacco
+T Lower South | Rice, indigo
+Which conclusion is best supported by the table?
++ Each colonial region's economy was shaped by its environment and labor system || Plantation staples dominated the South, grain the Middle colonies, and maritime trades New England.
+- The colonies had already industrialized by 1770 || Exports were mostly raw materials and agricultural products.
+- New England's economy depended mainly on staple crops grown by enslaved labor || New England relied on fishing, lumber, shipbuilding, and trade.
+- Tobacco was grown chiefly in the Middle colonies || The table lists tobacco under the Chesapeake.
+- All regions exported the same goods to Britain || The table shows clear regional differences.
+
+Q P3 The acquittal of John Peter Zenger in 1735 was significant because it
++ helped establish that printing truthful criticism of officials should not be punished as libel || The jury accepted the argument that true statements are not libel, a milestone for press freedom.
+- established the principle of judicial review || Judicial review was established in Marbury v. Madison (1803).
+- ended the practice of salutary neglect || Salutary neglect continued until 1763.
+- created the first colonial newspaper || Colonial newspapers existed before Zenger's trial.
+- led to the repeal of the Navigation Acts || The Navigation Acts remained in force.
+
+@end

@@ -1,0 +1,218 @@
+@unit 4
+@title Road to Revolution & Independence
+@short Revolution
+@years 1763–1783
+@weight 7
+
+@lesson
+## Why this unit matters
+In 1763, colonists celebrated being British. Thirteen years later they declared independence. The exam loves this **chain of action and reaction**: a British law, a colonial protest, a British response. Learn the laws **in order**, what each did, and how colonists answered. Then learn why the outnumbered Americans won the war.
+
+## The problem after 1763
+Britain had won the French and Indian War but owed a massive **debt**, and now had to defend a huge new empire. Its leaders concluded the colonists should **pay part of the cost** and obey the trade laws they had long ignored. Salutary neglect was over.
+
+Trouble began in the West. Native peoples of the Ohio Valley, angry at British traders and settlers, rose up in **Pontiac's Rebellion (1763)**, led by the Ottawa leader **Pontiac**, capturing several British forts. To avoid more costly wars, Britain issued the **Proclamation of 1763**, forbidding colonists to settle **west of the Appalachian Mountains**. Colonists who had fought for that land were furious, and many ignored the line.
+
+=> Pontiac's Rebellion and the cost of frontier wars | Proclamation of 1763 bans settlement west of the Appalachians | Colonists resent limits on westward expansion
+
+## Grenville's taxes and the Stamp Act crisis
+Prime Minister **George Grenville** pushed new revenue laws:
+- **Sugar Act (1764):** actually *lowered* the duty on molasses but meant to **enforce** it, with smugglers tried in **vice-admiralty courts** without juries.
+- **Currency Act (1764):** banned colonial paper money as legal tender.
+- **Stamp Act (1765):** the first **direct tax** on colonists — on newspapers, legal documents, licenses, playing cards. It hit lawyers, printers, and merchants, the most vocal people in the colonies.
+- **Quartering Act (1765):** required colonies to house and supply British troops.
+
+Colonists answered with the principle "**no taxation without representation**." They argued that only their own assemblies could tax them. British officials replied with **virtual representation**: Parliament represented all British subjects, even those who could not vote for it. Colonists rejected this; they believed in **actual representation** by people they elected.
+
+Protest took many forms. Nine colonies sent delegates to the **Stamp Act Congress (1765)**, which petitioned the king. The **Sons of Liberty** intimidated stamp distributors, sometimes violently. Merchants organized **nonimportation agreements** (boycotts of British goods), and women in groups like the **Daughters of Liberty** spun homemade cloth to replace British textiles.
+
+Boycotts hurt British merchants, who pressured Parliament. In **1766** Parliament **repealed the Stamp Act** — but the same day passed the **Declaratory Act**, asserting its power to legislate for the colonies "**in all cases whatsoever**."
+
+## The Townshend Acts and the Boston Massacre
+In **1767**, **Charles Townshend** tried "external" taxes: the **Townshend Acts** placed duties on imported **glass, lead, paint, paper, and tea**, using the money to pay royal governors and judges (freeing them from the assemblies' power of the purse). **John Dickinson's** *Letters from a Farmer in Pennsylvania* argued that Parliament could regulate trade but not tax for revenue. Colonists renewed boycotts.
+
+British troops were sent to Boston. On **March 5, 1770**, a crowd taunted soldiers, who fired, killing five colonists, including **Crispus Attucks**, a man of African and Native descent. Patriots like **Samuel Adams** and **Paul Revere** (whose engraving shaped public opinion) called it the **Boston Massacre**. **John Adams** defended the soldiers in court to show that colonists respected law; most were acquitted. That same year Parliament repealed the Townshend duties **except the tax on tea**, kept as a symbol of its authority.
+
+In 1772, Samuel Adams organized **committees of correspondence** to share news and coordinate resistance among towns — and soon among colonies. They became a network for revolution.
+
+## Tea, punishment, and the First Continental Congress
+The **Tea Act (1773)** helped the struggling **British East India Company** by letting it sell tea directly to the colonies. The tea was actually **cheaper**, even with the tax — but colonists saw a trick to make them accept Parliament's right to tax, and feared monopoly. On **December 16, 1773**, Bostonians disguised as Mohawks dumped 342 chests into the harbor: the **Boston Tea Party**.
+
+=> Tea Act (1773) grants the East India Company a monopoly | Boston Tea Party | Parliament passes the Coercive (Intolerable) Acts to punish Massachusetts
+
+Parliament responded with the **Coercive Acts (1774)**, which colonists called the **Intolerable Acts**: they **closed Boston Harbor** until the tea was paid for, restricted Massachusetts self-government and town meetings, allowed royal officials accused of crimes to be tried elsewhere, and expanded quartering. Separately, the **Quebec Act (1774)** extended Quebec's borders into the Ohio Valley and tolerated Catholicism there — colonists saw it as another blow.
+
+Rather than isolating Massachusetts, the Acts united the colonies. The **First Continental Congress (1774)** met in Philadelphia (Georgia did not attend), endorsed resistance, and created the **Continental Association** to boycott British goods. It still sought rights within the empire, not independence.
+
+## War begins
+In **April 1775**, British troops marched from Boston to seize colonial weapons at Concord. Minutemen met them at **Lexington and Concord** — "the shot heard round the world." The war had begun.
+
+The **Second Continental Congress (May 1775)** created the **Continental Army** with **George Washington** as commander, yet still sent the **Olive Branch Petition** to King George III, asking for reconciliation. The king rejected it and declared the colonies in rebellion. At **Bunker Hill (Breed's Hill)** in June 1775, colonists lost the ground but inflicted heavy British casualties.
+
+In January **1776**, **Thomas Paine** published **Common Sense**, a best-selling pamphlet in plain language that attacked monarchy itself and argued it was "common sense" for an island to stop ruling a continent. It turned many colonists toward independence.
+
+## The Declaration of Independence
+On **July 2, 1776**, Congress voted for independence; on **July 4** it adopted the **Declaration of Independence**, written mainly by **Thomas Jefferson**. It has three parts:
+1. A philosophy drawn from **John Locke**: all men are created equal with **unalienable rights** to "Life, Liberty and the pursuit of Happiness"; governments get power from the **consent of the governed**; people may alter or abolish a government that destroys these rights.
+2. A long list of **grievances against King George III** (not Parliament, which colonists now denied had any authority over them).
+3. A formal declaration that the colonies are "Free and Independent States."
+
+!! The Declaration blames the **king**, not Parliament — a classic exam detail. And its Lockean phrase "consent of the governed" is a favorite passage-identification item.
+
+## Who fought, and why the Americans won
+Colonists were divided. Roughly a fifth were **Loyalists** (Tories) — often royal officials, Anglican clergy, some wealthy merchants, and recent immigrants; many fled to Canada or Britain. Most **Native nations** sided with Britain, which seemed less threatening to their lands; the **Iroquois Confederacy split**. In 1775 Virginia's royal governor issued **Lord Dunmore's Proclamation**, promising freedom to enslaved people who fought for Britain; thousands fled to British lines. About 5,000 African Americans served in the Continental forces.
+
+The war in brief:
+- **1776:** Washington lost New York but won small victories at **Trenton** and **Princeton** that kept the army alive.
+- **1777:** The American victory at **Saratoga** was the **turning point** because it convinced **France** to sign an **alliance (1778)**, bringing money, troops, and a navy. Spain and the Netherlands later joined against Britain.
+- **Winter 1777–1778:** the army suffered at **Valley Forge**; the Prussian officer **Baron von Steuben** drilled it into a professional force. The **Marquis de Lafayette** served as a key French volunteer.
+- **1778–1781:** Britain shifted its strategy to the **South**, hoping for Loyalist support; it took Charleston, but American forces under **Nathanael Greene** wore it down.
+- **1781:** At **Yorktown**, Virginia, Washington's army and French troops besieged **General Cornwallis**, while the **French navy** blocked escape by sea. Cornwallis surrendered — the last major battle.
+
+Americans won because they fought on home ground, needed only to survive rather than conquer, had strong leadership in Washington, received crucial **French aid**, and because Britain faced a long supply line and a costly global war.
+
+## The Treaty of Paris (1783)
+The **Treaty of Paris (1783)** recognized American **independence**, set boundaries from the Atlantic to the **Mississippi River** and from Canada to Florida (which returned to Spain), granted fishing rights off Newfoundland, and recommended that states restore Loyalist property (states largely ignored this). Native allies of Britain were not even mentioned.
+
+## A revolution in society?
+The Revolution raised questions it did not fully answer. **Abigail Adams** asked her husband to "**remember the ladies**" in the new laws; women did not gain political rights but the ideal of **Republican Motherhood** (Unit 6) gave them a role raising virtuous citizens. Several northern states began to abolish slavery — **Pennsylvania** passed the first **gradual emancipation** law in **1780**. Many states ended established churches; Virginia's **Statute for Religious Freedom** (Jefferson, 1786) is the famous example.
+
+@must
+- **Proclamation of 1763** banned settlement west of the Appalachians (after **Pontiac's Rebellion**).
+- **Stamp Act (1765):** first direct tax → "no taxation without representation," **Stamp Act Congress**, boycotts → repealed 1766 + **Declaratory Act**.
+- **Virtual representation** (British view) vs. **actual representation** (colonial view).
+- **Townshend Acts (1767)** duties on imports → **Boston Massacre (1770)**; all repealed but the **tea** tax.
+- **Tea Act (1773)** → **Boston Tea Party** → **Coercive/Intolerable Acts (1774)** → **First Continental Congress**.
+- **Lexington and Concord (April 1775)** start the war; **Olive Branch Petition** = last attempt at reconciliation.
+- **Common Sense (Jan. 1776)**, Thomas Paine: attacked monarchy, pushed independence.
+- **Declaration of Independence:** Jefferson, Locke's natural rights, grievances against **George III**.
+- **Saratoga (1777)** = turning point → **French alliance (1778)**. **Yorktown (1781)** = Cornwallis surrenders.
+- **Treaty of Paris (1783):** independence; western border at the **Mississippi**.
+
+@timeline
+*1763 | Pontiac's Rebellion; Proclamation of 1763 | P
+1764 | Sugar Act and Currency Act | E
+*1765 | Stamp Act; Stamp Act Congress; Quartering Act | P
+1766 | Stamp Act repealed; Declaratory Act | P
+1767 | Townshend Acts | E
+*1770 | Boston Massacre | S
+1772 | Committees of correspondence formed | P
+*1773 | Tea Act; Boston Tea Party | E
+*1774 | Coercive (Intolerable) Acts; First Continental Congress | P
+*1775 | Lexington and Concord; Second Continental Congress; Olive Branch Petition | D
+1776 | Paine's Common Sense (January) | C
+*1776 | Declaration of Independence (July 4) | P
+*1777 | Battle of Saratoga — turning point | D
+1778 | Franco-American alliance | D
+1780 | Pennsylvania passes gradual emancipation | S
+*1781 | Cornwallis surrenders at Yorktown | D
+*1783 | Treaty of Paris recognizes independence | D
+
+@cards
+Proclamation of 1763 :: British order forbidding colonial settlement west of the Appalachian Mountains, issued after Pontiac's Rebellion.
+Pontiac's Rebellion (1763) :: Ottawa-led Native uprising against British forts and settlers in the Ohio Valley and Great Lakes region.
+Sugar Act (1764) :: Lowered the molasses duty but strictly enforced it; smugglers tried in vice-admiralty courts without juries.
+Stamp Act (1765) :: First direct tax on colonists (printed papers); sparked the Stamp Act Congress and boycotts; repealed 1766.
+Virtual representation :: British claim that Parliament represented all British subjects, including colonists who elected no members.
+Declaratory Act (1766) :: Passed with Stamp Act repeal; asserted Parliament's authority over the colonies "in all cases whatsoever."
+Townshend Acts (1767) :: Import duties on glass, lead, paint, paper, and tea; revenue paid royal officials; repealed in 1770 except tea.
+Boston Massacre (1770) :: British soldiers killed five colonists including Crispus Attucks; John Adams defended the soldiers.
+Committees of correspondence :: Networks (Samuel Adams, 1772) that spread news and coordinated resistance across towns and colonies.
+Coercive (Intolerable) Acts (1774) :: Punished Boston for the Tea Party — closed the port, limited Massachusetts self-government.
+First Continental Congress (1774) :: Delegates from 12 colonies; endorsed boycotts via the Continental Association; sought rights, not independence.
+Olive Branch Petition (1775) :: Second Continental Congress's final appeal to George III for reconciliation; he rejected it.
+Common Sense (1776) :: Thomas Paine's pamphlet attacking monarchy and urging independence in plain language.
+Declaration of Independence :: July 4, 1776; Jefferson; natural rights and consent of the governed; grievances against George III.
+Saratoga (1777) :: American victory that convinced France to ally with the United States — the war's turning point.
+Yorktown (1781) :: Cornwallis surrenders to American and French forces aided by the French navy; ends major fighting.
+Treaty of Paris (1783) :: Britain recognizes US independence with boundaries to the Mississippi River.
+Loyalists :: Colonists (about one-fifth) who remained loyal to Britain; many emigrated to Canada or Britain.
+
+@quiz
+Q P1 Colonists objected to the Stamp Act of 1765 primarily because it
++ was a direct tax levied by a Parliament in which they had no elected representatives || "No taxation without representation" was the core objection.
+- was the first tax ever placed on colonial trade || Trade duties under the Navigation Acts had existed for a century.
+- forced colonists to house British soldiers || That was the Quartering Act.
+- closed the port of Boston || That was one of the Coercive Acts (1774).
+- banned settlement west of the Appalachians || That was the Proclamation of 1763.
+
+Q P2 The British argument that Parliament represented all British subjects, including colonists who could not vote for members, was known as
++ virtual representation || Colonists rejected it, insisting on actual representation by people they elected.
+- salutary neglect || That was the earlier policy of loose enforcement of trade laws.
+- mercantilism || Mercantilism is an economic theory, not a theory of representation.
+- popular sovereignty || Popular sovereignty is the idea that the people are the source of power (and, later, that territories decide on slavery).
+- the Declaratory Act || The Declaratory Act asserted Parliament's power but was a law, not the theory of representation itself.
+
+Q D2 Which of the following lists British actions in correct chronological order?
++ Proclamation of 1763, Stamp Act, Townshend Acts, Coercive Acts || 1763, 1765, 1767, 1774.
+- Stamp Act, Proclamation of 1763, Coercive Acts, Townshend Acts || The Proclamation (1763) came first, and the Townshend Acts (1767) preceded the Coercive Acts (1774).
+- Townshend Acts, Stamp Act, Proclamation of 1763, Coercive Acts || This reverses the first three.
+- Coercive Acts, Townshend Acts, Stamp Act, Proclamation of 1763 || This is the reverse order.
+- Proclamation of 1763, Townshend Acts, Stamp Act, Coercive Acts || The Stamp Act (1765) came before the Townshend Acts (1767).
+
+Q E2 The Tea Act of 1773 angered many colonists even though it lowered the price of tea because
++ colonists believed it was a trick to make them accept Parliament's right to tax them and feared monopoly || The East India Company's privileged sales kept the Townshend tea duty and threatened colonial merchants.
+- it placed a new direct tax on all printed documents || That was the Stamp Act.
+- it banned colonists from drinking tea || It did no such thing; it made company tea cheaper.
+- it required colonists to buy tea only from Dutch smugglers || Smugglers sold Dutch tea; the Act favored the East India Company.
+- it was passed by the First Continental Congress || It was passed by Parliament.
+
+Q P2 Parliament passed the Coercive (Intolerable) Acts in direct response to the
++ Boston Tea Party || The Acts punished Massachusetts for destroying the East India Company's tea.
+- Boston Massacre || The Massacre was in 1770; the Coercive Acts were in 1774.
+- Battle of Saratoga || Saratoga was in 1777, during the war.
+- Stamp Act Congress || The Stamp Act Congress met in 1765.
+- publication of Common Sense || Common Sense appeared in 1776.
+
+Q C2 Thomas Paine's Common Sense (1776) was influential primarily because it
++ attacked monarchy and argued for independence in language ordinary colonists could understand || It sold widely and shifted public opinion toward independence.
+- defended the British soldiers involved in the Boston Massacre || John Adams defended the soldiers in court.
+- proposed a plan for colonial union against France || That was the Albany Plan (1754).
+- argued that Parliament could regulate trade but not levy revenue taxes || That was John Dickinson's argument in Letters from a Farmer in Pennsylvania.
+- was the official declaration of war adopted by Congress || It was a private pamphlet, not a congressional document.
+
+Q C2 Read the excerpt below.
+> "...that to secure these rights, Governments are instituted among Men, deriving their just powers from the consent of the governed..."
+The ideas in this passage most directly reflect the influence of
++ John Locke || Locke argued that legitimate government rests on consent and exists to protect natural rights.
+- Jonathan Edwards || Edwards was a revival preacher focused on sin and salvation.
+- King George III || The Declaration was written against George III.
+- Adam Smith || Smith wrote about free markets, not consent of the governed.
+- John Winthrop || Winthrop described a Puritan religious commonwealth, not natural-rights government.
+
+Q D1 The American victory at Saratoga (1777) was a turning point in the Revolutionary War because it
++ persuaded France to form a military alliance with the United States || The French alliance of 1778 brought money, troops, and naval power.
+- ended the war and forced Britain to recognize independence || The war continued until Yorktown (1781) and the Treaty of Paris (1783).
+- led to Spain declaring war on the United States || Spain later fought against Britain, not the United States.
+- gave the Americans control of Canada || American attempts on Canada failed.
+- caused the Loyalists to join the Patriot side || Loyalists remained loyal.
+
+Q D2 Which of the following contributed most directly to the British surrender at Yorktown in 1781?
++ A French fleet blocked British escape by sea while American and French troops besieged the town || Cooperation with France trapped Cornwallis.
+- A large Loyalist army switched sides to support Washington || No such defection occurred.
+- Native American allies of the British refused to fight || Yorktown was decided by the siege and French navy.
+- The Spanish captured London || Spain never captured London.
+- The Second Continental Congress personally negotiated Cornwallis's surrender || Cornwallis surrendered to Washington and French commanders on the field.
+
+Q S2 During the Revolution, Lord Dunmore's Proclamation (1775) offered freedom to
++ enslaved people who escaped to fight for the British || Thousands of enslaved people fled to British lines seeking freedom.
+- Loyalists who joined the Continental Army || Dunmore was the royal governor of Virginia; he recruited for Britain.
+- all enslaved people in the northern colonies || It applied to those who joined British forces, mainly in Virginia.
+- indentured servants who paid their debts || It was aimed at enslaved people (and servants of rebels) who would fight for the Crown.
+- Native Americans who moved west of the Appalachians || It concerned enslaved people, not Native land.
+
+Q P3 Which of the following best describes the purpose of the Olive Branch Petition (1775)?
++ It was a final attempt by the Second Continental Congress to reconcile with King George III || The king rejected it and declared the colonies in open rebellion.
+- It declared the colonies independent from Britain || That was the Declaration of Independence (1776).
+- It organized a boycott of British goods through the Continental Association || That was the First Continental Congress (1774).
+- It requested French military assistance || Formal alliance came only after Saratoga.
+- It proposed the Articles of Confederation || The Articles were drafted in 1776–1777 and ratified in 1781.
+
+Q S3 Which of the following was a social change that resulted, at least in part, from the American Revolution?
++ Several northern states began gradual abolition of slavery || Pennsylvania's 1780 law was the first; revolutionary ideals of liberty exposed the contradiction of slavery.
+- Women gained the right to vote in all states || Women did not gain voting rights (New Jersey briefly allowed some propertied women to vote, but ended it in 1807).
+- Property requirements for voting were abolished everywhere || Most states kept property requirements for decades.
+- The Church of England became the established church in all states || The opposite: many states disestablished churches.
+- Native nations received full citizenship || Native peoples were not granted citizenship.
+
+@end

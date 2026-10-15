@@ -1,0 +1,197 @@
+@unit 2
+@title Founding the Colonies
+@short Founding the Colonies
+@years 1607–1700
+@weight 6
+
+@lesson
+## Why this unit matters
+In less than a century, England planted colonies from Maine to the Carolinas. The exam tests the **contrasts between regions** — the Chesapeake, New England, the Middle colonies, and the Carolinas — and the moments that shaped them: **Jamestown**, the **Mayflower Compact**, **Puritan dissenters**, **Bacon's Rebellion**, and **King Philip's War**. Learn each region as a package: *who came, why, what they grew, and how they governed*.
+
+## The Chesapeake: Virginia and Maryland
+**Jamestown (1607)** was founded by the **Virginia Company**, a joint-stock company hoping for gold. The first years were a disaster: colonists chose a swampy site, many were gentlemen unused to labor, and disease and hunger killed most of them. **John Smith** imposed discipline ("he that will not work shall not eat"), and the colony survived only with food from the **Powhatan Confederacy**. The winter of 1609–1610 was the **"starving time."**
+
+=> Search for profit; no gold found | John Rolfe's tobacco (1612) becomes a cash crop | Demand for land and labor, war with the Powhatans, and a boom economy
+
+**Tobacco** saved Virginia. **John Rolfe** introduced a sweet strain around 1612 (he also married **Pocahontas**, daughter of Powhatan, bringing a brief peace). Tobacco needed vast land and many workers. Virginia attracted labor with the **headright system**: anyone who paid a person's passage received 50 acres per head. Most early laborers were **indentured servants** — mostly poor young Englishmen who worked 4–7 years in return for passage and "freedom dues."
+
+**1619** was a landmark year: the **House of Burgesses**, the first elected representative assembly in English America, met; and the first recorded **Africans** arrived in Virginia. After a Powhatan attack in 1622, the king revoked the Virginia Company's charter and made Virginia a **royal colony (1624)**.
+
+**Maryland (1634)** was a **proprietary colony** granted to **Lord Baltimore** (the Calvert family) as a refuge for English **Catholics**. Because Protestants soon outnumbered Catholics, Maryland passed the **Act of Toleration (1649)**, protecting all *Christians* (not non-Christians) — an early but limited step toward religious freedom.
+
+Chesapeake society was rough: heavily male, high death rates from malaria, scattered tobacco plantations along rivers, few towns, and weak churches and schools.
+
+## Bacon's Rebellion and the turn to slavery
+By the 1670s, many freed servants were landless and angry. Rich planters held the best land near the coast, and Governor **William Berkeley** refused to attack Native peoples on the frontier (he profited from the fur trade). In **1676**, **Nathaniel Bacon** led frontiersmen and servants in **Bacon's Rebellion**, attacking Native villages and burning **Jamestown**. The revolt collapsed when Bacon died of disease.
+
+=> Landless freedmen, falling tobacco prices, frontier conflict with Native peoples | Bacon's Rebellion (1676) | Planters turn from indentured servants to enslaved Africans, who could not become free and rebellious landless men
+
+Planters concluded that freed servants were dangerous. As English wages improved and fewer servants came, and as the **Royal African Company** supplied more captives, the Chesapeake shifted to **African slavery**. Virginia's laws hardened: a 1662 law made a child's status follow the **mother** (so children of enslaved women were enslaved), and later **slave codes** made slavery lifelong, hereditary, and racial.
+
+## New England: Pilgrims and Puritans
+New England was founded for **religious** reasons. Two groups matter:
+
+- **Pilgrims** were **Separatists** — they believed the Church of England was so corrupt they had to leave it entirely. Sailing on the *Mayflower*, they founded **Plymouth (1620)**. Before landing they signed the **Mayflower Compact**, an agreement to form a "civil body politic" and obey laws made for the general good — an early example of **self-government by consent**. With help from **Squanto** (Tisquantum) and the Wampanoag leader **Massasoit**, they survived.
+- **Puritans** wanted to **purify** the Church of England from within (non-separatists). Led by **John Winthrop**, they founded the **Massachusetts Bay Colony (1630)**, part of the **Great Migration** of about 20,000 people in the 1630s. Winthrop told them they would be "**a city upon a hill**" — a model Christian community watched by the world.
+
+Puritans believed in **predestination** (God already chose the saved, the "elect") and the **covenant**: a community bound to God and each other. Only church members (the "visible saints") could vote in the colony. Puritans valued literacy so people could read the Bible: they founded **Harvard (1636)** and passed laws requiring towns to support schools.
+
+New England grew differently from the Chesapeake. Puritans came as **families**, the climate was healthier, and people lived longer. Settlement was organized around compact **towns** with a church and a **town meeting**. The rocky soil supported small **subsistence farms**, so the economy turned to **fishing, lumber, shipbuilding, and trade**.
+
+## Dissent and new colonies
+Puritans wanted religious freedom for themselves, not for others. Dissenters were expelled:
+
+- **Roger Williams** argued for **separation of church and state** and that colonists should buy land fairly from Native peoples. Banished, he founded **Rhode Island (1636)**, which offered broad religious toleration.
+- **Anne Hutchinson** claimed believers could receive direct revelation from God and that ministers were stressing good works (a view called **antinomianism**). She was tried and banished in 1638 — a challenge both to Puritan theology and to expectations of women.
+- **Thomas Hooker** led settlers to **Connecticut**; its **Fundamental Orders (1639)** are often called the first written constitution in America.
+
+As fewer children of Puritans had a conversion experience, churches adopted the **Half-Way Covenant (1662)**, allowing their children to be baptized without full membership — a sign of declining religious zeal. The **Salem witch trials (1692)**, in which 20 people were executed, reflected social tensions, fear, and anxiety in late-1600s Massachusetts.
+
+## Conflict with Native peoples
+Expansion brought war. The **Pequot War (1637)** ended with a massacre of Pequots at Mystic. The bloodiest conflict was **King Philip's War (1675–1676)**, led by the Wampanoag leader **Metacom** (called King Philip by the English). Native forces destroyed many frontier towns, but disease, food shortages, and Mohawk attacks defeated them. Afterward, Native power in southern New England was broken.
+
+=> English settlers pressing onto Native land and pressure to adopt English ways | King Philip's War (1675–1676) | Native resistance in southern New England crushed; colonists' hostility toward Native peoples hardened
+
+## The Middle colonies
+After 1660, the restored king **Charles II** granted land to his supporters (the "Restoration colonies").
+
+- **New York:** the English seized Dutch **New Netherland** in **1664** and renamed it for the **Duke of York**. It kept a diverse population — Dutch, English, Jews, Africans — and New York City became a trading hub.
+- **Pennsylvania (1681):** **William Penn**, a **Quaker**, founded a "**holy experiment**." Quakers believed in an **inner light** in every person, pacifism, and equality (women could preach). Pennsylvania offered **religious toleration**, a representative assembly, and fair purchase of land from the **Lenape** (Delaware) — Philadelphia became the fastest-growing colonial city.
+- **New Jersey** and **Delaware** completed the region.
+
+The Middle colonies were the most **ethnically and religiously diverse**. Fertile soil made them the "**breadbasket**" colonies, exporting wheat and flour.
+
+## The Carolinas
+**Carolina (1663)** was granted to eight proprietors. Its southern part was settled by planters from **Barbados**, an English sugar island where slavery was harsh and dominant. They brought the West Indian slave model with them; later, **rice** cultivation (relying on the skills of West Africans) made **South Carolina** a majority-enslaved colony by the early 1700s. **Charleston** was its port. North Carolina, poorer and more independent, had small tobacco farms.
+
+## Governing the empire
+Colonies were **royal** (crown-run), **proprietary** (owned by an individual), or **corporate/charter** (self-governing, like Connecticut and Rhode Island). England briefly tried to tighten control: James II combined the northern colonies into the **Dominion of New England (1686)** under **Edmund Andros**, abolishing assemblies. When James II was overthrown in England's **Glorious Revolution (1688–1689)**, colonists ousted Andros and the Dominion collapsed — a precedent for resisting arbitrary royal power.
+
+## Big comparison
+- **Chesapeake:** profit, tobacco, servants then slaves, men, scattered plantations, high death rate.
+- **New England:** religion, families, towns, town meetings, diverse small-scale economy, long lives.
+- **Middle:** diversity, toleration, grain, trade cities.
+- **Carolinas:** Barbados model, rice, slave majority.
+
+@must
+- **Jamestown (1607)** survived thanks to **tobacco** (John Rolfe); labor came from **indentured servants** recruited through the **headright system**.
+- **1619:** **House of Burgesses** (first representative assembly) + first Africans in Virginia.
+- **Bacon's Rebellion (1676):** frontier freedmen vs. Gov. Berkeley → planters shift to **enslaved African labor**.
+- **Mayflower Compact (1620):** Pilgrims (Separatists) agree to self-government by consent.
+- **Puritans** (Massachusetts Bay, 1630, Winthrop's "**city upon a hill**") wanted to purify, not leave, the Church of England.
+- Dissenters: **Roger Williams** (church–state separation, Rhode Island) and **Anne Hutchinson** (banished).
+- **King Philip's War (1675–76)** broke Native power in southern New England.
+- **Pennsylvania (1681):** William Penn, **Quakers**, toleration, fair dealings with the Lenape.
+- **Maryland Act of Toleration (1649)** protected all Christians; Maryland was a Catholic refuge.
+- **Half-Way Covenant (1662)** = sign of declining Puritan zeal.
+
+@timeline
+*1607 | Jamestown founded by the Virginia Company | P
+1612 | John Rolfe begins growing tobacco | E
+*1619 | House of Burgesses meets; first Africans arrive in Virginia | P
+*1620 | Pilgrims sign the Mayflower Compact; Plymouth founded | P
+1624 | Virginia becomes a royal colony | P
+*1630 | Massachusetts Bay Colony founded (Winthrop) | C
+1636 | Roger Williams founds Rhode Island; Harvard founded | C
+1638 | Anne Hutchinson banished | C
+1639 | Fundamental Orders of Connecticut | P
+1649 | Maryland Act of Toleration | C
+1662 | Half-Way Covenant | C
+1664 | English seize New Netherland (New York) | D
+*1675–1676 | King Philip's War | S
+*1676 | Bacon's Rebellion | S
+1681 | Pennsylvania granted to William Penn | C
+1686–1689 | Dominion of New England; collapses after the Glorious Revolution | P
+1692 | Salem witch trials | S
+
+@cards
+Headright system :: Virginia policy granting 50 acres to anyone who paid a person's passage; fueled indentured servitude and land concentration.
+Indentured servant :: Laborer who worked 4–7 years in exchange for passage to America and "freedom dues"; main Chesapeake labor force before 1680.
+House of Burgesses (1619) :: Virginia's elected assembly — the first representative legislature in English America.
+Bacon's Rebellion (1676) :: Revolt of Virginia frontiersmen and freedmen against Gov. Berkeley; pushed planters toward enslaved African labor.
+Mayflower Compact (1620) :: Pilgrims' agreement to form a "civil body politic" and obey just laws — early self-government by consent.
+Separatists vs. Puritans :: Separatists (Pilgrims) left the Church of England; Puritans wanted to purify it from within.
+"City upon a hill" :: John Winthrop's 1630 vision of Massachusetts Bay as a model Christian community for the world.
+Roger Williams :: Banished Puritan minister who argued for separation of church and state and founded Rhode Island (1636).
+Anne Hutchinson :: Challenged Puritan ministers with claims of direct revelation (antinomianism); banished in 1638.
+Fundamental Orders (1639) :: Connecticut's plan of government, often called the first written constitution in America.
+Half-Way Covenant (1662) :: Let children of baptized but unconverted Puritans be baptized; showed declining religious zeal.
+King Philip's War (1675–76) :: War led by Metacom (Wampanoag) against New England colonists; ended Native power in southern New England.
+Quakers / Pennsylvania :: William Penn's 1681 "holy experiment": inner light, pacifism, toleration, and fair land purchases from the Lenape.
+Maryland Act of Toleration (1649) :: Granted religious freedom to all Christians in Maryland, a proprietary refuge for Catholics.
+Dominion of New England (1686–89) :: James II's consolidation of northern colonies under Gov. Andros; collapsed after the Glorious Revolution.
+
+@quiz
+Q E1 Which crop became the economic foundation of early Virginia?
++ Tobacco || John Rolfe's tobacco became Virginia's cash crop in the 1610s and drove demand for land and labor.
+- Rice || Rice became important in South Carolina, not Virginia.
+- Cotton || Cotton became dominant in the South only after the cotton gin (1793).
+- Sugar || Sugar was the crop of the Caribbean islands such as Barbados.
+- Wheat || Wheat was the main export of the Middle colonies.
+
+Q P2 The Mayflower Compact is significant because it
++ established a precedent for self-government based on the consent of the settlers || The signers agreed to form a "civil body politic" and obey laws for the general good.
+- guaranteed religious freedom for all Christians in Plymouth || That describes Maryland's Act of Toleration (1649); the Compact did not address religious freedom.
+- created the first elected legislature in English America || That was Virginia's House of Burgesses (1619).
+- united the New England colonies against Native attacks || That was the New England Confederation (1643).
+- granted land to the Pilgrims from the Virginia Company || It was a political agreement among settlers, not a land grant.
+
+Q S2 Which of the following best describes a difference between the Chesapeake and New England colonies in the 1600s?
++ New England settlers more often migrated as families and lived longer than Chesapeake settlers || Healthier climates and family migration gave New England balanced sex ratios and longer lives.
+- The Chesapeake had more towns and town meetings than New England || The opposite: New England was organized around towns; the Chesapeake had scattered plantations.
+- New England relied more heavily on tobacco exports || Tobacco was the Chesapeake staple; New England relied on fishing, lumber, and trade.
+- Chesapeake colonists were mostly religious dissenters seeking to purify the Church of England || That describes the Puritans of New England; the Chesapeake was founded mainly for profit.
+- New England had a higher proportion of indentured servants || Indentured servants were concentrated in the Chesapeake.
+
+Q S3 A major long-term consequence of Bacon's Rebellion was that
++ Virginia planters increasingly replaced indentured servants with enslaved Africans || Planters saw landless freedmen as a threat; enslaved people could not become free and claim land.
+- Virginia became a royal colony for the first time || Virginia became a royal colony in 1624, a half-century earlier.
+- Governor Berkeley adopted a policy of aggressive war against all Native peoples || Berkeley had resisted frontier war; that was one cause of the rebellion.
+- the House of Burgesses was abolished || The Burgesses continued to meet.
+- tobacco cultivation was abandoned in favor of wheat || Tobacco remained Virginia's main crop for another century.
+
+Q C2 Roger Williams and Anne Hutchinson were similar in that both
++ were banished from Massachusetts Bay for challenging Puritan authorities || Both questioned the religious and political order and were expelled in the 1630s.
+- founded colonies as refuges for English Catholics || Maryland was the Catholic refuge, founded by Lord Baltimore.
+- led armed rebellions against the royal governor || Neither led an armed rebellion; Bacon did, in Virginia.
+- were Quaker missionaries in Pennsylvania || Pennsylvania was founded in 1681, decades later; neither was a Quaker.
+- supported strict union of church and state || Williams argued for separation of church and state.
+
+Q P2 Pennsylvania differed from Massachusetts Bay in that Pennsylvania
++ offered religious toleration and generally purchased land from Native peoples || Penn's Quaker "holy experiment" welcomed many faiths and dealt fairly with the Lenape.
+- restricted voting to members of a single established church || That describes Puritan Massachusetts, where voting was tied to church membership.
+- was founded by Separatists who rejected the Church of England || That describes the Pilgrims of Plymouth.
+- had no representative assembly || Pennsylvania had an elected assembly.
+- relied on rice grown by enslaved majority labor || That describes South Carolina.
+
+Q S2 King Philip's War (1675–1676) resulted in
++ the destruction of Native power in southern New England || Despite heavy colonial losses, Metacom's forces were defeated and survivors were killed, enslaved, or displaced.
+- a lasting alliance between Puritans and the Wampanoag || The war destroyed the earlier alliance with the Wampanoag.
+- the expulsion of the English from Massachusetts || Colonists suffered badly but won the war.
+- French control of New England's fur trade || The French did not gain New England.
+- the abolition of slavery in Massachusetts || Many defeated Native people were actually sold into slavery.
+
+Q C3 The Half-Way Covenant of 1662 is best understood as evidence of
++ declining religious fervor among the children and grandchildren of the first Puritans || Fewer people reported conversion experiences, so churches relaxed baptism rules to keep families in the church.
+- the growing power of Quakers in New England || Quakers were persecuted in Massachusetts; the Covenant was an internal Puritan reform.
+- Puritan acceptance of separation of church and state || Church and state remained closely linked in Massachusetts.
+- a peace treaty ending the Pequot War || The Covenant was a church membership rule, not a treaty.
+- King Charles II's effort to impose the Church of England on Massachusetts || The Covenant was adopted by Puritan ministers themselves.
+
+Q P3 Read the excerpt below.
+> "We must consider that we shall be as a city upon a hill. The eyes of all people are upon us."
+The author of this statement most likely intended to
++ urge Massachusetts Bay colonists to build a model Christian community || John Winthrop (1630) wanted the Puritan colony to be an example to the world.
+- justify Virginia's search for gold and profit || Winthrop spoke of religious mission, not profit.
+- call for colonial independence from England || Independence was not on the table in 1630.
+- defend the separation of church and state || That was Roger Williams's position, not Winthrop's.
+- encourage toleration of Quakers and Catholics || Puritan Massachusetts did not tolerate dissenting faiths.
+
+Q D3 The collapse of the Dominion of New England in 1689 was most directly connected to
++ the Glorious Revolution that overthrew James II in England || When James II fell, Boston colonists arrested Governor Andros and the Dominion ended.
+- the end of King Philip's War || King Philip's War ended in 1676, a decade before the Dominion was formed.
+- the outbreak of the French and Indian War || That war began in 1754.
+- the Salem witch trials || The trials took place in 1692, after the Dominion had already collapsed.
+- the English conquest of New Netherland || That occurred in 1664, before the Dominion was created.
+
+@end

@@ -1,0 +1,184 @@
+@unit 5
+@title Confederation & Constitution
+@short Constitution
+@years 1781–1789
+@weight 5
+
+@lesson
+## Why this unit matters
+Having rejected a powerful king and Parliament, Americans first built a **deliberately weak** national government — the **Articles of Confederation**. Its failures led to the **Constitution of 1787**. The exam tests the **weaknesses of the Articles**, its one big success (the **Northwest Ordinance**), **Shays' Rebellion**, the **compromises** of the Constitutional Convention, and the **Federalist vs. Anti-Federalist** debate. Think of it as a story: *fear of tyranny → too-weak government → crisis → stronger but limited government*.
+
+## State constitutions first
+After 1776, each state wrote a **written constitution** — a new idea, since Britain's constitution was unwritten. Most included a **bill of rights**, made the **legislature** the strongest branch, and kept **governors weak**, reflecting distrust of executive power after George III. Massachusetts (1780) pioneered having a special **convention** write the constitution and the people ratify it — the model later used for the federal Constitution.
+
+## The Articles of Confederation (ratified 1781)
+Drafted in 1777, the **Articles of Confederation** created a "**firm league of friendship**" among sovereign states. Ratification was delayed until **1781** because **Maryland** refused to sign until states with western land claims (like Virginia) gave those lands to the national government.
+
+How it worked:
+- A **one-house (unicameral) Congress**; each state had **one vote**, regardless of population.
+- **No executive** (no president) and **no national courts**.
+- Major laws needed **9 of 13** states; amendments needed **all 13** (unanimity).
+- Congress could make war and treaties, borrow money, and run a postal system.
+- But Congress **could not tax** (it could only request money from the states), **could not regulate interstate or foreign commerce**, and **could not force states** to obey.
+
+=> Fear of centralized tyranny after the Revolution | Articles create a weak league of sovereign states | National government cannot tax, pay debts, regulate trade, or enforce its laws
+
+## The great success: western lands
+Congress handled the western lands well — its most lasting achievement.
+
+- **Land Ordinance of 1785:** surveyed the Northwest Territory into **townships** six miles square, each divided into 36 sections; one section in each township was reserved to support **public schools**. Land sales were meant to pay the national debt.
+- **Northwest Ordinance of 1787:** created a government for the territory north of the Ohio River and set a path to **statehood on equal footing** with the original states (when a territory reached 60,000 free inhabitants). It **banned slavery** in the Northwest Territory, protected religious freedom and trial by jury, and encouraged education.
+
+!! The Northwest Ordinance is a classic test item: *equal statehood* + *ban on slavery north of the Ohio River* + *the Articles' greatest achievement*.
+
+## Troubles of the 1780s
+- **Money and debt:** Congress could not pay soldiers or foreign loans; states printed paper money that lost value.
+- **Trade:** states taxed one another's goods; Britain closed its West Indies ports to American ships.
+- **Foreign weakness:** Britain kept **forts in the Northwest** despite the peace treaty; **Spain closed the Mississippi River** and New Orleans to American trade; **Barbary pirates** of North Africa seized American ships.
+
+The crisis that shocked leaders was **Shays' Rebellion (1786–1787)**. In western Massachusetts, farmers — many Revolutionary veterans — faced high state taxes, debts, and the **foreclosure** of their farms. Led by **Daniel Shays**, they closed courts to stop foreclosures and marched on the federal arsenal at Springfield. The national government **could not respond**; Massachusetts merchants funded a state militia that crushed the rebellion.
+
+=> Debt, high state taxes, and farm foreclosures | Shays' Rebellion (1786–1787) | Leaders fear disorder and call for a stronger national government at the Philadelphia Convention
+
+A meeting on trade at the **Annapolis Convention (1786)** drew only five states, but **Alexander Hamilton** and **James Madison** used it to call for a broader convention in Philadelphia in 1787.
+
+## The Constitutional Convention (1787)
+Fifty-five delegates met in Philadelphia from May to September 1787, with **George Washington** presiding. **James Madison** did so much of the planning that he is called the "**Father of the Constitution**." They quickly decided to replace the Articles rather than revise them, and worked in secret.
+
+The key debates ended in compromises:
+
+- **Representation:** The **Virginia Plan** (Madison; favored large states) proposed a two-house legislature with representation by **population**. The **New Jersey Plan** (favored small states) kept one house with **equal** votes per state. The **Great (Connecticut) Compromise**, proposed by **Roger Sherman**, created a **House of Representatives** based on population and a **Senate** with **two senators per state**.
+- **Slavery and representation:** The **Three-Fifths Compromise** counted three-fifths of the enslaved population for both representation and direct taxes — boosting southern power in the House and Electoral College.
+- **Slave trade:** Congress could not ban the **international slave trade before 1808** (it did so in 1808). A **fugitive slave clause** required the return of escaped enslaved people. The word "slavery" never appears.
+- **Commerce:** Congress could regulate interstate and foreign trade, but could **not tax exports** (a concession to southern exporters).
+- **Choosing a president:** the **Electoral College**, a compromise between election by Congress and by direct popular vote.
+
+## Principles of the Constitution
+- **Popular sovereignty:** power comes from the people ("We the People").
+- **Federalism:** power divided between national and state governments; the **supremacy clause** makes the Constitution and federal laws the "supreme law of the land."
+- **Separation of powers** among legislative, executive, and judicial branches, with **checks and balances** (veto, veto override, Senate confirmation, impeachment).
+- **Limited government** and an **amendment process** (two-thirds of Congress, three-fourths of states).
+- Congress gained the powers the Articles lacked: to **tax**, **regulate commerce**, and make laws "**necessary and proper**" for its powers.
+
+## Ratification: Federalists vs. Anti-Federalists
+The Constitution required approval by **9 of 13** state conventions. A fierce debate followed.
+
+- **Federalists** supported the Constitution. Hamilton, Madison, and John Jay wrote **The Federalist Papers** (85 essays) to win over New York. In **Federalist No. 10**, Madison argued that a **large republic** would control **factions** because so many interests would check each other. Federalists tended to be merchants, urban dwellers, and the well-educated.
+- **Anti-Federalists** — including **Patrick Henry** and **George Mason** — feared the strong central government would crush the states and individual liberty, that a president might become a king, and above all that the Constitution lacked a **bill of rights**. They were often small farmers and backcountry people.
+
+=> Anti-Federalist fear that the Constitution lacked protection for individual liberties | Federalists promise to add amendments | Bill of Rights (ratified 1791)
+
+**New Hampshire** became the ninth state in June **1788**, putting the Constitution into effect, but the large states of **Virginia** and **New York** ratified only narrowly after Federalists promised a bill of rights. North Carolina and Rhode Island joined after the new government began. **George Washington** was inaugurated in **1789**, and Madison drafted the **Bill of Rights** — the first ten amendments, ratified in **1791** (covered in Unit 6).
+
+@must
+- **Articles of Confederation (1781):** one-house Congress, one vote per state, **no power to tax or regulate commerce**, no executive or courts, amendments need unanimity.
+- **Northwest Ordinance (1787):** path to statehood on equal footing; **banned slavery** north of the Ohio River — the Articles' biggest success.
+- **Land Ordinance of 1785:** townships surveyed; a section reserved for schools.
+- **Shays' Rebellion (1786–87):** indebted Massachusetts farmers revolt → proves the Articles too weak.
+- **Great (Connecticut) Compromise:** House by population + Senate equal (Roger Sherman).
+- **Three-Fifths Compromise:** three-fifths of enslaved people counted for representation and taxation.
+- Slave trade could not be banned **before 1808**; Congress could not tax exports.
+- **Federalists** (Hamilton, Madison, Jay; *The Federalist Papers*, No. 10 on factions) vs. **Anti-Federalists** (Patrick Henry, George Mason; wanted a bill of rights).
+- **Madison** = "Father of the Constitution"; ratified 1788 (9 states); Bill of Rights 1791.
+
+@timeline
+1777 | Articles of Confederation drafted | P
+1780 | Massachusetts constitution ratified by the people | P
+*1781 | Articles of Confederation ratified | P
+1785 | Land Ordinance surveys the Northwest | E
+1786 | Annapolis Convention | P
+*1786–1787 | Shays' Rebellion in Massachusetts | S
+*1787 | Constitutional Convention in Philadelphia | P
+*1787 | Northwest Ordinance | P
+1787–1788 | The Federalist Papers published | C
+*1788 | Constitution ratified (New Hampshire is the ninth state) | P
+*1789 | Washington inaugurated | P
+1791 | Bill of Rights ratified | P
+
+@cards
+Articles of Confederation :: First US national government (1781–1789): unicameral Congress, one vote per state, no power to tax or regulate trade, no executive.
+Northwest Ordinance (1787) :: Organized the Northwest Territory, set a path to equal statehood, and banned slavery north of the Ohio River.
+Land Ordinance of 1785 :: Surveyed western land into 6-mile-square townships of 36 sections, reserving one section for public schools.
+Shays' Rebellion (1786–87) :: Revolt of indebted Massachusetts farmers against foreclosures and taxes; exposed the Articles' weakness.
+Virginia Plan :: Madison's plan for a strong national government with a two-house legislature based on population (favored large states).
+New Jersey Plan :: Plan for a one-house legislature with equal votes per state (favored small states).
+Great (Connecticut) Compromise :: House of Representatives by population, Senate with two members per state; proposed by Roger Sherman.
+Three-Fifths Compromise :: Counted three-fifths of enslaved people toward a state's representation and direct taxes.
+Federalism :: Division of power between national and state governments.
+Checks and balances :: Each branch can limit the others (veto, override, confirmation, impeachment, judicial review).
+Federalists :: Supporters of the Constitution — Hamilton, Madison, Jay; wrote The Federalist Papers.
+Federalist No. 10 :: Madison's essay arguing a large republic controls the dangers of faction.
+Anti-Federalists :: Opponents of the Constitution (Patrick Henry, George Mason); feared central power and demanded a bill of rights.
+
+@quiz
+Q P1 Which of the following was a major weakness of the Articles of Confederation?
++ Congress had no power to levy taxes || Congress could only request money from the states, which often refused.
+- The president had too much power over Congress || There was no president or separate executive under the Articles.
+- Large states dominated the national legislature || Each state had one vote regardless of size.
+- National courts overruled state laws too often || There were no national courts.
+- Congress could easily amend the Articles with a simple majority || Amendments required the approval of all thirteen states.
+
+Q P2 The Northwest Ordinance of 1787 is considered the most important achievement of the Confederation government because it
++ established a process for territories to become states equal to the original states || It also banned slavery in the Northwest Territory and protected civil liberties.
+- allowed slavery to expand north of the Ohio River || It banned slavery in the Northwest Territory.
+- gave the national government the power to tax || The Articles never gained a taxing power.
+- ended the Barbary pirates' attacks on American shipping || The Barbary problem continued until the early 1800s.
+- created the Electoral College || The Electoral College was created by the Constitution.
+
+Q S2 Shays' Rebellion (1786–1787) was significant because it
++ convinced many leaders that a stronger national government was needed || The Confederation could not respond, adding urgency to the Philadelphia Convention.
+- was the first battle of the American Revolution || The Revolution began at Lexington and Concord in 1775.
+- led to the immediate abolition of debtor prisons || It did not have that result.
+- was supported by Massachusetts merchants and creditors || Merchants funded the militia that suppressed it.
+- forced Britain to give up its forts in the Northwest || Britain kept the forts until after Jay's Treaty (1794).
+
+Q P2 The Great (Connecticut) Compromise resolved a dispute over
++ representation of large and small states in Congress || It created a House based on population and a Senate with equal representation.
+- whether to count enslaved people for representation || That was resolved by the Three-Fifths Compromise.
+- whether Congress could tax exports || That was settled separately: Congress could not tax exports.
+- how the president would be chosen || That was resolved through the Electoral College.
+- whether to include a bill of rights || The Bill of Rights was added after ratification.
+
+Q P1 Which group opposed ratification of the Constitution largely because it lacked a bill of rights?
++ Anti-Federalists || Leaders like Patrick Henry and George Mason feared a strong government without protections for individual liberties.
+- Federalists || Federalists supported ratification as written, later agreeing to add amendments.
+- Loyalists || Loyalists had supported Britain during the Revolution.
+- Sons of Liberty || That was a pre-Revolutionary protest group.
+- Whigs || The Whig Party formed in the 1830s.
+
+Q C2 In Federalist No. 10, James Madison argued that
++ a large republic would make it difficult for any single faction to dominate || Many competing interests would check one another.
+- the national government should be abolished in favor of state sovereignty || Madison argued for a stronger national government.
+- only a small republic could preserve liberty || That was a common Anti-Federalist argument; Madison argued the opposite.
+- the president should serve for life || Madison made no such argument.
+- the states should be allowed to secede at will || Federalist No. 10 is about controlling factions.
+
+Q S3 The Three-Fifths Compromise had which of the following effects?
++ It increased the representation of southern states in the House of Representatives || Counting part of the enslaved population gave slaveholding states more seats and electoral votes.
+- It gave enslaved people three-fifths of a vote in elections || Enslaved people could not vote at all; the clause counted population for apportionment.
+- It abolished the international slave trade in 1787 || The Constitution barred Congress from ending the trade before 1808.
+- It reduced southern power in the Electoral College || Because electors are based on representation, it increased southern power.
+- It applied only to the Senate || It affected the House (and direct taxes), not the Senate.
+
+Q E2 Under the Articles of Confederation, which of the following was a major economic problem?
++ States imposed tariffs on each other's goods and Congress could not regulate commerce || The lack of a national commerce power produced trade disputes.
+- The national bank charged interest rates that were too high || There was no national bank under the Articles (Hamilton's came in 1791).
+- Congress's high federal income tax burdened farmers || Congress had no taxing power.
+- Too much gold flowed into the country from Spain || The problem was scarce hard money, not too much gold.
+- Federal tariffs protected manufacturing too heavily || The Confederation could not levy tariffs.
+
+Q P3 Which of the following was a concession made to southern delegates at the Constitutional Convention?
++ Congress was prohibited from taxing exports || Southern states depended on exporting tobacco, rice, and indigo.
+- Congress was given power to abolish slavery in 1800 || No such power was granted.
+- The Senate was based on population || The Senate gives each state two members.
+- The president had to be from a southern state || No such rule exists.
+- The New Jersey Plan was adopted without change || The final plan was a compromise; the New Jersey Plan was a small-state plan, not a southern one.
+
+Q D3 Which of the following foreign policy problems faced the United States under the Articles of Confederation?
++ Spain closed the lower Mississippi River and New Orleans to American trade || Western farmers depended on the river to ship crops; Congress could do little.
+- France invaded the Northwest Territory || France was an ally and made no such invasion.
+- Britain demanded the return of the thirteen colonies by treaty || Britain had recognized independence in 1783, though it kept frontier forts.
+- Mexico seized Texas from the United States || Texas was Spanish territory, and Mexico was not yet independent.
+- Russia blockaded American ports || Russia posed no such threat.
+
+@end
