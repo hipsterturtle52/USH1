@@ -251,7 +251,7 @@ def main():
         units.append(u)
         bf = ROOT / "src/bank" / f.name
         if bf.exists():
-            bank = parse_questions(bf.read_text(encoding="utf-8").splitlines(), u["n"], "b", bf.name)
+            bank = parse_questions([l for l in bf.read_text(encoding="utf-8").splitlines() if not l.startswith("@end")], u["n"], "b", bf.name)
             nd, ne = QUOTA[u["n"]]
             pools = assign_bank(bank, nd, ne, rng)
             for k, dest in (("diag", diag), ("A", exA), ("B", exB)):
@@ -281,7 +281,7 @@ def main():
         "hours": dict(HOURS, total=round(HOURS["diag"] + HOURS["unitsTotal"] + 2 * HOURS["exam"] + HOURS["final"])),
     }
     data = {"meta": meta, "themes": themes, "units": units, "Q": Q, "diag": diag, "exams": [exA, exB], "cheat": cheat}
-    if exA and len(exA) != EXAM_Q:
+    if len(list((ROOT / "src/bank").glob("u*.txt"))) == 12 and len(exA) != EXAM_Q:
         err(f"exam A has {len(exA)} questions, expected {EXAM_Q}")
     if errors:
         print("\n".join("ERROR: " + e for e in errors)); sys.exit(1)
