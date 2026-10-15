@@ -1,0 +1,204 @@
+Q P1 Which of the following was a precedent set by George Washington?
++ Serving only two terms as president || The two-term tradition lasted until 1940.
+- Vetoing the Bill of Rights || Washington supported the Bill of Rights.
+- Choosing cabinet members only from his own party || Washington's cabinet included rivals Hamilton and Jefferson.
+- Declaring war on France in 1793 || He issued a Proclamation of Neutrality instead.
+- Refusing to take an oath of office || Washington took the oath and began that tradition.
+
+Q P1 The first ten amendments to the Constitution are known as
++ the Bill of Rights || Ratified in 1791, they protect individual liberties.
+- the Articles of Confederation || The Articles were the first national government.
+- the Federalist Papers || Those were essays supporting ratification.
+- the Northwest Ordinance || That organized western territory.
+- the Virginia and Kentucky Resolutions || Those were states' rights resolutions of 1798.
+
+Q C1 The First Amendment protects
++ freedom of religion, speech, press, assembly, and petition || These are the core civil liberties of the Bill of Rights.
+- the right to bear arms || That is the Second Amendment.
+- protection against unreasonable searches and seizures || That is the Fourth Amendment.
+- the reservation of powers to the states || That is the Tenth Amendment.
+- the right to a jury trial in civil cases || That is the Seventh Amendment.
+
+Q E1 Alexander Hamilton proposed that the federal government assume the states' Revolutionary War debts in order to
++ strengthen national credit and tie wealthy creditors to the new government || Creditors would have a stake in the government's success.
+- punish states that had supported the British || The plan was about national finance, not punishment.
+- force states to abolish slavery || Assumption had nothing to do with slavery.
+- eliminate the need for any federal taxes || Paying the debt required federal revenue.
+- reduce the power of the federal government || Hamilton wanted to strengthen it.
+
+Q D1 Washington's Proclamation of Neutrality (1793) declared that the United States would
++ remain neutral in the war between France and Britain || Washington believed the young nation could not risk war.
+- join France in its war against Britain || Washington refused despite the 1778 alliance.
+- join Britain against revolutionary France || The US stayed neutral.
+- stop all foreign trade || That was Jefferson's Embargo Act of 1807.
+- annex Canada || The proclamation concerned neutrality in Europe's war.
+
+Q S1 Which of the following groups was most likely to support the Democratic-Republican Party in the 1790s?
++ Southern and western farmers || Jefferson's party championed an agrarian republic.
+- New England merchants and bankers || They tended to support the Federalists.
+- Supporters of the Bank of the United States || The Bank was a Federalist program.
+- Backers of the Alien and Sedition Acts || Federalists passed those Acts.
+- Pro-British shipping interests || Federalists favored Britain.
+
+Q D1 Pinckney's Treaty (1795) was popular in the West because it
++ secured American navigation of the Mississippi River and the right of deposit at New Orleans || Western farmers depended on shipping crops downriver.
+- removed British troops from the Northwest || That was Jay's Treaty.
+- purchased the Louisiana Territory || The purchase came in 1803.
+- ended impressment of American sailors || Impressment involved Britain, not Spain.
+- defeated the Native confederacy at Fallen Timbers || Fallen Timbers was a military battle.
+
+Q C1 Lewis and Clark's expedition (1804–1806) was sent to
++ explore the Louisiana Purchase and the route to the Pacific || Sacagawea helped guide part of the journey.
+- negotiate the purchase of Florida || Florida was acquired in 1819.
+- fight the Barbary pirates || That was a naval war in the Mediterranean.
+- survey the Northwest Territory into townships || That was done under the Land Ordinance of 1785.
+- remove the Cherokee to Oklahoma || Indian Removal came in the 1830s.
+
+Q P2 The XYZ Affair (1797–1798) led to
++ an undeclared naval war with France and the passage of the Alien and Sedition Acts || Federalists capitalized on anti-French anger.
+- the Louisiana Purchase || The purchase came in 1803 under Jefferson.
+- a war with Britain || The affair involved French demands for bribes.
+- the Whiskey Rebellion || The Whiskey Rebellion occurred in 1794.
+- the end of the Federalist Party || Federalists initially gained popularity from it.
+
+Q S1 The idea of "Republican Motherhood" in the early republic held that women
++ served the nation by raising virtuous, educated citizens || It justified improved education for women.
+- should vote and hold public office || It did not extend political rights to women.
+- should work in factories to support the economy || The ideal centered on the home.
+- should serve in the military || It assigned women a domestic civic role.
+- should not receive any education || It encouraged female education.
+
+Q E2 The Embargo Act of 1807 hurt New England especially hard because
++ the region's economy depended heavily on shipping and overseas trade || Ships sat idle, and New England Federalists denounced the law.
+- New England depended on exporting cotton to France || Cotton was a southern export.
+- the law raised taxes on New England factories || It banned exports rather than taxing factories.
+- New England was occupied by British troops || There was no British occupation.
+- the law banned fishing in the Atlantic || It banned exports, not fishing itself.
+
+Q D2 Which of the following was a provision of the Treaty of Greenville (1795)?
++ Native nations ceded most of present-day Ohio to the United States || It followed the American victory at Fallen Timbers.
+- Spain granted the right of deposit at New Orleans || That was Pinckney's Treaty.
+- Britain agreed to leave its northwestern forts || That was Jay's Treaty.
+- France sold Louisiana to the United States || That was the Louisiana Purchase (1803).
+- The Cherokee agreed to move west of the Mississippi || That was the Treaty of New Echota (1835).
+
+Q P2 Federalists and Democratic-Republicans disagreed most sharply over
++ the extent of federal power and how strictly to interpret the Constitution || Hamilton's loose construction clashed with Jefferson's strict construction.
+- whether to ratify the Declaration of Independence || The Declaration was adopted in 1776.
+- whether George Washington should be the first president || Washington was chosen unanimously.
+- whether the United States should have a written constitution || Both parties operated under the Constitution.
+- whether to abolish the Electoral College || Neither party proposed that.
+
+Q S2 Gabriel's Rebellion (1800) in Virginia is best described as
++ a planned uprising of enslaved people near Richmond that was betrayed and crushed || It reflected enslaved people's hopes inspired by revolutionary ideals.
+- a revolt of western farmers against the whiskey tax || That was the Whiskey Rebellion (1794).
+- a Native American attack on Virginia settlers || It was a planned slave revolt.
+- a Federalist plot to overthrow Jefferson || It was a slave conspiracy.
+- a successful revolt that freed Virginia's enslaved people || It was suppressed before it began.
+
+Q E2 Hamilton's Report on Manufactures proposed
++ protective tariffs and government support to promote American industry || Congress largely did not adopt it in the 1790s.
+- abolishing all tariffs to promote free trade || Hamilton favored tariffs.
+- an economy based entirely on agriculture || That was closer to Jefferson's vision.
+- nationalizing all American factories || Hamilton favored private enterprise supported by government.
+- banning imports of British goods || He proposed protective duties, not a ban.
+
+Q C2 The Sedition Act of 1798 was criticized as a violation of
++ freedom of speech and the press under the First Amendment || It was used to jail Republican newspaper editors.
+- the right to bear arms || The Act concerned criticism of the government.
+- the ban on quartering soldiers || It had nothing to do with soldiers.
+- the Tenth Amendment's protection of property || The Tenth Amendment reserves powers to states and people.
+- the right to a speedy trial || Critics focused on free speech and press.
+
+Q D2 The Battle of New Orleans (January 1815) is notable because it
++ was fought after the Treaty of Ghent had been signed but before news of the peace arrived || It made Andrew Jackson a national hero.
+- forced Britain to give up Canada || No territory changed hands.
+- was the first battle of the War of 1812 || The war began in 1812.
+- led to the burning of Washington, D.C. || Washington was burned in 1814.
+- was a British victory that ended the war || It was a decisive American victory.
+
+Q C2 Jefferson's purchase of Louisiana despite his belief in strict construction shows that
++ he was willing to put practical national interests ahead of his constitutional principles || He relied on the treaty-making power.
+- he believed the Constitution clearly allowed buying land || He had doubts about its constitutionality.
+- he wanted to expand the power of the Federalist Party || He was the leader of the Democratic-Republicans.
+- the Supreme Court had ordered the purchase || The Court played no role.
+- he opposed westward expansion || He strongly favored expansion.
+
+Q P2 The election of 1800 exposed a flaw in the Electoral College that was corrected by
++ the 12th Amendment, which required separate votes for president and vice president || Jefferson and Burr had tied because electors cast two undifferentiated votes.
+- the 10th Amendment || The 10th Amendment reserves powers to the states.
+- Marbury v. Madison || Marbury established judicial review.
+- the Judiciary Act of 1789 || That created the federal court system.
+- the Bill of Rights || The Bill of Rights was ratified in 1791 and concerns liberties.
+
+Q S2 Which of the following best describes Tecumseh's goal?
++ Uniting Native nations to resist further American expansion || Tecumseh and his brother built a pan-Indian confederacy.
+- Assimilating Native peoples into American society || He opposed land cessions and assimilation.
+- Allying with Spain to conquer Florida || He allied with Britain.
+- Moving all Native peoples west of the Rocky Mountains || He sought to hold land in the Northwest.
+- Negotiating the Louisiana Purchase with France || He was not involved in the purchase.
+
+Q E1 Eli Whitney's cotton gin (1793) made it much easier to
++ separate seeds from short-staple cotton fibers || This made upland cotton profitable across the South.
+- spin cotton thread in New England mills || Spinning was done by mills like Samuel Slater's.
+- weave cotton cloth on power looms || Weaving is a separate process.
+- ship cotton down the Mississippi River || The gin processed cotton; it did not transport it.
+- plant cotton without enslaved labor || Cotton cultivation still relied on enslaved labor.
+
+Q D2 Washington's Farewell Address most strongly influenced later American foreign policy by
++ warning against permanent alliances with foreign nations || The advice shaped a long tradition of avoiding entangling alliances.
+- calling for an alliance with France || He warned against permanent alliances.
+- urging war with Britain over impressment || He supported neutrality.
+- supporting the annexation of Canada || He did not propose expansion into Canada.
+- endorsing the Monroe Doctrine || The Monroe Doctrine came in 1823, after his death.
+
+Q C3 Federalists' passage of the Alien Acts in 1798 was motivated partly by
++ the fact that many recent immigrants supported the Democratic-Republicans || Lengthening the naturalization period limited new Republican voters.
+- a desire to encourage French immigration || Federalists were hostile to French influence.
+- Jefferson's request for stricter immigration laws || Jefferson opposed the Acts.
+- a Supreme Court ruling against immigration || There was no such ruling.
+- a shortage of workers in New England factories || The Acts restricted rather than encouraged immigration.
+
+Q E2 Why did Jefferson keep the Bank of the United States even though he had opposed its creation?
++ It had proved useful to the nation's finances, and its charter ran until 1811 || Jefferson cut debt and taxes but left the Bank in place.
+- The Supreme Court ordered him to keep it || No court ruled on the Bank under Jefferson.
+- He had become a Federalist || Jefferson remained the leader of the Democratic-Republicans.
+- The Bank financed the Embargo Act || There is no basis for this.
+- Congress abolished it in 1801 || The Bank's charter expired in 1811.
+
+Q P3 Chief Justice John Marshall's ruling in Marbury v. Madison was politically skillful because
++ he denied Marbury's claim while claiming for the Court the far greater power of judicial review || Jefferson had no order to defy, but the Court's power grew.
+- he ordered Jefferson to deliver Marbury's commission || Marshall ruled the Court lacked authority to issue that order.
+- he declared the Alien and Sedition Acts unconstitutional || Those Acts had already expired.
+- he endorsed the Virginia and Kentucky Resolutions || The ruling strengthened federal judicial power.
+- he upheld every part of the Judiciary Act of 1789 || He struck down part of it.
+
+Q S3 Which of the following groups most strongly opposed the War of 1812?
++ New England Federalists || Their opposition culminated in the Hartford Convention.
+- Western War Hawks || War Hawks pushed for war.
+- Tecumseh's confederacy || Tecumseh allied with Britain against the US.
+- Southern Democratic-Republicans || Many southerners supported the war.
+- Andrew Jackson's Tennessee militia || Jackson fought in the war.
+
+Q D3 The War of 1812 contributed to the decline of Native American resistance east of the Mississippi primarily because
++ Tecumseh was killed and the British abandoned their Native allies in the peace settlement || The Treaty of Ghent left Native nations without British support.
+- the Treaty of Ghent granted Native nations independent states || Proposals for a Native buffer state were dropped.
+- the United States made Tecumseh governor of Indiana || Tecumseh died fighting the Americans.
+- Native nations joined the Hartford Convention || The Convention was a Federalist meeting.
+- France returned to North America to protect Native allies || France had sold Louisiana in 1803.
+
+Q P3 Which of the following lists events in correct chronological order?
++ Whiskey Rebellion, Alien and Sedition Acts, Louisiana Purchase, Embargo Act || 1794, 1798, 1803, 1807.
+- Alien and Sedition Acts, Whiskey Rebellion, Embargo Act, Louisiana Purchase || The Whiskey Rebellion (1794) preceded the Acts (1798), and the Purchase (1803) preceded the Embargo (1807).
+- Louisiana Purchase, Embargo Act, Whiskey Rebellion, Alien and Sedition Acts || The Whiskey Rebellion was the earliest of the four.
+- Embargo Act, Louisiana Purchase, Alien and Sedition Acts, Whiskey Rebellion || This is the reverse order.
+- Whiskey Rebellion, Louisiana Purchase, Alien and Sedition Acts, Embargo Act || The Alien and Sedition Acts (1798) preceded the Purchase (1803).
+
+Q C3 The Virginia and Kentucky Resolutions are significant in the long run because they
++ provided a theory of states' rights later used to justify nullification and secession || Calhoun and secessionists built on the compact theory.
+- established judicial review || That came from Marbury v. Madison.
+- were adopted by most other states in 1799 || No other state endorsed them at the time.
+- led to the immediate repeal of the Bill of Rights || The Bill of Rights was never repealed.
+- strengthened the Federalist Party || They were written by Republicans against Federalist laws.
+
+@end

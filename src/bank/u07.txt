@@ -1,0 +1,157 @@
+Q E1 The Erie Canal connected
++ the Hudson River with the Great Lakes || It made New York City the gateway to the Midwest.
+- the Mississippi River with the Gulf of Mexico || The Mississippi flows naturally into the Gulf.
+- Boston with Lake Champlain || The canal ran across upstate New York.
+- the Ohio River with Chesapeake Bay || That was the goal of other projects, not the Erie Canal.
+- the Atlantic Ocean with the Pacific Ocean || That would require a canal through Central America.
+
+Q P1 James Monroe's presidency (1817–1825) is often called the
++ Era of Good Feelings || The Federalist Party had collapsed, leaving one dominant party.
+- Gilded Age || That term describes the late 1800s.
+- Age of Jackson || Jackson's presidency began in 1829.
+- Revolution of 1800 || That describes Jefferson's election.
+- Second Great Awakening || That was a religious movement, not a political label for Monroe's presidency.
+
+Q S1 Francis Cabot Lowell's textile mills were notable for
++ employing young women from farm families and housing them in boardinghouses || The "Lowell girls" earned cash wages under close supervision.
+- using enslaved labor to spin cotton || Lowell relied on free wage labor.
+- being located in the Deep South near cotton fields || The mills were in Massachusetts.
+- paying workers in land rather than wages || Workers received cash wages.
+- employing only skilled male artisans || The early workforce was mostly young women.
+
+Q C1 Which of the following inventions allowed farmers to break the tough soil of the Midwestern prairies?
++ John Deere's steel plow || Introduced in 1837, it made prairie farming practical.
+- Eli Whitney's cotton gin || The cotton gin cleaned cotton.
+- Samuel Morse's telegraph || The telegraph sent messages.
+- Robert Fulton's steamboat || The steamboat improved river transport.
+- Cyrus McCormick's reaper || The reaper harvested grain; it did not plow.
+
+Q D1 The Rush–Bagot Agreement (1817) between the United States and Britain
++ demilitarized the Great Lakes || It limited naval forces on the lakes.
+- ceded Florida to the United States || That was the Adams–Onís Treaty with Spain.
+- set the Oregon border at the 49th parallel || That was the Oregon Treaty of 1846.
+- ended the War of 1812 || That was the Treaty of Ghent.
+- created the Monroe Doctrine || The Monroe Doctrine was a US policy statement in 1823.
+
+Q S2 Which of the following was a social effect of the market revolution?
++ Paid work increasingly moved out of the home, reinforcing the idea of separate spheres for men and women || Men worked in the public world; middle-class women were assigned the home.
+- Most Americans returned to subsistence farming || The trend was toward market production.
+- Women gained the right to vote in most states || Women did not gain the vote.
+- Artisans gained greater independence from employers || Wage labor reduced artisan independence.
+- Cities shrank as people moved to farms || Cities grew.
+
+Q E2 In Gibbons v. Ogden (1824), the Supreme Court ruled that
++ only Congress could regulate interstate commerce, striking down a New York steamboat monopoly || The decision encouraged competition and national markets.
+- states could tax federal banks || McCulloch v. Maryland forbade this.
+- charters were contracts states could not change || That was Dartmouth College v. Woodward.
+- the Missouri Compromise was unconstitutional || That was Dred Scott (1857).
+- steamboats were illegal on the Mississippi || The ruling opened river trade.
+
+Q C2 The Monroe Doctrine was largely the work of Secretary of State
++ John Quincy Adams || Adams insisted the US issue it alone rather than jointly with Britain.
+- Henry Clay || Clay was Speaker of the House.
+- Daniel Webster || Webster later served as secretary of state in the 1840s.
+- Thomas Jefferson || Jefferson was retired.
+- John C. Calhoun || Calhoun was secretary of war under Monroe.
+
+Q E1 Which of the following was part of Henry Clay's American System?
++ A protective tariff to encourage American manufacturing || The Tariff of 1816 was the first protective tariff.
+- The abolition of the national bank || Clay supported the Second Bank.
+- A ban on federal spending for roads and canals || Clay favored internal improvements.
+- Free trade with Britain || Clay wanted protection from British competition.
+- The expansion of slavery into all western territories || The American System was an economic program.
+
+Q S2 The early Lowell mill workers responded to wage cuts in the 1830s by
++ organizing strikes, among the first by women workers in the US || The protests showed limits to the factory system's promises.
+- forming the Know-Nothing Party || That party arose in the 1850s over immigration.
+- moving to the South to work on plantations || They did not migrate to plantations.
+- demanding the annexation of Texas || That was unrelated to labor protest.
+- supporting the Black Codes || The Black Codes came after the Civil War.
+
+Q D2 The Convention of 1818 between the US and Britain
++ set the border at the 49th parallel from Minnesota to the Rockies and established joint occupation of Oregon || It eased tensions after the War of 1812.
+- ended British impressment of American sailors || Impressment was not resolved by treaty.
+- gave Florida to the United States || Florida came from Spain in 1819.
+- divided Oregon permanently at the 49th parallel || That happened in 1846.
+- demilitarized the Great Lakes || That was the Rush–Bagot Agreement (1817).
+
+Q C2 Which of the following would a supporter of the market revolution most likely cite as evidence of progress in the 1820s?
++ Falling shipping costs and new links between farms and city markets after the Erie Canal opened || Transportation improvements expanded markets.
+- The return of most families to home production of cloth || Factory cloth replaced homespun.
+- The Panic of 1819 || The panic was a sign of instability, not progress.
+- The decline of New York City as a port || New York City grew rapidly.
+- The end of steamboat travel on western rivers || Steamboats expanded in this period.
+
+Q P2 Why did President Madison veto the Bonus Bill of 1817?
++ He believed the Constitution did not authorize federal funding of internal improvements without an amendment || He supported the projects but doubted their constitutionality.
+- He opposed all roads and canals || He supported internal improvements in principle.
+- The bill funded the Second Bank of the United States || It funded internal improvements.
+- He wanted to fund the Erie Canal entirely with federal money || The Erie Canal was financed by New York State.
+- It included a ban on slavery in Missouri || The bill concerned roads and canals.
+
+Q E2 The Panic of 1819 was caused in part by
++ speculation in western land followed by the Second Bank's tightening of credit || Banks failed and many farmers lost land.
+- the Embargo Act of 1807 || That was earlier and had been repealed.
+- the destruction of the Second Bank by Andrew Jackson || Jackson's Bank War came in the 1830s.
+- the Specie Circular || That was issued in 1836.
+- the Mexican–American War || That war began in 1846.
+
+Q S2 Which of the following describes the regional specialization that developed during the market revolution?
++ The Northeast focused on manufacturing and commerce, the South on cotton, and the West on grain and livestock || The regions became more interdependent.
+- All regions developed identical economies || Specialization increased differences.
+- The South became the nation's leading manufacturing region || The North led in manufacturing.
+- The West specialized in textiles || The West specialized in food production.
+- The Northeast specialized in rice and indigo || Those were southern crops.
+
+Q C2 Samuel Slater is significant in American history because he
++ brought British textile-machine designs to America and built the first successful water-powered spinning mill || He is called the father of the American factory system.
+- invented the telegraph || That was Samuel Morse.
+- designed the Erie Canal || DeWitt Clinton promoted the canal.
+- founded the Second Bank of the United States || Congress chartered the bank in 1816.
+- invented the steel plow || That was John Deere.
+
+Q D2 The United States acquired Florida in 1819 after
++ Andrew Jackson's raid into Spanish Florida convinced Spain it could not hold the territory || John Quincy Adams then negotiated the Adams–Onís Treaty.
+- the Mexican–American War || That war came in 1846–1848.
+- Britain ceded Florida in the Treaty of Ghent || Florida belonged to Spain, not Britain.
+- Florida voted to join the Union as a slave state || Florida was a Spanish colony; statehood came in 1845.
+- the purchase of Louisiana included it || Louisiana did not include Florida.
+
+Q P2 The Missouri Compromise was proposed after
++ Missouri's application for statehood as a slave state threatened the balance between free and slave states in the Senate || The Tallmadge Amendment's defeat set up Clay's compromise.
+- the Supreme Court declared slavery illegal in the Louisiana Territory || The Court made no such ruling.
+- the Mexican–American War added new territory || That war came decades later.
+- California applied for statehood as a free state || That led to the Compromise of 1850.
+- Nat Turner's Rebellion frightened Congress || That rebellion occurred in 1831.
+
+Q S3 The early Lowell mill system differed from Samuel Slater's earlier mills in that Lowell
++ combined all stages of cloth production under one roof and recruited young women who lived in company boardinghouses || Slater's Rhode Island mills mainly spun thread and often employed families and children.
+- used enslaved labor while Slater used free labor || Both used free labor.
+- was located in the South while Slater's was in the North || Both were in New England.
+- produced iron rather than textiles || Both produced textiles.
+- paid workers in land rather than cash || Lowell paid cash wages.
+
+Q E3 Which statement best explains why the Erie Canal strengthened ties between the Northeast and the Midwest more than between the Midwest and the South?
++ It created a cheap east–west route that sent Midwestern grain to New York instead of down the Mississippi to New Orleans || Railroads later reinforced this east–west orientation.
+- It connected the Midwest directly to southern cotton plantations || The canal ran east–west across New York.
+- It banned trade on the Mississippi River || The canal did not affect legal rights on the Mississippi.
+- It was built by southern planters to ship cotton to Europe || New York State built it.
+- It reduced the population of New York City || New York City grew dramatically.
+
+Q C3 Read the excerpt below.
+> "...the American continents...are henceforth not to be considered as subjects for future colonization by any European powers."
+This statement reflected which of the following?
++ Growing American nationalism and a desire to limit European influence in the Western Hemisphere || It is from the Monroe Doctrine (1823).
+- A plan to colonize Latin America for the United States || The Doctrine opposed new colonization.
+- An alliance between the United States and Spain || The Doctrine warned Spain and other powers.
+- The US decision to enter European wars || The Doctrine promised the opposite.
+- Opposition to the Louisiana Purchase || The Purchase had occurred twenty years earlier.
+
+Q P3 The "corrupt bargain" charge in 1824 contributed most directly to
++ the formation of a new Democratic Party organized around Andrew Jackson || Jackson's supporters built a party that won in 1828.
+- the immediate impeachment of John Quincy Adams || Adams was never impeached.
+- the passage of the Missouri Compromise || That passed in 1820.
+- the collapse of the Second Bank of the United States || The Bank War came in the 1830s.
+- the end of the two-term tradition || Adams served only one term because he lost in 1828.
+
+@end

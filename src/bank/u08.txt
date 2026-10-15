@@ -1,0 +1,162 @@
+Q P1 The practice of rewarding political supporters with government jobs, associated with Andrew Jackson, is known as the
++ spoils system || Jackson defended it as "rotation in office."
+- Kitchen Cabinet || That was Jackson's group of informal advisers.
+- American System || That was Henry Clay's economic program.
+- Specie Circular || That was Jackson's 1836 order on land payments.
+- gag rule || That blocked antislavery petitions in the House.
+
+Q S1 The Indian Removal Act of 1830 provided for
++ moving Native nations from the Southeast to lands west of the Mississippi River || It led to the Trail of Tears.
+- granting US citizenship to all Native Americans || It did the opposite of integrating Native peoples.
+- protecting Cherokee land in Georgia || It aimed to remove the Cherokee.
+- creating reservations in New England || It targeted the Southeast.
+- ending the Second Seminole War || That war began in 1835, after the Act.
+
+Q E1 The Specie Circular (1836) required that
++ federal land be purchased with gold or silver || It contributed to the Panic of 1837.
+- all banks close immediately || It concerned payment for public land.
+- tariffs be paid in paper money || It required hard money for land purchases.
+- the Second Bank be rechartered || Jackson opposed the Bank.
+- the national debt be paid off in one year || It was a land-payment policy.
+
+Q P1 Who served as Andrew Jackson's vice president during his first term and wrote the South Carolina Exposition and Protest?
++ John C. Calhoun || Calhoun resigned in 1832 to lead the states' rights cause in the Senate.
+- Martin Van Buren || Van Buren was Jackson's second-term vice president.
+- Henry Clay || Clay led the opposition to Jackson.
+- Daniel Webster || Webster defended the Union against nullification.
+- John Tyler || Tyler became vice president under Harrison in 1841.
+
+Q D1 Which of the following Native nations resisted removal in Florida through a long war?
++ The Seminole || The Second Seminole War lasted from 1835 to 1842; Osceola was a leader.
+- The Iroquois || The Iroquois lived in New York.
+- The Lakota || The Lakota lived on the northern Plains.
+- The Pueblo || The Pueblo lived in New Mexico.
+- The Wampanoag || The Wampanoag lived in New England.
+
+Q S1 Which group was most likely to vote for the Democratic Party in the 1830s and 1840s?
++ Irish Catholic immigrants in northern cities || Democrats welcomed immigrants and opposed nativist reformers.
+- Evangelical Protestant reformers in New England || Many supported the Whigs.
+- Northern bankers and manufacturers || They generally supported the Whigs' American System.
+- Supporters of Clay's American System || That was the Whig program.
+- Members of the Anti-Masonic Party who joined the Whigs || They became Whigs.
+
+Q C1 Sequoyah is best known for
++ creating a written alphabet for the Cherokee language || The Cherokee used it to publish a newspaper.
+- leading the Seminole in war against the US || Osceola led Seminole resistance.
+- signing the Treaty of Greenville || That treaty involved Ohio Valley nations in 1795.
+- founding the Iroquois Confederacy || The Confederacy long predates Sequoyah.
+- guiding Lewis and Clark || That was Sacagawea.
+
+Q P2 Jackson responded to South Carolina's Ordinance of Nullification by
++ calling it treason and obtaining the Force Bill to collect tariffs by military force if necessary || He also accepted Clay's Compromise Tariff.
+- supporting South Carolina's right to nullify federal law || Jackson rejected nullification.
+- abolishing all tariffs immediately || The Compromise Tariff lowered rates gradually.
+- resigning the presidency || Calhoun resigned the vice presidency; Jackson remained president.
+- asking the Supreme Court to rule on secession || The crisis was resolved by Congress and the president.
+
+Q E2 After removing federal deposits from the Second Bank, Jackson placed the money in
++ state banks friendly to his administration, called "pet banks" || These banks expanded lending and fueled speculation.
+- the Independent Treasury || Van Buren created it later, in 1840.
+- the Bank of England || Federal money stayed in American banks.
+- a new Third Bank of the United States || No third national bank was created.
+- private accounts controlled by Nicholas Biddle || Biddle ran the Bank Jackson opposed.
+
+Q S2 Which of the following statements about the Cherokee in the 1820s is accurate?
++ They had adopted a written constitution, a newspaper, and settled farming || Despite this, Georgia and Jackson pushed for their removal.
+- They lived as nomadic buffalo hunters on the Plains || The Cherokee were settled farmers in the Southeast.
+- They had allied with Mexico against the US || There was no such alliance.
+- They had moved voluntarily to Oklahoma by 1825 || Removal was forced, mainly in 1838.
+- They were granted US citizenship by the Indian Removal Act || The Act provided for their removal.
+
+Q C2 Which of the following innovations made presidential politics more democratic in the 1830s?
++ National nominating conventions replacing congressional caucuses || The Anti-Masonic Party held the first in 1831.
+- The direct election of senators || That came with the 17th Amendment in 1913.
+- The abolition of the Electoral College || The Electoral College remains.
+- Granting women the right to vote || Women could not vote.
+- Electing Supreme Court justices || Justices are appointed.
+
+Q D2 The Black Hawk War (1832) involved
++ Sauk and Fox people resisting removal in Illinois and Wisconsin || They were defeated by US troops and militia.
+- the Cherokee resisting removal in Georgia || The Cherokee pursued legal resistance in court.
+- Seminole resistance in Florida || That was the Second Seminole War.
+- a dispute with Britain over Maine || That was resolved by the Webster–Ashburton Treaty.
+- a revolt of enslaved people in Virginia || That was Nat Turner's Rebellion (1831).
+
+Q P2 The Whig Party took its name from British opponents of royal power because Whigs
++ portrayed Andrew Jackson as a tyrant, "King Andrew I" || They favored congressional power over the presidency.
+- supported a restoration of British rule || The name was symbolic.
+- were founded by Loyalist descendants || The party formed in 1834 to oppose Jackson.
+- wanted to abolish the presidency || They wanted to limit, not abolish, presidential power.
+- opposed the American System || Whigs supported the American System.
+
+Q E2 Which of the following best describes the Independent Treasury system established under Martin Van Buren?
++ Federal funds were held in government vaults rather than in private or state banks || It responded to the Panic of 1837.
+- The federal government created a new national bank || Van Buren opposed a national bank.
+- Federal money was invested in railroad companies || It was designed to separate government from banking.
+- Paper money was banned in all states || It concerned federal funds only.
+- The Treasury paid off the debts of failed state banks || It did not bail out banks.
+
+Q S2 Jacksonian democracy most expanded political participation for
++ white men without property || Removing property requirements broadened the electorate.
+- free African American men || Several states took the vote away from free Black men.
+- women who owned property || Women remained unable to vote.
+- Native Americans who adopted farming || Native peoples faced removal.
+- immigrants who had not become citizens || Voting generally required citizenship.
+
+Q C2 The 1840 Whig campaign slogan "Tippecanoe and Tyler Too" referred to
++ William Henry Harrison's 1811 victory over Tecumseh's confederacy and his running mate, John Tyler || Whigs portrayed Harrison as a frontier hero.
+- the Indian Removal Act || The slogan referred to the Battle of Tippecanoe.
+- a canal project in Indiana || It was a campaign slogan about the candidates.
+- John Tyler's role in the War of 1812 || "Tippecanoe" referred to Harrison.
+- Daniel Webster's reply to Hayne || That was a Senate debate in 1830.
+
+Q P2 President John Tyler alienated the Whig Party by
++ vetoing Whig bills, including a new national bank || Whigs expelled him from the party.
+- signing every Whig economic bill into law || He vetoed key Whig measures.
+- dying one month after taking office || Harrison died; Tyler succeeded him.
+- refusing to annex Texas || Tyler pushed annexation through in 1845.
+- supporting the Specie Circular's repeal || His conflict with Whigs centered on banking and tariffs.
+
+Q D2 Jackson's Indian policy reflected his view that
++ Native nations should be removed west to make room for white settlement and cotton expansion || He claimed removal would also protect Native peoples.
+- Native nations were fully sovereign foreign nations || The Cherokee cases addressed this, but Jackson ignored Worcester.
+- the federal government should protect Cherokee land from Georgia || He refused to enforce Worcester v. Georgia.
+- Native Americans should receive land in New England || Removal sent them west of the Mississippi.
+- the Treaty of Greenville should be expanded nationwide || That treaty concerned Ohio in 1795.
+
+Q S3 Which of the following best explains why the Trail of Tears occurred under Van Buren rather than Jackson?
++ The Cherokee resisted removal after the Treaty of New Echota, and the army forced them west in 1838 after Jackson left office || Jackson's policy was carried out by his successor.
+- Jackson opposed removal, and Van Buren reversed his policy || Jackson championed removal.
+- The Supreme Court ordered removal in 1838 || The Court ruled in the Cherokee's favor in Worcester.
+- Congress passed the Indian Removal Act in 1838 || The Act passed in 1830.
+- The Cherokee voluntarily left in 1838 || They were forced out by the army.
+
+Q E3 Historians argue that Jackson's destruction of the Second Bank contributed to economic instability because
++ without a central bank to restrain them, state banks issued too much paper money and fueled speculation || The Specie Circular then triggered a collapse of confidence.
+- the Bank had been the only source of gold in the country || Gold circulated through many channels.
+- the Bank's closure raised tariffs automatically || Tariffs were set by Congress.
+- the Bank had paid all federal salaries || That was not its role.
+- the Bank had financed Indian Removal || There is no basis for this.
+
+Q P3 Daniel Webster's position in the Webster–Hayne debate was that
++ the Constitution was created by the people, making the Union permanent and supreme over the states || "Liberty and Union, now and forever, one and inseparable!"
+- states could nullify any federal law they judged unconstitutional || That was Hayne's and Calhoun's position.
+- the Union was a temporary compact among sovereign states || That was the states' rights view.
+- tariffs should be abolished to protect the South || Webster defended New England interests and the Union.
+- the Bank of the United States was unconstitutional || The debate centered on the nature of the Union.
+
+Q C3 Which of the following best explains why the election of 1840 is considered a milestone in American politics?
++ Both parties used mass campaign techniques, and voter turnout reached about 80% || Whigs successfully copied Democratic popular appeals.
+- It was the first election decided by the House of Representatives || That happened in 1800 and 1824.
+- It was the first election in which women voted || Women did not vote nationally until 1920.
+- It ended the two-party system || It confirmed the Democrat–Whig system.
+- It was the first election won by a Democrat || Jackson, a Democrat, won in 1828.
+
+Q S2 In Cherokee Nation v. Georgia (1831), the Supreme Court described the Cherokee as
++ a "domestic dependent nation" || The Court said it could not hear the case, but a year later Worcester v. Georgia favored the Cherokee.
+- a fully independent foreign country || The Court rejected that status.
+- citizens of the state of Georgia || The Court did not treat them as Georgia citizens.
+- a territory ready for statehood || The ruling concerned Cherokee legal status, not statehood.
+- enemies of the United States at war || The case was a legal dispute, not a war ruling.
+
+@end
