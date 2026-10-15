@@ -1,0 +1,211 @@
+@unit 8
+@title Jacksonian Democracy
+@short Jacksonian Democracy
+@years 1828–1848
+@weight 8
+
+@lesson
+## Why this unit matters
+**Andrew Jackson** dominated an age that historians call the era of the "**common man**." Politics became more democratic for white men, a new **two-party system** (Democrats vs. Whigs) took shape, and Jackson used presidential power aggressively — against the **Bank**, against **South Carolina's nullification**, and against **Native nations** through **Indian Removal**. The exam tests both sides of Jacksonian democracy: expanding participation for some, exclusion and removal for others.
+
+## A more democratic politics — for white men
+Between about 1810 and 1840, most states dropped **property requirements** for voting, achieving near-universal **white male suffrage**. Several other changes made politics more popular:
+- Presidential electors came to be chosen by **popular vote** in nearly every state rather than by legislatures.
+- **National nominating conventions** replaced the "King Caucus" of congressmen; the small **Anti-Masonic Party** held the first one in 1831.
+- Campaigns used parades, barbecues, slogans, and cheap **penny newspapers**; voter turnout rose dramatically.
+
+But democracy had limits. Several states that expanded white male voting **took the vote away from free Black men** (Pennsylvania in 1838, for example). Women could not vote anywhere, and Native peoples were being expelled.
+
+!! A frequent exam trap: Jacksonian democracy expanded voting for **white men only**. Answers claiming it broadened rights for women, free Black Americans, or Native peoples are wrong.
+
+## The election of 1828 and Jackson's style
+After the "corrupt bargain" of 1824, Jackson's supporters built a new party — the **Democrats** — organized largely by **Martin Van Buren**. The **1828** campaign was famously nasty (opponents attacked Jackson's marriage), and Jackson won easily, the first president from the West and not from Virginia or Massachusetts. Crowds mobbed the White House at his inauguration.
+
+Jackson believed ordinary citizens could hold government jobs and that long-serving officials grew corrupt. He defended "**rotation in office**," and his supporters' rewarding of loyal party workers with jobs became known as the **spoils system** ("to the victor belong the spoils"). He relied on informal advisers, his "**Kitchen Cabinet**," and used the **veto** more than all previous presidents combined — often for political, not just constitutional, reasons.
+
+## Indian Removal
+By the 1820s, the "**Five Civilized Tribes**" of the Southeast — **Cherokee, Creek, Choctaw, Chickasaw, and Seminole** — held land that white settlers and cotton planters wanted. The Cherokee in particular had adopted many white customs: a written language (created by **Sequoyah**), a newspaper, a constitution, and farms (some even owned enslaved people). Georgia nevertheless claimed authority over Cherokee land, especially after gold was found there.
+
+Jackson pushed the **Indian Removal Act (1830)**, which funded treaties to move eastern Native nations to "**Indian Territory**" west of the Mississippi (present-day Oklahoma).
+
+The Cherokee fought in court:
+- **Cherokee Nation v. Georgia (1831):** the Supreme Court called the Cherokee a "**domestic dependent nation**" and said it could not hear the case.
+- **Worcester v. Georgia (1832):** Chief Justice **Marshall** ruled that Georgia's laws had **no force** in Cherokee territory; only the federal government could deal with the Cherokee.
+
+Jackson **refused to enforce** the ruling (he is quoted, possibly apocryphally, as saying "John Marshall has made his decision; now let him enforce it"). A small minority signed the **Treaty of New Echota (1835)**, which the Cherokee majority rejected. In **1838**, under President Van Buren, the army forced about 16,000 Cherokee west on the **Trail of Tears**; roughly **4,000** died. Other nations were removed too. The **Seminole** resisted in Florida in the long **Second Seminole War** (1835–1842), led partly by **Osceola**; in the Midwest, the Sauk and Fox were defeated in the **Black Hawk War (1832)**.
+
+=> Settler demand for land and cotton; Georgia claims Cherokee territory | Indian Removal Act (1830), Worcester v. Georgia ignored, Trail of Tears (1838) | Southeastern nations forced west to Indian Territory; thousands die; cotton kingdom expands
+
+## The nullification crisis
+The **Tariff of 1828** — the "**Tariff of Abominations**" — had very high rates protecting northern manufacturers. South Carolina, suffering from falling cotton prices and worn-out soil, blamed the tariff, which raised prices of goods southerners bought and risked British retaliation against cotton.
+
+Vice President **John C. Calhoun** of South Carolina anonymously wrote the **South Carolina Exposition and Protest (1828)**, arguing — like the Virginia and Kentucky Resolutions — that a state could **nullify** (declare void within its borders) a federal law it judged unconstitutional.
+
+In the **Webster–Hayne debate (1830)** in the Senate, **Daniel Webster** of Massachusetts answered South Carolina's Robert Hayne with a defense of national union: "**Liberty and Union, now and forever, one and inseparable!**" At a dinner, Jackson made his position clear with a toast: "Our Federal Union — it must be preserved." Calhoun replied, "The Union, next to our liberty, most dear."
+
+When Congress passed the **Tariff of 1832** with only modest reductions, South Carolina passed an **Ordinance of Nullification** declaring the tariffs void and threatening **secession** if the federal government used force. Jackson, though a southerner and slaveholder, called nullification treason and got Congress to pass the **Force Bill (1833)**, authorizing him to use the military to collect tariffs. At the same time, Henry Clay arranged the **Compromise Tariff of 1833**, gradually lowering rates over ten years. South Carolina repealed its nullification of the tariff (and symbolically nullified the Force Bill). Calhoun **resigned** the vice presidency to lead the states' rights cause in the Senate.
+
+=> High protective tariffs hurt South Carolina's cotton economy | Nullification crisis (1832–1833) | Compromise Tariff + Force Bill; Union preserved, but the states' rights / secession argument grew stronger in the South
+
+## The Bank War
+Jackson distrusted banks, paper money, and concentrated wealth. He saw the **Second Bank of the United States**, headed by **Nicholas Biddle**, as an unconstitutional "**monster**" that served eastern elites and foreign investors at the expense of farmers and workers.
+
+The Bank's charter ran until 1836, but in **1832** Henry Clay and Biddle pushed an **early recharter** bill through Congress to make it an election issue. Jackson **vetoed** it, calling the Bank unconstitutional (despite *McCulloch*) and a tool of privilege. Jackson won the **1832 election** overwhelmingly over Clay.
+
+Jackson then "killed" the Bank by **removing federal deposits** and placing them in state banks loyal to the administration — called "**pet banks**." His Treasury Secretary **Roger Taney** carried out the removal (Jackson had to fire two secretaries who refused); Jackson later made Taney Chief Justice.
+
+The consequences were serious. Pet banks issued paper money freely, fueling **land speculation** and inflation. Alarmed, Jackson issued the **Specie Circular (1836)**, requiring that federal land be bought with **gold or silver (specie)**. Confidence collapsed, and the **Panic of 1837** struck just as **Martin Van Buren** took office, bringing a long depression. Van Buren responded with the **Independent Treasury** (1840), keeping federal money in government vaults rather than banks.
+
+=> Jackson views the Bank as an unconstitutional monopoly of the rich | Bank veto (1832), removal of deposits to pet banks, Specie Circular (1836) | Speculation, then the Panic of 1837 and depression under Van Buren
+
+## The second party system: Democrats vs. Whigs
+Opponents of "**King Andrew I**" formed the **Whig Party** in 1834 (named after the British party that opposed royal power). The two parties competed nationally, in both North and South:
+
+- **Democrats** (Jackson, Van Buren): limited federal government, opposition to the national bank and high tariffs, suspicion of concentrated economic power, support for westward expansion. Strong among small farmers, southern planters, urban workers, and **Irish Catholic immigrants**.
+- **Whigs** (Henry Clay, Daniel Webster): an active federal government promoting economic growth through Clay's **American System** — tariffs, a national bank, internal improvements — and a strong **Congress** over the presidency. Strong among businessmen, northern merchants, many evangelical **Protestant reformers**, and some southern planters.
+
+In the **election of 1840**, Whigs beat Van Buren, blamed for the depression, by copying Democratic tactics. They ran war hero **William Henry Harrison** as a humble man of the people with a "**log cabin and hard cider**" campaign and the slogan "**Tippecanoe and Tyler Too**" — even though Harrison came from a wealthy Virginia family. Turnout reached about 80%. Harrison died a month after his inauguration, and Vice President **John Tyler**, a former Democrat and states' rights southerner, vetoed most Whig bills, including a new national bank. His own party expelled him.
+
+Tyler's secretary of state, Daniel Webster, negotiated the **Webster–Ashburton Treaty (1842)** with Britain, settling the **Maine–Canada border**.
+
+## The Taney Court
+Chief Justice **Roger Taney** (1836–1864) moved the Court away from Marshall's protections of existing corporate privileges. In **Charles River Bridge v. Warren Bridge (1837)**, the Court ruled that a charter did not give an old bridge company a monopoly when the community would benefit from a new bridge — favoring **competition and the public interest** over exclusive privileges. Taney is best known, however, for the **Dred Scott** decision (Unit 10).
+
+## Assessing Jackson
+Jackson expanded **presidential power**, strengthened party politics, and championed the "common man" against privilege. But his era also produced Indian Removal, the defense of slavery, and economic instability. On exams, expect to weigh both sides.
+
+@must
+- Jacksonian democracy = **universal white male suffrage** (property tests dropped), nominating conventions, mass campaigns — but free Black men lost votes in some states; women excluded.
+- **Spoils system / rotation in office**; **Kitchen Cabinet**; frequent **vetoes**.
+- **Indian Removal Act (1830)** → **Worcester v. Georgia (1832)** (Georgia law void; Jackson ignored it) → **Trail of Tears (1838)**, ~4,000 Cherokee deaths.
+- **Cherokee Nation v. Georgia (1831):** "domestic dependent nation."
+- **Nullification crisis:** **Tariff of Abominations (1828)**, Calhoun's *Exposition and Protest*, SC nullifies (1832), **Force Bill** + **Compromise Tariff (1833)**.
+- **Webster–Hayne debate (1830):** "Liberty and Union, now and forever, one and inseparable!"
+- **Bank War:** Jackson **vetoed recharter (1832)**, moved deposits to **pet banks**, **Specie Circular (1836)** → **Panic of 1837** (Van Buren).
+- **Whigs** (Clay, Webster: American System, strong Congress) vs. **Democrats** (Jackson: limited government, anti-Bank).
+- **Election of 1840:** "log cabin and hard cider," "Tippecanoe and Tyler Too."
+- **Charles River Bridge (1837):** Taney Court favors community interest and competition over monopoly.
+
+@timeline
+*1828 | Jackson elected; Tariff of Abominations; Calhoun's Exposition and Protest | P
+*1830 | Indian Removal Act; Webster–Hayne debate | P
+1831 | Cherokee Nation v. Georgia; first national nominating convention | P
+*1832 | Worcester v. Georgia; Bank recharter veto; South Carolina nullification | P
+1832 | Black Hawk War | D
+*1833 | Force Bill and Compromise Tariff end the nullification crisis | P
+1834 | Whig Party formed | P
+1835–1842 | Second Seminole War | D
+1836 | Specie Circular | E
+1837 | Panic of 1837; Charles River Bridge decision | E
+*1838 | Trail of Tears | S
+*1840 | "Log cabin" campaign; Harrison elected | P
+1842 | Webster–Ashburton Treaty | D
+
+@cards
+White male suffrage :: Elimination of property requirements for voting by most states (1810s–1840s); excluded women and often free Black men.
+Spoils system :: Rewarding party supporters with government jobs; defended by Jackson as "rotation in office."
+Kitchen Cabinet :: Jackson's informal group of trusted advisers outside the official cabinet.
+Indian Removal Act (1830) :: Authorized treaties to move eastern Native nations to Indian Territory west of the Mississippi.
+Worcester v. Georgia (1832) :: Marshall ruled Georgia's laws had no force over the Cherokee; Jackson refused to enforce it.
+Cherokee Nation v. Georgia (1831) :: Court called the Cherokee a "domestic dependent nation" and declined jurisdiction.
+Trail of Tears (1838) :: Forced removal of the Cherokee to Indian Territory; about 4,000 died.
+Tariff of Abominations (1828) :: Very high protective tariff that angered the South and triggered the nullification crisis.
+Nullification :: Theory that a state can declare a federal law void within its borders (Calhoun; South Carolina 1832).
+Force Bill (1833) :: Authorized Jackson to use military force to collect tariffs in South Carolina.
+Compromise Tariff of 1833 :: Clay's gradual tariff reduction that ended the nullification crisis.
+Webster–Hayne debate (1830) :: Senate debate on states' rights; Webster: "Liberty and Union, now and forever, one and inseparable!"
+Bank War :: Jackson's fight against the Second Bank: 1832 recharter veto, removal of deposits to state "pet banks."
+Specie Circular (1836) :: Jackson's order requiring gold or silver for federal land purchases; helped trigger the Panic of 1837.
+Panic of 1837 :: Severe depression under Van Buren after speculation and the Specie Circular.
+Whig Party :: Formed 1834 against "King Andrew"; Clay and Webster; favored the American System and a strong Congress.
+Election of 1840 :: Whig William Henry Harrison won with the "log cabin and hard cider" campaign; "Tippecanoe and Tyler Too."
+Charles River Bridge v. Warren Bridge (1837) :: Taney Court held that community interest and competition outweighed an implied monopoly.
+
+@quiz
+Q P1 Which of the following best describes the expansion of democracy during the Jacksonian era?
++ Most states eliminated property qualifications for voting by white men || White male suffrage spread, while women and most Black men remained excluded.
+- Women gained the right to vote in national elections || Women did not gain the national vote until 1920.
+- Free Black men gained voting rights in every northern state || Several states actually took the vote away from free Black men.
+- Senators began to be elected by direct popular vote || Direct election of senators came with the 17th Amendment (1913).
+- Native Americans were granted full citizenship || The era brought Indian Removal, not citizenship.
+
+Q P2 President Jackson's response to the Supreme Court's decision in Worcester v. Georgia (1832) was to
++ refuse to enforce the ruling, allowing Georgia to proceed against the Cherokee || The decision favored the Cherokee, but Jackson did not act to protect them.
+- send federal troops to protect Cherokee lands from Georgia || Jackson did the opposite; troops were later used to remove the Cherokee.
+- ask Congress to impeach Chief Justice Marshall || No such request was made.
+- grant the Cherokee full US citizenship || No such action was taken.
+- veto the Indian Removal Act || Jackson championed and signed the Indian Removal Act.
+
+Q S2 The Trail of Tears refers to
++ the forced removal of the Cherokee to Indian Territory in 1838 || About 4,000 of roughly 16,000 Cherokee died on the journey.
+- the Mormon migration to Utah || That took place in 1846–1847 and is not called the Trail of Tears.
+- the route of Lewis and Clark to the Pacific || That was an exploring expedition.
+- escaped enslaved people fleeing to Canada || That was the Underground Railroad.
+- the path of Union troops through Georgia in 1864 || That was Sherman's March to the Sea.
+
+Q P2 The nullification crisis of 1832–1833 was triggered most directly by South Carolina's opposition to
++ high protective tariffs || South Carolina declared the tariffs of 1828 and 1832 void.
+- the Indian Removal Act || Southern states generally supported removal.
+- the Second Bank of the United States || The Bank War was a separate conflict.
+- the abolition of slavery in Washington, D.C. || That did not happen until 1862.
+- the Specie Circular || The Specie Circular came in 1836, after the crisis.
+
+Q C2 Read the excerpt below.
+> "Liberty and Union, now and forever, one and inseparable!"
+This statement was made during a debate over
++ the nature of the Union and a state's power to nullify federal law || Daniel Webster spoke these words against Robert Hayne in 1830.
+- the annexation of Texas || Webster's speech came years before annexation became a major issue.
+- whether to declare war on Britain in 1812 || The speech was delivered in 1830.
+- ratification of the Constitution in 1788 || Webster was a young child in 1788.
+- the Dred Scott decision || Dred Scott was decided in 1857, after Webster's death.
+
+Q E2 Andrew Jackson opposed the Second Bank of the United States primarily because he believed it
++ was an unconstitutional monopoly that favored wealthy elites and foreign investors || He vetoed its recharter in 1832 and removed federal deposits.
+- printed too little paper money for western farmers || Jackson distrusted paper money and favored hard currency.
+- was controlled by the Democratic Party || Its president, Nicholas Biddle, allied with Jackson's opponents.
+- had been ruled unconstitutional in McCulloch v. Maryland || McCulloch upheld the Bank.
+- financed the abolitionist movement || There is no basis for this.
+
+Q E2 Which of the following contributed to the Panic of 1837?
++ Speculation fueled by state "pet banks" followed by the Specie Circular's demand for gold and silver || Easy credit followed by a sudden demand for hard money undermined confidence.
+- The creation of the Second Bank of the United States || The Bank was created in 1816; its destruction contributed to the instability.
+- The Tariff of 1816 || That tariff was two decades earlier.
+- The completion of the Erie Canal || The canal (1825) spurred growth.
+- The Mexican-American War || That war began in 1846.
+
+Q P2 The Whig Party of the 1830s and 1840s generally supported
++ a national bank, protective tariffs, and federally funded internal improvements || Whigs embraced Henry Clay's American System.
+- Jackson's use of the veto against Congress || Whigs formed to oppose "King Andrew" and favored congressional power.
+- the immediate abolition of slavery nationwide || Whigs included both northern and southern members and did not take that position.
+- the Specie Circular and hard money || Those were Jackson's policies.
+- the annexation of Texas as a slave state || Most Whigs opposed or were wary of annexation; it was a Democratic cause.
+
+Q P2 The Whigs won the election of 1840 in part by
++ presenting William Henry Harrison as a humble "log cabin" candidate of the people || They used Democratic-style mass campaigning against Van Buren.
+- promising to restore property qualifications for voting || Whigs did not campaign to restrict white male suffrage.
+- nominating Andrew Jackson for a third term || Jackson was a Democrat and did not run.
+- winning the endorsement of the Liberty Party || The small Liberty Party ran its own abolitionist candidate.
+- campaigning to annex Oregon and Texas || Expansion became the key issue in 1844 for the Democrats.
+
+Q S3 Which of the following groups was LEAST likely to benefit from the political changes associated with Jacksonian democracy?
++ Free African Americans in the North || Several states disenfranchised free Black men as they expanded white male suffrage.
+- Landless white male workers in the cities || Removing property requirements allowed them to vote.
+- Small white farmers in the West || They gained votes and political influence.
+- Party organizers and loyal supporters || The spoils system rewarded them with jobs.
+- Irish Catholic immigrant men who became citizens || Many voted, mostly for the Democrats.
+
+Q D2 The Webster–Ashburton Treaty (1842) settled a dispute between the United States and Britain over
++ the boundary between Maine and Canada || The treaty resolved the northeastern border.
+- the joint occupation of Oregon || Oregon was divided at the 49th parallel in 1846.
+- the right of deposit at New Orleans || That issue involved Spain (Pinckney's Treaty, 1795).
+- British impressment of American sailors || Impressment ended with the Napoleonic Wars.
+- the ownership of Florida || Florida was acquired from Spain in 1819.
+
+Q C3 The Supreme Court's decision in Charles River Bridge v. Warren Bridge (1837) reflected the Jacksonian view that
++ the public interest and economic competition should outweigh exclusive corporate privileges || Taney's Court refused to read an implied monopoly into a charter.
+- corporate charters could never be changed by states || That was closer to Marshall's Dartmouth College ruling.
+- states could nullify federal laws || The case concerned state charters, not nullification.
+- the national bank was constitutional || The case did not involve the Bank.
+- Native nations were sovereign foreign countries || That issue arose in the Cherokee cases.
+
+@end

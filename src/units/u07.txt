@@ -1,0 +1,225 @@
+@unit 7
+@title Nationalism & the Market Revolution
+@short Nationalism & Markets
+@years 1815–1828
+@weight 8
+
+@lesson
+## Why this unit matters
+After the War of 1812, Americans felt a surge of **nationalism**. Government policies, Supreme Court decisions, and foreign policy all pointed toward a stronger, more unified nation. At the same time, a **market revolution** — canals, steamboats, factories, and commercial farming — transformed how Americans worked and lived. But beneath the "Era of Good Feelings," **sectional** conflict over slavery surfaced in the **Missouri Crisis**. The exam tests the **American System**, **Marshall Court cases**, the **Monroe Doctrine**, the **Missouri Compromise**, and the **Erie Canal and Lowell mills**.
+
+## The Era of Good Feelings
+With the Federalist Party dead after the Hartford Convention, the Democratic-Republicans governed alone. President **James Monroe** (1817–1825) won reelection in 1820 essentially unopposed. A Boston newspaper called this one-party period the "**Era of Good Feelings**." The name is a bit misleading: personal and **sectional rivalries** remained, and the **Panic of 1819** brought real suffering.
+
+## Clay's American System
+The war had exposed weaknesses: poor roads, dependence on British goods, and financial chaos after the first Bank's charter lapsed in 1811. Even Republicans now adopted former Federalist ideas. Speaker of the House **Henry Clay** of Kentucky promoted the **American System**, a plan to tie the regions together economically:
+1. A **protective tariff** to shield northern industry from cheaper British goods. The **Tariff of 1816** was the first tariff designed mainly for **protection** rather than revenue.
+2. A **Second Bank of the United States** (chartered **1816**) to provide a stable national currency and credit.
+3. Federally funded **internal improvements** — roads and canals — to connect western farms with eastern markets.
+
+=> War of 1812 exposes economic weakness; nationalist mood | Clay's American System (tariff, national bank, internal improvements) | Economic integration of regions — but disputes over whether the federal government could fund roads and canals
+
+Tariffs and the Bank passed, but federal funding for internal improvements stalled: President Madison vetoed the **Bonus Bill (1817)**, believing it needed a constitutional amendment. Most canals and roads were built by **states and private companies** instead. The federally funded **National (Cumberland) Road** was the major exception.
+
+The **Panic of 1819**, the nation's first major depression, followed a boom in land speculation and easy credit. When the Second Bank tightened credit, banks failed and farmers lost land. Many westerners came to **hate the Bank** — feelings Andrew Jackson would exploit.
+
+## The Marshall Court strengthens the nation
+Chief Justice **John Marshall** (served 1801–1835) issued rulings that strengthened the **federal government** and protected **property and business**:
+
+- **McCulloch v. Maryland (1819):** Maryland tried to tax the Second Bank. Marshall ruled that the Bank was constitutional under **implied powers** (the necessary and proper clause — Hamilton's loose construction) and that a state could not tax a federal institution because "**the power to tax involves the power to destroy**." Federal law is supreme over state law.
+- **Dartmouth College v. Woodward (1819):** New Hampshire could not alter Dartmouth's colonial charter, because a charter is a **contract** protected by the Constitution — encouraging business investment.
+- **Gibbons v. Ogden (1824):** a New York steamboat monopoly was void because only **Congress** may regulate **interstate commerce**, broadly defined.
+- Earlier, **Fletcher v. Peck (1810)** was the first time the Court struck down a **state** law as unconstitutional (also protecting contracts).
+
+!! Pattern to remember: Marshall's Court almost always ruled for **national power over the states** and for **contracts and property**. If an answer choice says the Marshall Court strengthened states' rights, it is almost certainly wrong.
+
+## Nationalist foreign policy
+Secretary of State **John Quincy Adams** was one of the most skillful diplomats in American history.
+
+- **Rush–Bagot Agreement (1817):** the US and Britain demilitarized the **Great Lakes**.
+- **Convention of 1818:** set the US–Canada border at the **49th parallel** from Minnesota to the Rocky Mountains and agreed to **joint occupation of Oregon**.
+- **Adams–Onís Treaty (1819):** after **Andrew Jackson** invaded Spanish **Florida** chasing Seminoles (the First Seminole War), Adams persuaded Spain to **cede Florida** and define the western border of the Louisiana Purchase. Spain gave up its claim to Oregon.
+
+The **Monroe Doctrine (1823)**, written largely by Adams, responded to newly independent **Latin American** republics and fears that European powers (and Russia in the Pacific Northwest) would intervene. It declared:
+- The Western Hemisphere was **closed to further European colonization**.
+- The US would **not interfere in European affairs** or existing colonies.
+- European intervention in the Americas would be seen as a threat to the US.
+
+=> Latin American revolutions; fear of European intervention | Monroe Doctrine (1823) | Assertion of US leadership in the hemisphere — though at first enforced mainly by Britain's navy
+
+At the time the US had little power to enforce the Doctrine; Britain, which wanted open Latin American markets, effectively enforced it with its navy. Britain had proposed a joint statement, but Adams insisted the US act **alone**.
+
+## The Missouri Compromise
+In 1819, **Missouri** asked to join the Union as a slave state. That would upset the balance of **11 free and 11 slave states** in the Senate. New York Congressman **James Tallmadge** proposed banning further importation of enslaved people into Missouri and gradually freeing children born there; the House passed it, but the Senate blocked it. Henry Clay brokered the **Missouri Compromise (1820)**:
+- **Missouri** entered as a **slave state**.
+- **Maine** (split off from Massachusetts) entered as a **free state**, keeping the Senate balanced.
+- Slavery was **banned in the rest of the Louisiana Purchase north of 36°30′** (Missouri's southern border).
+
+The aging Thomas Jefferson called the crisis "**a fire bell in the night**," warning that the slavery issue could destroy the Union. The compromise held for over 30 years — until the Kansas–Nebraska Act (Unit 10) repealed it.
+
+=> Missouri's request to enter as a slave state threatens the Senate balance | Missouri Compromise (1820) | Temporary sectional peace; 36°30′ line set the rule for slavery in the Louisiana Territory until 1854
+
+## The market revolution: transportation
+Before 1815, moving goods overland was slow and expensive; most farm families produced mainly for their own use. The **transportation revolution** changed that.
+
+- **Roads:** turnpikes and the **National Road** (begun 1811) linked the Potomac to the Ohio River.
+- **Steamboats:** **Robert Fulton's** *Clermont* (1807) proved steam power could carry goods **upstream**; steamboats soon dominated the Mississippi and Ohio Rivers.
+- **Canals:** New York's **Erie Canal**, completed in **1825** under Governor **DeWitt Clinton**, linked the **Hudson River to the Great Lakes**. It slashed shipping costs, opened the Midwest to settlement, and made **New York City** the nation's dominant port. A canal-building craze followed.
+- **Railroads:** the **Baltimore and Ohio** began operating around 1830; by the 1850s railroads surpassed canals and tied the Northeast to the Midwest.
+- **Communication:** Samuel **Morse's telegraph** (1844) sent messages instantly.
+
+## The market revolution: industry and agriculture
+**Samuel Slater**, a British mechanic who memorized textile machine designs, built America's first successful water-powered **cotton-spinning mill** in Rhode Island (1790s) — earning the title "father of the American factory system."
+
+In Massachusetts, **Francis Cabot Lowell** and the Boston Associates went further, putting all stages of cloth production under one roof (Waltham, 1814) and building the factory town of **Lowell** in the 1820s. The **Lowell system** hired young, unmarried **farm women** ("mill girls"), housed them in supervised **boardinghouses**, and paid them cash wages. Many valued the independence, but long hours and wage cuts led to some of the first **strikes** by women workers in the 1830s. Later, Irish immigrants replaced them.
+
+**Eli Whitney** also promoted **interchangeable parts** — standardized components that made mass production possible.
+
+Western farmers became commercial producers thanks to new tools: **John Deere's steel plow** (1837) broke the tough prairie soil, and **Cyrus McCormick's mechanical reaper** (1830s) harvested grain quickly.
+
+## Results of the market revolution
+- **Regional specialization:** the **Northeast** focused on manufacturing and commerce; the **South** on cotton grown by enslaved people; the **West (Midwest)** on grain and livestock. The regions became economically interdependent — and the Northeast and Midwest increasingly bound together by canals and rails, leaving the South apart.
+- Families shifted from **subsistence** to **market** production, buying goods they once made.
+- A **middle class** grew, and work moved out of the home. This created the idea of "**separate spheres**": men in the public world of work, women in the private home (Unit 9).
+- Workers lost independence as artisans were replaced by **wage labor**; boom-and-bust cycles like the Panic of 1819 hit hard.
+
+## The election of 1824 and the "corrupt bargain"
+By 1824 the one-party era fractured. Four Democratic-Republicans ran: **Andrew Jackson**, **John Quincy Adams**, **William Crawford**, and **Henry Clay**. Jackson won the most popular and electoral votes but **not a majority**, so the **House of Representatives** chose among the top three. Clay, as Speaker, threw his support to Adams, who won — and then named Clay **Secretary of State**. Jackson's supporters denounced this "**corrupt bargain**."
+
+President **John Quincy Adams** (1825–1829) proposed an ambitious nationalist program — roads, canals, a national university, scientific research — but Congress, dominated by Jackson's supporters, blocked most of it. The **Tariff of 1828** (the "**Tariff of Abominations**"), with very high rates, enraged the South and set up the nullification crisis of Unit 8.
+
+@must
+- **Era of Good Feelings** = Monroe's one-party era (Democratic-Republicans), but with hidden sectional tension.
+- **American System** (Henry Clay): protective tariff (**Tariff of 1816**), **Second Bank of the US** (1816), internal improvements.
+- **McCulloch v. Maryland (1819):** implied powers; states can't tax the federal bank ("power to tax is power to destroy").
+- **Gibbons v. Ogden (1824):** Congress controls interstate commerce. **Dartmouth College (1819):** charters are protected contracts.
+- **Monroe Doctrine (1823):** no new European colonization in the Americas; US stays out of Europe; written by **John Quincy Adams**.
+- **Adams–Onís Treaty (1819):** Spain cedes Florida. **Convention of 1818:** 49th parallel; joint occupation of Oregon.
+- **Missouri Compromise (1820):** Missouri slave, Maine free, no slavery north of **36°30′** in the Louisiana Purchase.
+- **Erie Canal (1825):** linked the Great Lakes to New York City; cut freight costs; made NYC the top port.
+- **Lowell system:** young farm women in textile mills, boardinghouses, wages; **Samuel Slater** = first mill.
+- **Election of 1824:** the House picks J. Q. Adams over Jackson → "**corrupt bargain**" (Clay as Secretary of State).
+
+@timeline
+1807 | Fulton's steamboat Clermont | E
+1810 | Fletcher v. Peck | P
+1811 | National Road begun | E
+*1816 | Second Bank of the US chartered; first protective tariff | E
+1817 | Rush–Bagot Agreement; Madison vetoes the Bonus Bill | D
+1818 | Convention of 1818 (49th parallel; joint Oregon) | D
+*1819 | McCulloch v. Maryland; Adams–Onís Treaty; Panic of 1819 | P
+*1820 | Missouri Compromise | P
+*1823 | Monroe Doctrine | D
+1824 | Gibbons v. Ogden | P
+*1824 | "Corrupt bargain" election; House chooses J. Q. Adams | P
+*1825 | Erie Canal completed | E
+1820s | Lowell mills employ "mill girls" | S
+1828 | "Tariff of Abominations" | E
+
+@cards
+Era of Good Feelings :: Period of one-party (Democratic-Republican) rule under Monroe (1817–1825) after the Federalists' collapse.
+American System :: Henry Clay's plan: protective tariff, national bank, and internal improvements to unify the national economy.
+Tariff of 1816 :: First US tariff designed mainly to protect American industry rather than raise revenue.
+Second Bank of the United States (1816) :: National bank chartered after the War of 1812; later the target of Jackson's "Bank War."
+Panic of 1819 :: First major US depression, after a speculative land boom and tightened bank credit; fueled western anger at the Bank.
+McCulloch v. Maryland (1819) :: Upheld the Bank under implied powers; states cannot tax federal institutions.
+Gibbons v. Ogden (1824) :: Struck down a New York steamboat monopoly; Congress controls interstate commerce.
+Dartmouth College v. Woodward (1819) :: A corporate charter is a contract states cannot impair; encouraged business.
+John Marshall :: Chief Justice 1801–1835; rulings strengthened federal power and protected contracts and property.
+Adams–Onís Treaty (1819) :: Spain ceded Florida to the US and set the western boundary of the Louisiana Purchase.
+Monroe Doctrine (1823) :: Declared the Americas closed to new European colonization; US would stay out of European affairs.
+Missouri Compromise (1820) :: Missouri slave, Maine free; banned slavery in Louisiana Territory north of 36°30′.
+"Fire bell in the night" :: Jefferson's description of the Missouri Crisis as a warning that slavery could split the Union.
+Erie Canal (1825) :: Canal linking the Hudson River and Great Lakes; cut shipping costs and made New York City dominant.
+Market revolution :: Shift from subsistence/household production to production for sale, driven by transport and industry.
+Lowell system :: Massachusetts textile mills employing young farm women housed in supervised boardinghouses.
+Samuel Slater :: British immigrant who built the first successful American water-powered textile mill (Rhode Island, 1790s).
+Interchangeable parts :: Standardized identical components (promoted by Eli Whitney) enabling mass production.
+"Corrupt bargain" (1824) :: Jacksonians' charge that Clay helped J. Q. Adams win the House vote in exchange for Secretary of State.
+
+@quiz
+Q E1 Henry Clay's American System included all of the following EXCEPT
++ a ban on slavery in all western territories || The American System was an economic program; it did not address slavery.
+- a protective tariff || A tariff to protect northern industry was a central feature.
+- a national bank || The Second Bank of the United States was a central feature.
+- federally funded roads and canals || Internal improvements were a central feature.
+- linking eastern manufacturing with western agriculture || That was the plan's overall goal.
+
+Q P2 In McCulloch v. Maryland (1819), the Supreme Court ruled that
++ Congress had implied power to charter a bank and states could not tax it || Marshall wrote that "the power to tax involves the power to destroy."
+- states could nullify federal laws they considered unconstitutional || The Court rejected state interference with federal institutions.
+- only Congress could regulate steamboat traffic on interstate waters || That was Gibbons v. Ogden (1824).
+- the Second Bank of the United States was unconstitutional || The Court upheld the Bank.
+- corporate charters were not protected by the Constitution || Dartmouth College v. Woodward held the opposite.
+
+Q D1 The Monroe Doctrine (1823) declared that
++ the Western Hemisphere was closed to further European colonization || It also pledged the US would stay out of European affairs.
+- the United States would join Britain in a permanent alliance || Adams insisted the US act alone.
+- the United States would help European powers regain their American colonies || It warned Europe against intervening in the Americas.
+- Oregon belonged entirely to the United States || Oregon remained under joint occupation with Britain.
+- slavery would be prohibited in Latin America || The Doctrine said nothing about slavery.
+
+Q P1 The Missouri Compromise of 1820
++ admitted Missouri as a slave state and Maine as a free state || It also banned slavery in the Louisiana Territory north of 36°30′.
+- admitted California as a free state || That was part of the Compromise of 1850.
+- allowed popular sovereignty in Kansas and Nebraska || That was the Kansas-Nebraska Act (1854).
+- ended the international slave trade || That ban took effect in 1808.
+- banned slavery in all territories acquired from Mexico || That was the Wilmot Proviso proposal, which never passed.
+
+Q E2 The completion of the Erie Canal in 1825 had which of the following effects?
++ It sharply reduced shipping costs between the Great Lakes region and New York City || It helped make New York City the nation's leading port.
+- It connected the Mississippi River to the Gulf of Mexico for the first time || The Mississippi already flowed to the Gulf.
+- It strengthened the economic ties between the Midwest and the South more than the Northeast || It tied the Midwest to the Northeast.
+- It was paid for entirely by the federal government || New York State financed it.
+- It led to the decline of New York City as a port || It did the opposite.
+
+Q S2 Which of the following best describes the workforce in the early Lowell textile mills?
++ Young, unmarried women from New England farm families || They lived in company boardinghouses and earned cash wages.
+- Enslaved African Americans leased from southern plantations || Lowell's workforce was free wage labor.
+- Skilled male artisans who owned their own tools || Factory work replaced artisan production.
+- Recently arrived Irish immigrant families exclusively || Irish immigrants came to dominate later, in the 1840s–1850s.
+- Children under the age of ten || Lowell's model relied on young women, not small children.
+
+Q D2 The Adams–Onís Treaty of 1819 resulted in
++ Spain ceding Florida to the United States || It also defined the western border of the Louisiana Purchase.
+- Britain ceding Oregon to the United States || Oregon was settled with Britain in 1846.
+- Mexico recognizing Texas independence || Texas independence came in 1836, and Mexico refused to recognize it.
+- France selling Louisiana to the United States || That was the Louisiana Purchase (1803).
+- the demilitarization of the Great Lakes || That was the Rush–Bagot Agreement (1817).
+
+Q P2 Supporters of Andrew Jackson called the outcome of the election of 1824 a "corrupt bargain" because
++ Henry Clay helped John Quincy Adams win in the House and then became Secretary of State || Jackson had won the most popular and electoral votes but not a majority.
+- Adams bribed members of the Electoral College || There was no proven bribery.
+- the Supreme Court decided the election || The House of Representatives decided it.
+- Jackson was barred from running by the Constitution || Jackson ran and won a plurality.
+- Adams promised to abolish the Second Bank || Adams supported national economic programs, including the Bank.
+
+Q C2 Thomas Jefferson's description of the Missouri Crisis as "a fire bell in the night" expressed his fear that
++ disputes over slavery could divide and destroy the Union || The crisis showed how sectional the slavery issue had become.
+- the Second Bank would cause another depression || His comment concerned slavery, not banking.
+- Britain would invade the United States again || The crisis was domestic.
+- the Monroe Doctrine would lead to war with Spain || The Doctrine came in 1823 and was not the subject.
+- Federalists would regain control of the presidency || The Federalists were already collapsing.
+
+Q E2 Which of the following was a result of the market revolution in the early 1800s?
++ Many farm families shifted from producing mainly for their own use to producing crops for sale || Better transportation connected farmers to distant markets.
+- The South industrialized faster than the North || The North industrialized; the South focused on cotton.
+- Wage labor declined as artisans gained more control of production || Factories expanded wage labor and reduced artisan independence.
+- Regional economies became completely self-sufficient || Regions became more specialized and interdependent.
+- Transportation costs rose sharply || Canals, steamboats, and railroads lowered costs.
+
+Q P3 John Marshall's Supreme Court decisions generally
++ strengthened the power of the federal government and protected contracts and property || McCulloch, Gibbons, and Dartmouth College all fit this pattern.
+- expanded the power of states to regulate interstate commerce || Gibbons v. Ogden gave that power to Congress.
+- supported the right of states to tax federal institutions || McCulloch v. Maryland forbade it.
+- limited the power of the Supreme Court to review laws || Marbury v. Madison expanded it through judicial review.
+- favored strict construction of the Constitution || Marshall favored a broad reading of federal powers.
+
+Q E3 The Panic of 1819 contributed to political change in the 1820s primarily by
++ creating resentment among western farmers and debtors toward the Second Bank of the United States || That anger later fed support for Andrew Jackson's attack on the Bank.
+- causing Congress to abolish all protective tariffs || The Tariff of 1828 actually raised rates.
+- leading to the immediate collapse of the Democratic-Republican Party || The party fractured later, in the 1824 election.
+- convincing President Monroe to annex Texas || Texas was annexed in 1845.
+- prompting the Supreme Court to declare the Bank unconstitutional || McCulloch v. Maryland upheld the Bank the same year.
+
+@end

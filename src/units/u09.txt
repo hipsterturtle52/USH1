@@ -1,0 +1,234 @@
+@unit 9
+@title Antebellum Society, Reform & Slavery
+@short Reform & Slavery
+@years 1820–1860
+@weight 10
+
+@lesson
+## Why this unit matters
+"Antebellum" means "before the war." Between 1820 and 1860, Americans built a remarkable culture of **religious revival**, **reform movements**, and **literature** — while the South built an economy ever more dependent on **slavery**. This unit carries much of the exam's **cultural/intellectual** and **social** weight. Expect matching questions (*reformer → cause*, *writer → work*) and cause-effect questions linking **revivalism to reform**.
+
+## The Second Great Awakening
+The **Second Great Awakening** (roughly 1790s–1840s) was a wave of Protestant revivals larger than the first. Frontier **camp meetings** — like the huge gathering at **Cane Ridge, Kentucky (1801)** — drew thousands. The most famous revivalist, **Charles Grandison Finney**, held emotional meetings across western New York, a region swept by so many revivals it was called the "**burned-over district**."
+
+The Awakening's message differed from Puritan predestination. Preachers stressed **free will**: anyone could choose salvation, and believers could work toward **perfection** — personal and social. **Methodists and Baptists** grew fastest. **Women** formed the majority of converts and organized many church and charitable societies.
+
+=> Market revolution and social change; belief in free will and human perfectibility | Second Great Awakening revivals | Wave of reform movements — temperance, abolition, education, asylums, women's rights
+
+The religious ferment also produced new faiths:
+- **Mormons** (Church of Jesus Christ of Latter-day Saints): **Joseph Smith** published the *Book of Mormon* (1830) in New York. Persecuted for their beliefs and practices (including polygamy), Mormons moved to Ohio, Missouri, and Illinois, where Smith was killed by a mob (1844). **Brigham Young** led them to the Great Salt Lake in **Utah (1847)**.
+- **Shakers:** a celibate community that shared property and worshiped through dance; it grew only by conversion.
+
+## Utopian communities
+Some reformers tried to build perfect societies in miniature: **Brook Farm** (Massachusetts, linked to transcendentalists), **New Harmony** (Indiana, founded by the Welsh socialist **Robert Owen**), and the **Oneida Community** (New York, John Humphrey Noyes, which practiced "complex marriage" and shared property). Most utopias failed within a few years.
+
+## Transcendentalism and the American Renaissance
+**Transcendentalism** was a New England intellectual movement influenced by European **Romanticism**. It held that truth could be found through **intuition, nature, and the individual soul**, "transcending" reason and the senses, and it prized **self-reliance** and **nonconformity**.
+
+- **Ralph Waldo Emerson** — essays like "**Self-Reliance**"; his address "The American Scholar" (1837) called for an independent American intellectual culture.
+- **Henry David Thoreau** — **Walden** (1854), about two years of simple living by Walden Pond; and "**Civil Disobedience**" (1849), written after he went to jail for refusing to pay a tax supporting the **Mexican War** and slavery. He argued individuals must refuse to obey unjust laws — an idea that later inspired Gandhi and Martin Luther King Jr.
+- **Margaret Fuller** — editor of the transcendentalist journal *The Dial*; *Woman in the Nineteenth Century* (1845), an early feminist work.
+
+Other writers of the "**American Renaissance**": **Nathaniel Hawthorne** (*The Scarlet Letter*, a critique of Puritan hypocrisy), **Herman Melville** (*Moby-Dick*), **Edgar Allan Poe** (horror and detective stories), **Walt Whitman** (*Leaves of Grass*, democratic free verse), **James Fenimore Cooper** (frontier novels such as *The Last of the Mohicans*), and **Washington Irving** ("Rip Van Winkle"). In painting, the **Hudson River School** (Thomas Cole) celebrated the grandeur of American landscapes.
+
+!! Romanticism (emotion, nature, the individual) was a reaction against the Enlightenment's emphasis on reason. Transcendentalism is the American version.
+
+## The reform impulse
+- **Temperance:** Americans drank enormous amounts of alcohol, which reformers linked to poverty, crime, and domestic abuse. The **American Temperance Society (1826)** urged abstinence; **Maine** passed the first statewide **prohibition** law (1851).
+- **Public education:** **Horace Mann**, secretary of the **Massachusetts Board of Education** (1837), led the **common school** movement for free, tax-supported public schools with trained teachers and longer school years. **McGuffey Readers** taught reading and moral values.
+- **Asylums and prisons:** **Dorothea Dix** documented the brutal treatment of the **mentally ill** in jails and persuaded states to build **mental hospitals**. Reformers also built **penitentiaries** meant to rehabilitate criminals through discipline and reflection.
+
+## Women: separate spheres and women's rights
+The market revolution moved paid work out of the home. Middle-class culture embraced the "**cult of domesticity**" (or "**separate spheres**"): men belonged in the competitive public world; women were to be pious, pure, and devoted to the home as moral guardians. Ironically, this moral role justified women's activism in **reform** — temperance, charity, and abolition.
+
+Working in the abolition movement, women discovered their own lack of rights; at the 1840 World Anti-Slavery Convention in London, female delegates were not allowed to participate. In **1848**, **Elizabeth Cady Stanton** and **Lucretia Mott** organized the **Seneca Falls Convention** in New York. Its **Declaration of Sentiments**, modeled on the Declaration of Independence, declared that "all men **and women** are created equal" and listed grievances — including the demand for the **right to vote**, the most controversial resolution. Other leaders included **Susan B. Anthony** (who joined in the 1850s), the **Grimké sisters** (southern-born abolitionists), and **Sojourner Truth**, a formerly enslaved woman known for her speech "Ain't I a Woman?" (1851).
+
+=> Women's work in reform movements exposes their own lack of rights | Seneca Falls Convention (1848) and the Declaration of Sentiments | Organized women's rights movement begins; suffrage becomes a long-term goal
+
+## Abolitionism
+Early antislavery efforts were cautious. The **American Colonization Society (1816)** proposed freeing enslaved people gradually and sending free Black Americans to Africa; it founded **Liberia**. Most African Americans rejected colonization — they considered America their home.
+
+In the 1830s, abolitionism became radical:
+- **William Lloyd Garrison** began publishing **The Liberator (1831)**, demanding **immediate, uncompensated emancipation**. He called the Constitution "a covenant with death" because it protected slavery. He co-founded the **American Anti-Slavery Society (1833)**.
+- **Frederick Douglass**, who escaped slavery in Maryland, became the movement's most powerful speaker; he wrote the **Narrative of the Life of Frederick Douglass** (1845) and published the newspaper **The North Star**. Unlike Garrison, he came to see the Constitution as an antislavery tool and supported political action.
+- **David Walker's Appeal (1829)**, by a free Black Bostonian, urged enslaved people to resist, by force if necessary.
+- **Harriet Tubman** escaped slavery and returned repeatedly to guide others north on the **Underground Railroad**, a secret network of safe houses.
+- Political abolitionists formed the **Liberty Party (1840)**.
+
+Abolitionists were a **small and unpopular minority**, even in the North. Mobs attacked them; the editor **Elijah Lovejoy** was killed in Illinois (1837). Southern states banned abolitionist mail, and from 1836 to 1844 the House of Representatives enforced a **gag rule** that automatically tabled antislavery petitions — opposed relentlessly by former president **John Quincy Adams**, then a congressman.
+
+## The slave South and "King Cotton"
+After the cotton gin, cotton spread across the Deep South — Alabama, Mississippi, Louisiana, Texas. By 1860, cotton made up more than half of US exports, and southerners boasted that "**Cotton is King**." The enslaved population grew from about 1.5 million (1820) to about **4 million (1860)**, mostly by natural increase, since the international trade was banned in 1808. A massive **domestic slave trade** forcibly moved roughly a million people from the Upper South to the cotton states, tearing families apart.
+
+White southern society was a pyramid:
+- A small **planter elite** (owners of 20 or more enslaved people) dominated politics.
+- Most slaveholders owned only a few enslaved people.
+- About **three-quarters of white southern families owned no enslaved people at all**; most were **yeoman farmers**, who nevertheless generally supported slavery because of racial attitudes, hopes of becoming slaveholders, and kinship ties.
+- **Free Black southerners** (about 250,000) faced severe legal restrictions.
+
+The South industrialized little and built fewer railroads and schools than the North; its wealth was tied up in land and enslaved people.
+
+Enslaved people built a resilient culture: extended **families** (though marriages had no legal standing), **Christianity** blended with African traditions, **spirituals** that often carried hidden messages of freedom, and folktales. They resisted through work slowdowns, sabotage, escape, and occasionally revolt. **Denmark Vesey's** planned rebellion in Charleston (1822) was betrayed. **Nat Turner's Rebellion (1831)** in Virginia killed about 60 whites; in response, southern states passed **harsher slave codes**, restricted education and assembly of enslaved people, and ended open debate about gradual emancipation.
+
+=> Nat Turner's Rebellion (1831) and rising northern abolitionism | Southern crackdown: harsher slave codes, censorship of abolitionist mail | The South shifts from calling slavery a "necessary evil" to defending it as a "positive good"
+
+Southern defenders like **John C. Calhoun** argued slavery was a "**positive good**" that civilized and cared for enslaved people, and **George Fitzhugh** claimed enslaved people were better off than northern "**wage slaves**."
+
+## Immigration and nativism
+Immigration surged in the 1840s–1850s. **Irish** immigrants, fleeing the **potato famine** (1845–1849), were mostly poor **Catholics** who settled in eastern cities, took low-paying jobs (canals, railroads, domestic service), and usually voted **Democratic**. **Germans**, including many fleeing the failed revolutions of 1848, often had more money and moved to Midwestern farms and cities. Most immigrants avoided the South, which had few factory jobs.
+
+Native-born Protestants responded with **nativism** — hostility to immigrants and Catholics. The secretive Order of the Star-Spangled Banner grew into the **Know-Nothing (American) Party** in the 1850s, which sought to limit immigrant political power.
+
+Workers also organized. In **Commonwealth v. Hunt (1842)**, the Massachusetts Supreme Court ruled that **labor unions were not illegal** conspiracies.
+
+@must
+- **Second Great Awakening:** Charles **Finney**, camp meetings, "burned-over district," **free will and perfectionism** → fueled reform.
+- **Transcendentalism:** **Emerson** ("Self-Reliance"), **Thoreau** (*Walden*, "**Civil Disobedience**"), Margaret **Fuller**.
+- Writers: Hawthorne (*Scarlet Letter*), Melville (*Moby-Dick*), Whitman (*Leaves of Grass*), Cooper; painters: **Hudson River School**.
+- Reformers: **Horace Mann** (public schools), **Dorothea Dix** (mental asylums), temperance (Maine law 1851).
+- **Seneca Falls (1848):** Stanton and Mott; **Declaration of Sentiments**; demanded women's suffrage.
+- **Cult of domesticity / separate spheres** = women's "proper" place was the home.
+- **Garrison** (*The Liberator*, 1831, immediate emancipation), **Frederick Douglass**, **Harriet Tubman**, **American Colonization Society** (Liberia).
+- **Gag rule (1836–44)** blocked antislavery petitions in the House.
+- **Nat Turner's Rebellion (1831)** → harsher slave codes; South defends slavery as a "**positive good**."
+- About **three-quarters of white southern families owned no enslaved people**; ~4 million enslaved by 1860; "**King Cotton**."
+- **Irish** (famine, Catholic, cities) and **German** immigrants → **nativism** and the **Know-Nothing Party**.
+
+@timeline
+1801 | Cane Ridge camp meeting | C
+1816 | American Colonization Society founded | S
+1822 | Denmark Vesey conspiracy | S
+1826 | American Temperance Society founded | S
+1830 | Joseph Smith publishes the Book of Mormon | C
+*1831 | Garrison's The Liberator; Nat Turner's Rebellion | S
+1833 | American Anti-Slavery Society founded | S
+1836–1844 | House gag rule on antislavery petitions | P
+1837 | Horace Mann leads the Massachusetts Board of Education | C
+1842 | Commonwealth v. Hunt | E
+1845 | Douglass's Narrative published; Irish potato famine begins | C
+1847 | Mormons reach the Great Salt Lake | C
+*1848 | Seneca Falls Convention | S
+1849 | Thoreau's "Civil Disobedience" | C
+1851 | Maine prohibition law; Sojourner Truth's "Ain't I a Woman?" | S
+1854 | Thoreau's Walden; Know-Nothings at their peak | C
+
+@cards
+Second Great Awakening :: Protestant revivals (1790s–1840s) stressing free will and perfectionism; inspired reform movements.
+Charles Grandison Finney :: Leading revivalist of the Second Great Awakening, active in New York's "burned-over district."
+Burned-over district :: Western New York, so often swept by revival fires that it became a hotbed of new faiths and reforms.
+Mormons :: Founded by Joseph Smith (Book of Mormon, 1830); persecuted; Brigham Young led them to Utah (1847).
+Transcendentalism :: Philosophy that truth is found through intuition, nature, and the individual soul; Emerson, Thoreau, Fuller.
+Ralph Waldo Emerson :: Transcendentalist essayist ("Self-Reliance," "The American Scholar").
+"Civil Disobedience" :: Thoreau's 1849 essay arguing individuals should refuse to obey unjust laws (he protested the Mexican War and slavery).
+Utopian communities :: Experimental societies — Brook Farm, New Harmony (Owen), Oneida (Noyes), Shakers — most short-lived.
+Hudson River School :: Romantic landscape painters (Thomas Cole) celebrating American wilderness.
+Horace Mann :: Massachusetts reformer who led the common (free public) school movement.
+Dorothea Dix :: Reformer who exposed the mistreatment of the mentally ill and won state-funded asylums.
+Temperance movement :: Campaign to reduce or ban alcohol; American Temperance Society (1826); Maine law (1851).
+Cult of domesticity :: Ideal of women as pious, pure moral guardians confined to the home ("separate spheres").
+Seneca Falls Convention (1848) :: First women's rights convention; Stanton and Mott; Declaration of Sentiments demanded suffrage.
+Declaration of Sentiments :: Seneca Falls document modeled on the Declaration of Independence: "all men and women are created equal."
+American Colonization Society :: Founded 1816 to send free Black Americans to Africa (Liberia); rejected by most Black Americans.
+William Lloyd Garrison :: Radical abolitionist; The Liberator (1831); demanded immediate emancipation.
+Frederick Douglass :: Escaped from slavery; abolitionist orator and author (Narrative, 1845); published The North Star.
+Underground Railroad :: Secret network helping enslaved people escape north; Harriet Tubman was its most famous "conductor."
+Gag rule (1836–44) :: House rule automatically tabling antislavery petitions; fought by John Quincy Adams.
+Nat Turner's Rebellion (1831) :: Virginia slave revolt that killed about 60 whites; led to harsher slave codes.
+"Positive good" argument :: Proslavery claim (Calhoun, Fitzhugh) that slavery benefited enslaved people and society.
+Nativism :: Hostility toward immigrants, especially Irish Catholics; produced the Know-Nothing (American) Party.
+
+@quiz
+Q C1 Which of the following individuals is correctly matched with the reform cause for which he or she is best known?
++ Dorothea Dix — care for the mentally ill || Dix persuaded states to build mental hospitals.
+- Horace Mann — women's suffrage || Mann is known for public education.
+- William Lloyd Garrison — temperance || Garrison is best known for radical abolitionism.
+- Elizabeth Cady Stanton — prison reform || Stanton is best known for women's rights.
+- Charles Finney — public school reform || Finney was a revivalist preacher.
+
+Q C2 The Second Great Awakening contributed to the reform movements of the early 1800s primarily by
++ promoting the belief that individuals and society could be perfected through human effort || Free will and perfectionism inspired believers to fight social evils.
+- teaching that salvation was predetermined and could not be changed || That was older Puritan (Calvinist) predestination, which revivalists moved away from.
+- encouraging Americans to reject religion in favor of reason || That describes deism and the Enlightenment.
+- strengthening the established Church of England in America || No state had an established Anglican Church by then.
+- discouraging women from participating in public life || Women were a majority of converts and led many reform societies.
+
+Q C2 Henry David Thoreau's essay "Civil Disobedience" argued that
++ individuals should refuse to obey laws they consider unjust || Thoreau went to jail rather than pay a tax supporting the Mexican War and slavery.
+- citizens must always obey the law to preserve order || That is the opposite of his argument.
+- states had the right to nullify federal tariffs || That was Calhoun's argument.
+- slavery was a positive good for society || That was the proslavery argument of Calhoun and Fitzhugh.
+- the Second Bank of the United States was unconstitutional || That was Jackson's position.
+
+Q S1 The Seneca Falls Convention of 1848 is best known for
++ launching the organized women's rights movement with the Declaration of Sentiments || Its most controversial demand was the right to vote.
+- founding the American Anti-Slavery Society || That was founded in 1833 by Garrison and others.
+- beginning the temperance movement || The American Temperance Society dates to 1826.
+- organizing the first labor union for women mill workers || Lowell workers organized separately in the 1830s and 1840s.
+- winning the vote for women in New York State || New York women did not win the vote until 1917.
+
+Q S2 Which of the following statements about the antebellum South is accurate?
++ Most white southern families did not own enslaved people || About three-quarters of white families owned none; most were yeoman farmers.
+- Most enslaved people lived on small farms with only one or two enslaved workers || Most enslaved people lived on larger holdings, even though most slaveholders owned few.
+- The South had more miles of railroad than the North by 1860 || The North had far more railroad mileage.
+- Large numbers of European immigrants settled in the South || Most immigrants avoided the South, which had few factory jobs.
+- The South's economy shifted away from cotton after 1830 || Cotton production expanded dramatically until the Civil War.
+
+Q S2 One result of Nat Turner's Rebellion in 1831 was that
++ southern states passed harsher laws restricting enslaved people's education and movement || Fear of revolt led to tighter slave codes and the end of open debate on emancipation.
+- Virginia adopted gradual emancipation || Virginia's legislature debated but rejected emancipation in 1831–1832.
+- the international slave trade was reopened || The trade remained banned after 1808.
+- the Missouri Compromise was repealed || That happened in 1854 with the Kansas-Nebraska Act.
+- the American Colonization Society was founded || That was founded in 1816.
+
+Q P2 William Lloyd Garrison differed from the American Colonization Society in that Garrison
++ demanded immediate emancipation without sending freed people abroad || The Colonization Society favored gradual emancipation and resettlement in Africa.
+- supported gradual, compensated emancipation followed by colonization || That was closer to the Colonization Society's approach.
+- opposed women's participation in abolitionism || Garrison supported women's active role.
+- believed the Constitution was an antislavery document || Garrison called it "a covenant with death"; Douglass later took the antislavery view.
+- defended slavery as a positive good || Garrison was a radical abolitionist.
+
+Q C1 Walden and "Self-Reliance" are both associated with
++ transcendentalism || Thoreau and Emerson were leading transcendentalists.
+- the Great Awakening of the 1740s || These works date from the 1840s and 1850s.
+- the Federalist Papers || Those were political essays of 1787–1788.
+- the proslavery argument || Neither work defends slavery.
+- the Hudson River School of painting || That was a group of landscape painters, not writers.
+
+Q S2 The "cult of domesticity" in the early nineteenth century held that
++ middle-class women should devote themselves to home and family as moral guardians || This ideal assigned women to a private "separate sphere."
+- women should have equal access to professional careers || The ideal emphasized domestic roles.
+- domestic servants should be paid the same as factory workers || The term concerns gender ideals, not wages.
+- married women should control their own property || Coverture laws still gave husbands control; reformers later challenged this.
+- women should lead religious congregations as ministers || Most denominations barred women from the ministry.
+
+Q E2 The large wave of Irish immigration in the 1840s and 1850s was caused primarily by
++ the potato famine in Ireland || Crop failures caused mass starvation and emigration.
+- the end of the Mexican-American War || That war did not affect Ireland.
+- recruitment by southern plantation owners || Most Irish immigrants settled in northern cities.
+- the discovery of gold in Georgia || The Georgia gold rush was a minor, earlier event.
+- the failed revolutions of 1848 in Germany || That drove some German, not Irish, immigration.
+
+Q P3 The Know-Nothing (American) Party of the 1850s is best described as
++ a nativist party seeking to limit the political influence of immigrants and Catholics || It grew rapidly with rising Irish Catholic immigration.
+- an abolitionist party demanding immediate emancipation || That better describes the earlier Liberty Party.
+- a party of Irish Catholic immigrants || The Know-Nothings opposed Irish Catholic political influence.
+- the party that nominated Andrew Jackson || Jackson was a Democrat.
+- a labor party demanding the ten-hour workday || Labor reform was not its defining goal.
+
+Q P3 The congressional "gag rule" (1836–1844) was designed to
++ prevent antislavery petitions from being discussed in the House of Representatives || John Quincy Adams fought it as a violation of the right to petition.
+- stop newspapers from criticizing the president || That resembles the Sedition Act of 1798.
+- limit debate on the Indian Removal Act || It applied to antislavery petitions.
+- prevent southern states from discussing secession || It was supported by southerners.
+- block discussion of protective tariffs || It concerned slavery, not tariffs.
+
+Q C3 Read the excerpt below.
+> "We hold these truths to be self-evident: that all men and women are created equal..."
+This passage, from the Declaration of Sentiments (1848), reflects which strategy of early women's rights advocates?
++ Using the language of the nation's founding ideals to demand equal rights || The document deliberately echoed the Declaration of Independence.
+- Rejecting the Declaration of Independence as a proslavery document || The passage adopts, rather than rejects, its language.
+- Arguing that women's place was in the separate domestic sphere || The passage challenges, rather than supports, that ideal.
+- Seeking a constitutional amendment banning alcohol || Temperance was a separate reform.
+- Appealing to the Supreme Court's ruling in Dred Scott || Dred Scott was decided in 1857, nine years later.
+
+@end

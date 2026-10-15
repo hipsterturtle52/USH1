@@ -1,0 +1,255 @@
+@unit 6
+@title The New Republic
+@short New Republic
+@years 1789–1815
+@weight 11
+
+@lesson
+## Why this unit matters
+This is one of the heaviest units on the exam. In 25 years the new nation created a working government, split into the first **political parties**, doubled its size with the **Louisiana Purchase**, established **judicial review**, and fought Britain in the **War of 1812**. The organizing theme: **Hamilton vs. Jefferson** — two visions of America that shaped every debate. Learn each president's major events and how the parties lined up.
+
+## Washington sets precedents (1789–1797)
+**George Washington** knew everything he did would become a model. He created a **cabinet** of advisers: **Thomas Jefferson** (State), **Alexander Hamilton** (Treasury), **Henry Knox** (War), and **Edmund Randolph** (Attorney General). He served **two terms** and then retired, a precedent that lasted until 1940. The **Judiciary Act of 1789** created the federal court system below the Supreme Court.
+
+Congress, led by **James Madison**, passed the **Bill of Rights**, ratified in **1791** to fulfill the Federalists' promise. Highlights: the **1st Amendment** (religion, speech, press, assembly, petition), the **2nd** (bear arms), the **4th** (no unreasonable searches), the **5th** (due process, no self-incrimination), and the **10th** (powers not given to the national government are **reserved to the states** or the people).
+
+## Hamilton's financial plan
+**Alexander Hamilton** wanted a strong national government tied to the wealthy, with a modern economy of commerce and manufacturing. His program:
+1. **Funding at par:** pay the national debt in full to current bondholders (many were speculators who had bought bonds cheap).
+2. **Assumption:** the federal government would take over **state war debts**. Southern states, which had largely paid their debts, objected. In the **Compromise of 1790**, southerners accepted assumption in exchange for locating the **national capital on the Potomac River** (Washington, D.C.).
+3. A **Bank of the United States (1791)**, chartered for 20 years, to hold federal funds, issue currency, and make loans.
+4. **Tariffs** and an **excise tax on whiskey** to raise revenue. His *Report on Manufactures* proposed protective tariffs to build industry, but Congress largely did not adopt it.
+
+The Bank sparked the first great constitutional debate. **Jefferson** argued for **strict construction**: the Constitution did not list a power to charter a bank, so Congress could not. **Hamilton** argued for **loose construction**: the **"necessary and proper" (elastic) clause** gave Congress **implied powers** to carry out its listed powers, like collecting taxes and borrowing money. Washington sided with Hamilton.
+
+=> Hamilton's plan to build national credit | Bank of the United States (1791) | Debate over strict vs. loose construction; rise of opposing political parties
+
+## The first party system
+Though Washington warned against "faction," two parties formed:
+
+- **Federalists** (Hamilton, John Adams): strong central government, **loose construction**, commerce and manufacturing, the Bank, rule by the educated elite, **pro-British** in foreign policy. Strongest in **New England** and among merchants.
+- **Democratic-Republicans** (Jefferson, Madison): limited government, **strict construction**, **states' rights**, an **agrarian** nation of independent farmers, **pro-French**. Strongest in the **South and West**.
+
+!! Expect a question that matches a belief to the right party — especially *strict vs. loose construction* and *pro-French vs. pro-British*.
+
+## Testing the government at home and abroad
+The **Whiskey Rebellion (1794)**: western Pennsylvania farmers, who turned grain into whiskey to transport it, refused to pay Hamilton's excise tax and attacked tax collectors. Washington led about **13,000 militiamen** west, and the rebellion collapsed. Unlike Shays' Rebellion under the Articles, the new government had shown it could **enforce federal law**.
+
+Abroad, the **French Revolution** (1789) and the war between France and Britain (1793) divided Americans. Washington issued the **Proclamation of Neutrality (1793)**, keeping the US out despite the 1778 French alliance. The French envoy **Citizen Genêt** tried to recruit Americans to attack British and Spanish territory and was recalled.
+
+- **Jay's Treaty (1794)** with Britain: the British agreed to leave their **forts in the Northwest**, but did nothing about the seizure of American ships or **impressment** (forcing sailors into the Royal Navy). It was very **unpopular**, but it avoided war.
+- **Pinckney's Treaty (1795)** with Spain: gave Americans free navigation of the **Mississippi River** and the **right of deposit** at **New Orleans**, and settled Florida's border. It was very **popular**, especially in the West.
+- In the Northwest, General **Anthony Wayne** defeated a Native confederacy at the **Battle of Fallen Timbers (1794)**; in the **Treaty of Greenville (1795)**, Native nations ceded most of present-day **Ohio**.
+
+In his **Farewell Address (1796)**, Washington warned against **permanent alliances** with foreign nations, against the "baneful effects" of **political parties**, and against **sectionalism**. The advice to avoid entangling alliances guided US foreign policy for over a century.
+
+## John Adams (1797–1801)
+Federalist **John Adams** inherited conflict with France, which was seizing American ships. In the **XYZ Affair (1797–1798)**, French agents (labeled X, Y, and Z) demanded a **bribe** before negotiating with American diplomats. Americans were outraged ("Millions for defense, but not one cent for tribute!") and fought an undeclared naval **Quasi-War** with France. Adams eventually negotiated peace in the **Convention of 1800**, ending the 1778 alliance — a decision that split his own party.
+
+Federalists used the war scare to pass the **Alien and Sedition Acts (1798)**:
+- The **Alien Acts** raised the residency requirement for citizenship (from 5 to 14 years) and let the president deport dangerous foreigners — aimed at immigrants, who tended to vote Democratic-Republican.
+- The **Sedition Act** made it a crime to publish "false, scandalous, and malicious" writing against the government — used to jail Republican newspaper editors.
+
+Jefferson and Madison responded secretly with the **Virginia and Kentucky Resolutions (1798)**, arguing the Union was a **compact** among states and that states could judge federal laws unconstitutional (Kentucky's later version used the word **nullification**). No other states agreed at the time, but the idea of **states' rights** and nullification would return in the 1830s and in secession.
+
+=> War scare with France and Federalist fear of Republican critics | Alien and Sedition Acts (1798) | Virginia and Kentucky Resolutions assert states' rights; Federalists lose popularity
+
+## The "Revolution of 1800"
+In the **election of 1800**, Jefferson defeated Adams. Because electors cast two undifferentiated votes, Jefferson and his running mate **Aaron Burr** **tied**, and the House of Representatives chose Jefferson (with Hamilton's help). The **12th Amendment (1804)** fixed this by having electors vote separately for president and vice president. Jefferson called it the "**Revolution of 1800**" because power passed **peacefully** from one party to its rival — a rare event in the world at the time.
+
+## Jefferson in power (1801–1809)
+Jefferson cut the national debt, the army, and the navy, and repealed the whiskey tax — but kept the Bank. Before leaving office, Adams had appointed Federalist "**midnight judges**." One appointee, William Marbury, sued when Jefferson's secretary of state James Madison withheld his commission.
+
+In **Marbury v. Madison (1803)**, Chief Justice **John Marshall** ruled that the law giving the Court power to issue Marbury's commission was itself **unconstitutional**. Marbury lost, but the Court won something far bigger: the power of **judicial review** — the authority to declare acts of Congress unconstitutional.
+
+!! Marbury v. Madison = judicial review. It is the single most-tested Supreme Court case of this era.
+
+The **Louisiana Purchase (1803)** was Jefferson's greatest achievement. France's **Napoleon**, having lost his army in the **Haitian Revolution** and needing money for war in Europe, sold the entire Louisiana Territory for about **$15 million**, **doubling** the nation's size. Jefferson had only wanted New Orleans. As a **strict constructionist**, he doubted the Constitution allowed buying land, but he justified it under the **treaty-making power** — a sign that practical needs could override his principles. **Lewis and Clark** (1804–1806), guided in part by the Shoshone woman **Sacagawea**, explored the territory to the Pacific.
+
+=> Slave revolt in Haiti defeats French troops; Napoleon needs money for war | Louisiana Purchase (1803) | US doubles in size; Mississippi and New Orleans secured; Jefferson bends strict construction
+
+Jefferson also sent the navy against the **Barbary pirates** of Tripoli (1801–1805) rather than keep paying tribute.
+
+## Neutral rights and the road to war
+Britain and France were at war again, and both seized American ships. Britain also practiced **impressment**, taking thousands of American sailors. In the **Chesapeake affair (1807)**, a British warship fired on an American naval vessel and took sailors off it. Instead of war, Jefferson persuaded Congress to pass the **Embargo Act (1807)**, banning all American exports. It was a disaster: it hurt American merchants and farmers — especially **New England** — far more than Britain or France. It was repealed in 1809 and replaced by the **Non-Intercourse Act**, which reopened trade with all nations except Britain and France.
+
+## James Madison and the War of 1812
+Under President **James Madison**, pressure for war grew from the **War Hawks** — young congressmen from the South and West such as **Henry Clay** and **John C. Calhoun**. Causes of the war:
+- **Impressment** and violations of **neutral rights** at sea.
+- British support for Native resistance in the Northwest. The Shawnee leader **Tecumseh** and his brother the Prophet (**Tenskwatawa**) built a pan-Indian confederacy to stop American expansion; **William Henry Harrison** attacked their town in the **Battle of Tippecanoe (1811)**.
+- Western desire for land, including hopes of conquering **Canada**.
+
+Congress declared war in **June 1812**. American invasions of Canada failed. **Oliver Hazard Perry** won control of **Lake Erie (1813)**, and Tecumseh was killed at the **Battle of the Thames (1813)**, ending his confederacy. In **1814** the British **burned Washington, D.C.**, but failed to take Baltimore; the defense of **Fort McHenry** inspired **Francis Scott Key's** "The Star-Spangled Banner."
+
+New England Federalists, who opposed "Mr. Madison's War," met at the **Hartford Convention (1814–1815)** and proposed constitutional amendments to limit southern and western power (some discussed secession). The timing was terrible: news arrived of peace and victory, and the Federalists looked **disloyal**. The party soon **collapsed**.
+
+The **Treaty of Ghent** (signed **December 1814**) restored prewar conditions (*status quo ante bellum*) — no territory changed hands and impressment was not mentioned. Two weeks later, before news crossed the ocean, **Andrew Jackson** crushed the British at the **Battle of New Orleans (January 1815)**, making him a national hero.
+
+=> Impressment, neutral rights, and British aid to Tecumseh | War of 1812 | Surge of nationalism, death of the Federalist Party, Native resistance east of the Mississippi broken, and growth of American manufacturing
+
+## Society in the new republic
+- **Republican Motherhood:** the idea that women served the nation by raising virtuous, educated citizen-sons; it justified better **education for women**, though not political rights.
+- **Slavery:** **Eli Whitney's cotton gin (1793)** made short-staple cotton profitable and revived slavery just as some had hoped it would fade. **Gabriel's Rebellion (1800)**, a planned uprising near Richmond, was betrayed and crushed. Congress banned the **international slave trade** as of **1808**, the earliest date the Constitution allowed.
+- **Culture:** a new national identity appeared in schoolbooks, Noah Webster's American spelling, and the celebration of Washington.
+
+@must
+- **Washington's precedents:** cabinet, two terms, neutrality; **Farewell Address** warns against permanent alliances and parties.
+- **Hamilton's plan:** assumption of state debts, **Bank of the US** (loose construction, implied powers via "necessary and proper") vs. Jefferson's **strict construction**.
+- **Federalists** (Hamilton/Adams; pro-British, commerce, New England) vs. **Democratic-Republicans** (Jefferson/Madison; agrarian, states' rights, pro-French).
+- **Whiskey Rebellion (1794)** showed the new government could enforce federal law.
+- **Jay's Treaty** (Britain, unpopular, forts) vs. **Pinckney's Treaty** (Spain, popular, Mississippi/New Orleans).
+- **XYZ Affair** → **Alien and Sedition Acts (1798)** → **Virginia & Kentucky Resolutions** (states' rights, nullification).
+- **Election of 1800** = peaceful transfer of power; tie led to the **12th Amendment**.
+- **Marbury v. Madison (1803)** = **judicial review** (John Marshall).
+- **Louisiana Purchase (1803)** from Napoleon; doubled the US; strained Jefferson's strict construction.
+- **Embargo Act (1807)** hurt New England; **War of 1812** causes: impressment, neutral rights, British aid to **Tecumseh**, desire for Canada.
+- **Hartford Convention** killed the Federalists; **Treaty of Ghent** = status quo; **Battle of New Orleans** made Jackson a hero.
+
+@timeline
+*1789 | Washington inaugurated; Judiciary Act; French Revolution begins | P
+*1791 | Bill of Rights ratified; Bank of the United States chartered | P
+1793 | Proclamation of Neutrality; Eli Whitney's cotton gin | D
+*1794 | Whiskey Rebellion; Jay's Treaty; Battle of Fallen Timbers | P
+1795 | Pinckney's Treaty; Treaty of Greenville | D
+1796 | Washington's Farewell Address | D
+1797–1798 | XYZ Affair; Quasi-War with France | D
+*1798 | Alien and Sedition Acts; Virginia and Kentucky Resolutions | P
+*1800 | Election of 1800 ("Revolution of 1800") | P
+*1803 | Marbury v. Madison; Louisiana Purchase | P
+1804–1806 | Lewis and Clark expedition | C
+1807 | Chesapeake affair; Embargo Act | E
+1808 | International slave trade banned | S
+1811 | Battle of Tippecanoe | D
+*1812 | War of 1812 begins | D
+1814 | Washington burned; Hartford Convention; Treaty of Ghent | D
+*1815 | Battle of New Orleans | D
+
+@cards
+Cabinet :: Washington's group of department heads (Jefferson–State, Hamilton–Treasury, Knox–War, Randolph–Attorney General).
+Bill of Rights (1791) :: First ten amendments; promised to Anti-Federalists; drafted by Madison.
+10th Amendment :: Powers not delegated to the federal government are reserved to the states or the people.
+Assumption :: Hamilton's plan for the federal government to take over state war debts; traded for a Potomac capital (Compromise of 1790).
+Bank of the United States (1791) :: Hamilton's national bank; justified by implied powers; opposed by Jefferson as unconstitutional.
+Strict construction :: Government may do only what the Constitution explicitly permits (Jefferson).
+Loose construction :: The "necessary and proper" clause allows implied powers (Hamilton).
+Federalists (party) :: Hamilton and Adams; strong central government, commerce, Bank, pro-British; strongest in New England.
+Democratic-Republicans :: Jefferson and Madison; states' rights, strict construction, farmers, pro-French; strongest in South and West.
+Whiskey Rebellion (1794) :: Pennsylvania farmers resisted the whiskey excise; Washington's militia suppressed it, proving federal strength.
+Jay's Treaty (1794) :: Britain agreed to leave northwestern forts; ignored impressment; very unpopular.
+Pinckney's Treaty (1795) :: Spain granted navigation of the Mississippi and the right of deposit at New Orleans; very popular.
+Farewell Address (1796) :: Washington warned against permanent foreign alliances, political parties, and sectionalism.
+XYZ Affair (1797–98) :: French agents demanded bribes from US diplomats; led to the Quasi-War and Federalist war measures.
+Alien and Sedition Acts (1798) :: Federalist laws targeting immigrants and making criticism of the government a crime.
+Virginia and Kentucky Resolutions :: Jefferson and Madison argued states could judge federal laws unconstitutional (nullification).
+Revolution of 1800 :: Jefferson's election: the first peaceful transfer of power between rival parties.
+12th Amendment (1804) :: Separate electoral votes for president and vice president, after the 1800 Jefferson–Burr tie.
+Marbury v. Madison (1803) :: John Marshall's Court established judicial review — courts can strike down unconstitutional laws.
+Louisiana Purchase (1803) :: Bought from Napoleon for about $15 million; doubled US territory; Jefferson stretched strict construction.
+Impressment :: British practice of forcing sailors, including Americans, into the Royal Navy; a cause of the War of 1812.
+Embargo Act (1807) :: Jefferson's ban on all American exports; crippled New England's economy; repealed 1809.
+Tecumseh :: Shawnee leader who built a pan-Indian confederacy against US expansion; killed at the Battle of the Thames (1813).
+War Hawks :: Young western and southern congressmen (Clay, Calhoun) who pushed for war with Britain in 1812.
+Hartford Convention (1814–15) :: New England Federalists' protest against the war; looked disloyal and doomed the party.
+Treaty of Ghent (1814) :: Ended the War of 1812, restoring prewar conditions.
+Republican Motherhood :: Ideal that women served the republic by raising virtuous citizens; supported female education.
+
+@quiz
+Q P1 The Supreme Court's decision in Marbury v. Madison (1803) established the principle of
++ judicial review || The Court claimed the power to declare acts of Congress unconstitutional.
+- nullification || Nullification was a states' rights theory from the Virginia and Kentucky Resolutions, not a Court ruling.
+- implied powers for the national bank || That was affirmed in McCulloch v. Maryland (1819).
+- federal control of interstate commerce || That was Gibbons v. Ogden (1824).
+- separate electoral votes for president and vice president || That was the 12th Amendment.
+
+Q P2 Hamilton's argument that Congress could charter a national bank rested on
++ a loose interpretation of the Constitution's "necessary and proper" clause || Hamilton argued Congress had implied powers to carry out its listed powers.
+- the Tenth Amendment's reservation of powers to the states || Jefferson, not Hamilton, relied on the Tenth Amendment to oppose the Bank.
+- the Articles of Confederation's banking provisions || The Articles had no such provisions and had been replaced.
+- the Virginia and Kentucky Resolutions || Those came in 1798 and opposed federal overreach.
+- a Supreme Court ruling in Marbury v. Madison || Marbury came twelve years after the Bank was chartered.
+
+Q P2 Which of the following positions was most closely associated with the Democratic-Republicans of the 1790s?
++ Strict construction of the Constitution and support for an agrarian economy || Jefferson and Madison favored limited government and independent farmers.
+- Support for a national bank and protective tariffs || Those were Hamilton's Federalist policies.
+- A pro-British foreign policy || Federalists favored Britain; Democratic-Republicans sympathized with France.
+- Support for the Alien and Sedition Acts || Federalists passed the Acts; Democratic-Republicans opposed them.
+- Political strength centered in New England merchant communities || That was the Federalist base.
+
+Q S2 The government's response to the Whiskey Rebellion (1794) demonstrated that
++ the new federal government could enforce its laws, unlike the government under the Articles || Washington led militia to suppress the uprising quickly.
+- farmers could nullify federal taxes they considered unjust || The rebellion collapsed; the tax stayed until Jefferson repealed it.
+- Hamilton opposed taxing whiskey || Hamilton designed the excise tax.
+- the Bill of Rights protected the right of armed rebellion || The Bill of Rights contains no such protection.
+- western farmers strongly supported the Federalist Party || The rebellion reflected western hostility to Federalist policies.
+
+Q D2 Jay's Treaty (1794) was unpopular with many Americans primarily because it
++ failed to stop British impressment and seizure of American ships || Britain agreed to leave its northwestern forts but gave little else.
+- gave Spain control of the Mississippi River || Pinckney's Treaty with Spain actually opened the Mississippi to Americans.
+- declared war on France || The treaty was with Britain and declared no war.
+- forced the United States to return the Louisiana Territory || The US did not acquire Louisiana until 1803.
+- transferred Canada to the United States || Britain kept Canada; the treaty's concession was evacuating forts on US soil.
+
+Q C2 In his Farewell Address, George Washington warned Americans against
++ permanent alliances with foreign nations and the dangers of political parties || This advice guided US foreign policy for more than a century.
+- purchasing western land from France || Louisiana was purchased in 1803, years later.
+- establishing a national bank || Washington had signed the Bank bill.
+- ratifying the Bill of Rights || The Bill of Rights was ratified in 1791 with Washington's support.
+- trade with Britain || Washington favored commerce and signed Jay's Treaty with Britain.
+
+Q P2 The Virginia and Kentucky Resolutions (1798) argued that
++ states had the right to judge whether federal laws were constitutional || Jefferson and Madison responded to the Alien and Sedition Acts with this compact theory.
+- the Supreme Court alone could interpret the Constitution || That is closer to Marshall's view in Marbury.
+- the national government should assume state debts || That was Hamilton's assumption plan.
+- the United States should declare war on France || They were written by pro-French Republicans opposing Federalist war measures.
+- immigrants should wait fourteen years to become citizens || That was the Alien (Naturalization) Act they opposed.
+
+Q P2 Jefferson called the election of 1800 a "revolution" because
++ power passed peacefully from one political party to its opponents || Federalists handed power to Democratic-Republicans without violence.
+- it was decided by a military coup || There was no coup.
+- Jefferson won every state in the Union || The election was close and ended in an Electoral College tie decided by the House.
+- it abolished the Electoral College || The 12th Amendment modified, but did not abolish, the Electoral College.
+- it was the first election in which women could vote || Women could not vote in national elections.
+
+Q D2 Napoleon agreed to sell the Louisiana Territory to the United States in 1803 largely because
++ France's defeat in Haiti and the need for money for war in Europe made the territory less valuable to him || The Haitian Revolution destroyed his plans for an American empire.
+- the United States had defeated France in the Quasi-War || The Quasi-War ended in negotiations, not a decisive defeat.
+- the Treaty of Ghent required France to give up American lands || The Treaty of Ghent ended the War of 1812 with Britain.
+- Lewis and Clark had already claimed the territory || Their expedition began after the purchase.
+- Spain refused to let France govern it || Spain had already transferred Louisiana back to France.
+
+Q C3 The Louisiana Purchase posed a dilemma for Thomas Jefferson because
++ the Constitution did not explicitly authorize the federal government to acquire territory || As a strict constructionist, he had to stretch his principles, relying on the treaty power.
+- he opposed westward expansion || Jefferson strongly supported an expanding nation of farmers.
+- the purchase was opposed by the War Hawks || The War Hawks emerged later and favored expansion.
+- the Supreme Court had ruled such purchases illegal || There was no such ruling.
+- it required the United States to go to war with Britain || The purchase was a peaceful transaction with France.
+
+Q E2 The Embargo Act of 1807 had which of the following effects?
++ It severely damaged the American economy, especially New England's shipping trade || The ban on exports hurt Americans far more than Britain or France.
+- It forced Britain to end impressment immediately || Impressment continued until the end of the Napoleonic Wars.
+- It strengthened the Federalist Party's support for Jefferson || New England Federalists bitterly opposed it.
+- It led directly to the purchase of Florida || Florida was acquired in 1819 through the Adams-Onís Treaty.
+- It caused a boom in cotton exports to Britain || All exports were banned.
+
+Q D2 Which of the following was a cause of the War of 1812?
++ British impressment of American sailors and support for Native resistance in the Northwest || War Hawks also hoped to seize Canada.
+- The British burning of Washington, D.C. || That happened in 1814, during the war.
+- The Hartford Convention || The Convention took place near the end of the war.
+- Britain's refusal to sign the Treaty of Ghent || The Treaty of Ghent ended the war.
+- The XYZ Affair || The XYZ Affair involved France, in 1797–1798.
+
+Q P3 The Hartford Convention (1814–1815) contributed to
++ the decline and collapse of the Federalist Party || Federalists appeared disloyal when news of peace and victory at New Orleans arrived.
+- the passage of the Alien and Sedition Acts || Those were passed in 1798.
+- the election of Thomas Jefferson in 1800 || The Convention met 14 years later.
+- the British decision to burn Washington, D.C. || The Convention was a domestic political meeting.
+- the rise of the War Hawks in Congress || The War Hawks rose before the war began in 1812.
+
+Q S3 Eli Whitney's cotton gin (1793) had which of the following unintended consequences?
++ It made cotton profitable across the Deep South and strengthened slavery || Demand for enslaved labor rose as cotton spread westward.
+- It ended the need for enslaved labor in the South || It increased demand for enslaved people to plant and pick more cotton.
+- It shifted the South toward manufacturing textiles || Most textile manufacturing developed in the North and Britain.
+- It caused the North to adopt plantation agriculture || Northern economies moved toward commerce and manufacturing.
+- It led Congress to ban slavery in the Louisiana Territory || Slavery expanded into the Louisiana Territory.
+
+@end
