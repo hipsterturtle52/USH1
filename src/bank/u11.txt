@@ -1,0 +1,204 @@
+Q P1 Who was president of the Confederate States of America?
++ Jefferson Davis || Davis led the Confederacy from 1861 to 1865.
+- Robert E. Lee || Lee commanded the Army of Northern Virginia.
+- John C. Calhoun || Calhoun died in 1850.
+- Alexander Stephens || Stephens was the Confederate vice president.
+- John C. Breckinridge || Breckinridge was a southern Democratic presidential candidate in 1860.
+
+Q D1 The Civil War began when Confederate forces fired on
++ Fort Sumter in Charleston Harbor || The attack came on April 12, 1861.
+- Fort McHenry in Baltimore || Fort McHenry is associated with the War of 1812.
+- Harpers Ferry in Virginia || John Brown raided Harpers Ferry in 1859.
+- Fort Wagner in South Carolina || The 54th Massachusetts attacked Fort Wagner in 1863.
+- the Alamo in Texas || The Alamo was a battle of the Texas Revolution in 1836.
+
+Q S1 Clara Barton is best known for
++ nursing wounded soldiers during the Civil War and later founding the American Red Cross || She became known as the "Angel of the Battlefield."
+- leading the Seneca Falls Convention || Stanton and Mott led it.
+- guiding enslaved people on the Underground Railroad || That was Harriet Tubman.
+- writing Uncle Tom's Cabin || That was Harriet Beecher Stowe.
+- serving as a Confederate spy || Barton served the Union cause as a nurse.
+
+Q E1 The Homestead Act of 1862 offered
++ 160 acres of public land to settlers who lived on and farmed it for five years || It encouraged western settlement.
+- free land to all formerly enslaved people in the South || It applied to western public lands and did not target freedpeople.
+- federal loans to build factories || It concerned farmland.
+- land grants to establish colleges || That was the Morrill Act.
+- land to railroad companies in Europe || The Pacific Railway Act granted land to American railroad companies.
+
+Q D1 The Confederacy hoped Britain would intervene in the war because
++ Britain's textile industry depended heavily on southern cotton || This "King Cotton diplomacy" failed.
+- Britain had promised to support slavery || Britain had abolished slavery in its empire in the 1830s.
+- the Confederacy offered Canada to Britain || The Confederacy had no such power.
+- Britain was at war with the United States in 1861 || The two nations were at peace.
+- the Monroe Doctrine required British support || The Doctrine opposed European intervention.
+
+Q P1 The Battle of Gettysburg (1863) is significant because
++ Lee's defeat ended his last major invasion of the North || Combined with Vicksburg, it marked a turning point.
+- it was the first battle of the war || The first major battle was Bull Run (1861).
+- it gave the Union control of the Mississippi River || That resulted from Vicksburg.
+- it ended the war || The war ended in 1865.
+- it was a decisive Confederate victory || It was a Union victory.
+
+Q S2 Women contributed to the Union war effort by
++ working as nurses, running farms and businesses, and organizing the US Sanitary Commission || Dorothea Dix supervised Union army nurses.
+- serving as generals in the Union army || Women did not hold military commands.
+- voting in the election of 1864 || Women could not vote.
+- passing the Homestead Act in Congress || Women could not serve in Congress.
+- refusing to support the war at all || Most northern women actively supported it.
+
+Q E2 The Union financed the Civil War partly by
++ issuing greenbacks, selling bonds, and imposing the first federal income tax || These measures expanded federal financial power.
+- borrowing heavily from the Confederacy || The two sides were at war.
+- abolishing all tariffs || Congress raised tariffs.
+- seizing British gold reserves || There was no such seizure.
+- relying entirely on state taxes || Federal measures were central.
+
+Q C2 The battle between the Monitor and the Merrimack (Virginia) in 1862 was significant because it
++ was the first clash of ironclad warships and showed that wooden navies were becoming obsolete || The battle itself was a draw.
+- gave the Union control of the Mississippi River || That resulted from Vicksburg in 1863.
+- ended the Union blockade of southern ports || The blockade continued and tightened.
+- was the last battle of the Civil War || It took place in March 1862.
+- forced Britain to enter the war || Britain remained neutral.
+Q D2 The Trent Affair (1861) nearly caused war between the United States and
++ Britain || A US warship seized two Confederate diplomats from the British ship Trent.
+- France || The incident involved a British ship.
+- Mexico || Mexico was not involved.
+- Spain || Spain was not involved.
+- Russia || Russia was friendly to the Union.
+
+Q S2 The 54th Massachusetts Regiment is significant because it
++ was one of the first Black regiments and proved its courage at Fort Wagner || Its service helped change white attitudes toward Black soldiers.
+- was the first Confederate regiment to surrender || It was a Union regiment.
+- led the March to the Sea || Sherman's army made that march.
+- was composed entirely of Irish immigrants || It was an African American regiment.
+- fought only in the War of 1812 || It fought in the Civil War.
+
+Q P2 Lincoln suspended the writ of habeas corpus in Maryland primarily in order to
++ keep a vital border state in the Union by detaining suspected secessionists || Maryland surrounded Washington, D.C.
+- free enslaved people in Maryland || The suspension concerned arrests, not emancipation.
+- punish the Confederacy for Fort Sumter || It targeted disloyalty in a Union state.
+- comply with a Supreme Court order || Chief Justice Taney criticized the suspension.
+- allow Maryland to secede peacefully || It was meant to prevent secession.
+
+Q E2 The Morrill Land-Grant College Act (1862) provided
++ federal land to states to fund colleges teaching agriculture and mechanical arts || Many state universities trace their origins to it.
+- free land to settlers who farmed for five years || That was the Homestead Act.
+- loans for the transcontinental railroad || That was the Pacific Railway Act.
+- a national currency || That came through the National Banking Acts.
+- funds for schools for freedpeople || That was a goal of the Freedmen's Bureau.
+
+Q S2 The Union draft law of 1863 was resented by many working-class northerners because
++ wealthier men could avoid service by hiring a substitute or paying $300 || Critics called it "a rich man's war and a poor man's fight."
+- it drafted only Irish immigrants || It applied to men broadly.
+- it required women to serve as soldiers || Women were not drafted.
+- it exempted all factory workers || There was no such exemption.
+- it was passed by the Confederate Congress || The Union Congress passed it.
+
+Q C2 Which of the following would a historian cite as evidence that the Emancipation Proclamation changed the character of the war?
++ Union armies became forces of liberation, and Black men enlisted in large numbers || About 180,000 African Americans served in the Union army.
+- Slavery immediately ended in the border states || The Proclamation exempted the border states.
+- The Confederacy agreed to end slavery in 1863 || The Confederacy rejected it.
+- Britain declared war on the Union || Britain stayed neutral.
+- The Supreme Court upheld slavery in the territories || That was Dred Scott (1857).
+
+Q D2 Which of the following best explains why Britain did not recognize the Confederacy?
++ After Antietam and emancipation, British public opinion would not support a slaveholding nation || Britain also had cotton reserves and needed northern grain.
+- Britain had signed an alliance with the Confederacy in 1861 || No such alliance existed.
+- The Confederacy refused to trade with Britain || The South wanted British trade.
+- Britain was at war with France || Britain and France were not at war.
+- The Trent Affair led Britain to declare war on the South || The Trent Affair involved the Union, and Britain stayed neutral.
+
+Q P2 The election of 1864 was influenced most by
++ Sherman's capture of Atlanta, which boosted northern morale before the vote || Lincoln defeated McClellan.
+- the Battle of First Bull Run || That was in 1861.
+- the Dred Scott decision || That came in 1857.
+- the surrender at Appomattox || That came in April 1865, after the election.
+- women's suffrage campaigns || Women did not vote in 1864.
+
+Q S2 The US Sanitary Commission during the Civil War was
++ a largely volunteer organization, run mostly by women, that improved hygiene and medical care in Union army camps || It reduced deaths from disease.
+- a Confederate agency that managed food supplies || It served the Union.
+- the federal agency that distributed land to freedpeople || That describes the hopes attached to the Freedmen's Bureau after the war.
+- a commission that negotiated the Trent Affair || The Trent Affair was handled diplomatically.
+- an agency that enforced the Union draft || It provided medical and sanitary aid.
+Q E2 Which statement best describes the Confederate economy during the war?
++ It suffered from severe inflation, shortages, and the Union blockade || Bread riots broke out in Richmond in 1863.
+- It grew rapidly as cotton exports to Britain increased || The blockade reduced exports.
+- It had more factories than the Union || The Union had about 90% of manufacturing.
+- It used a stable gold-backed currency || Confederate paper money lost value rapidly.
+- It benefited from the Homestead Act || The Homestead Act was a Union law.
+
+Q C2 Lincoln's statement in 1862 that he would save the Union "without freeing any slave" if he could shows that
++ his primary war aim at that point was preserving the Union || He soon concluded emancipation would help win the war.
+- he supported the expansion of slavery || Lincoln opposed slavery's expansion.
+- he had already issued the Emancipation Proclamation || The preliminary Proclamation came later in 1862.
+- he favored Confederate independence || He opposed secession.
+- he believed the Constitution required emancipation || He was cautious about his legal authority.
+
+Q D2 France's installation of Maximilian as emperor of Mexico during the Civil War
++ violated the Monroe Doctrine, and US pressure after the war helped force French troops out || The US was too occupied during the war to act.
+- was supported by the Union as a wartime ally || The Union opposed it.
+- led to the Mexican–American War || That war was in 1846–1848.
+- resulted in the Gadsden Purchase || The Gadsden Purchase was in 1853.
+- caused Britain to recognize the Confederacy || Britain never recognized the Confederacy.
+
+Q S3 How did enslaved people contribute to the collapse of the Confederacy?
++ Many escaped to Union lines, worked slowly, or refused to work, weakening the southern economy and war effort || Escapees also joined the Union army.
+- They enlisted in large numbers in the Confederate army in 1862 || The Confederacy voted to arm enslaved men only in March 1865.
+- They negotiated the Treaty of Ghent || That treaty ended the War of 1812.
+- They supported the Copperheads in the North || Copperheads were northern Peace Democrats.
+- They voted in the Confederate elections || Enslaved people could not vote.
+
+Q P3 The Confederacy's commitment to states' rights weakened its war effort because
++ some state governors resisted central control of troops and supplies || Jefferson Davis struggled to coordinate the war.
+- it required every state to approve each battle in advance || There was no such rule.
+- it prevented the Confederacy from adopting a draft || The Confederacy passed a draft in 1862.
+- it led all states to rejoin the Union in 1863 || No such return occurred.
+- it gave Lincoln control of the southern states || States' rights limited Confederate central power, not Lincoln's.
+
+Q E3 Republican economic legislation passed during the Civil War is significant because it
++ expanded federal involvement in the economy, promoting western settlement, railroads, and national banking || Secession had removed southern opposition in Congress.
+- was all repealed immediately after the war || The Homestead Act and others remained in force.
+- reduced the federal government's role in the economy || It expanded federal power.
+- was written mainly by Confederate leaders || It was passed by the Union Congress.
+- applied only to the southern states || It applied mainly in the North and the West.
+
+Q D3 Which of the following was a long-term diplomatic consequence of Britain's building of Confederate raiders like the CSS Alabama?
++ The United States pressed the "Alabama claims," and Britain later agreed to pay damages || A treaty in 1871 sent the claims to arbitration.
+- Britain ceded Canada to the United States || Canada remained British.
+- The United States declared war on Britain in 1865 || No war occurred.
+- Britain recognized the Confederacy in 1866 || The Confederacy no longer existed.
+- France purchased the Alabama from Britain || The ship was sunk in 1864.
+
+Q S3 The Confederacy's "twenty-negro law" exemption from the draft caused resentment because
++ it allowed wealthy planters to avoid service while poor whites fought || It deepened class tensions in the South.
+- it required enslaved people to fight for the Union || It was a Confederate exemption.
+- it banned planters from owning more than twenty enslaved people || It exempted large slaveholders from service.
+- it freed enslaved people who fought for the Confederacy || It concerned exemptions for slaveholders.
+- it was passed by the Union Congress || It was a Confederate law.
+
+Q P3 Which of the following best explains why Lincoln issued the Emancipation Proclamation as a war measure under his powers as commander in chief?
++ He doubted he had constitutional authority to abolish slavery in peacetime, so he framed it as a military necessity || This is why it applied only to areas in rebellion.
+- The Supreme Court had authorized him to abolish slavery || The Court gave no such authorization.
+- Congress had already ratified the 13th Amendment || The 13th Amendment was ratified in December 1865.
+- The border states requested it || The border states were exempted.
+- Britain demanded it as a condition of alliance || Britain was neutral.
+
+Q C3 Read the excerpt below.
+> "...that this nation, under God, shall have a new birth of freedom—and that government of the people, by the people, for the people, shall not perish from the earth."
+Which theme from earlier American history does this passage most directly echo?
++ The Declaration of Independence's ideals of equality and government by consent || Lincoln began the address by recalling the nation's founding in 1776.
+- The Articles of Confederation's emphasis on state sovereignty || The address emphasizes the nation.
+- The Monroe Doctrine's warning to Europe || The address does not concern foreign policy.
+- Mercantilist views of colonies || The address concerns democracy.
+- Calhoun's theory of nullification || The address rejects division of the Union.
+
+Q E3 Which of the following best explains why the Union had a decisive economic advantage over the Confederacy?
++ It had most of the nation's factories, railroads, and population, along with a stronger financial system || These resources sustained a long war.
+- It produced more cotton than the South || The South produced the cotton.
+- It received more foreign aid than the Confederacy || Neither side received significant foreign aid.
+- It had a larger enslaved labor force || The Union's labor force was free.
+- It controlled New Orleans from the start of the war || New Orleans fell to the Union in April 1862.
+
+@end

@@ -1,0 +1,192 @@
+Q P1 The 13th Amendment to the Constitution
++ abolished slavery throughout the United States || It was ratified in December 1865.
+- guaranteed equal protection of the laws || That is the 14th Amendment.
+- prohibited denying the vote on account of race || That is the 15th Amendment.
+- granted women the right to vote || That came with the 19th Amendment in 1920.
+- created the Freedmen's Bureau || Congress created the Bureau by law in 1865.
+
+Q P1 Which president was impeached by the House of Representatives in 1868?
++ Andrew Johnson || The Senate acquitted him by one vote.
+- Abraham Lincoln || Lincoln was assassinated in 1865.
+- Ulysses S. Grant || Grant was elected in 1868 and was not impeached.
+- Rutherford B. Hayes || Hayes took office in 1877.
+- James Buchanan || Buchanan served before the Civil War.
+
+Q S1 After emancipation, many freedpeople first acted on their freedom by
++ searching for and reuniting with family members separated by slavery || They also legalized marriages and founded churches and schools.
+- moving to Liberia in large numbers || Most stayed in the South.
+- joining the Ku Klux Klan || The Klan terrorized freedpeople.
+- buying large plantations from their former owners || Few freedpeople had the money to buy land.
+- refusing to attend school || Freedpeople eagerly sought education.
+
+Q S1 The term "carpetbaggers" was used by white southern Democrats to describe
++ northerners who moved to the South during Reconstruction || The insult implied they were opportunists.
+- white southerners who supported the Republican Party || Those were called scalawags.
+- freedpeople who held public office || The term referred to northern newcomers.
+- Confederate veterans who joined the Klan || The term referred to northerners.
+- Radical Republicans in Congress || Radicals stayed in Washington; the term referred to people who moved south.
+
+Q E1 Under sharecropping, a farmer typically
++ worked a landowner's land and paid a share of the crop as rent || Debts to merchants often trapped sharecroppers.
+- owned the land and hired wage laborers || Sharecroppers did not own the land.
+- received forty acres from the federal government || Land redistribution never occurred.
+- was paid a fixed weekly wage in cash || Sharecroppers were paid with a share of the crop, not wages.
+- worked in northern factories during the winter || Sharecropping was a southern agricultural system.
+
+Q P1 Hiram Revels is significant because he was
++ the first African American to serve in the US Senate || He represented Mississippi beginning in 1870.
+- the leader of the Ku Klux Klan || The Klan targeted Black officeholders.
+- President Johnson's secretary of war || That was Edwin Stanton.
+- the founder of the Freedmen's Bureau || General Oliver O. Howard headed the Bureau.
+- the author of the Black Codes || Southern white legislatures passed the Black Codes.
+
+Q D1 The purchase of Alaska from Russia in 1867 was mocked by critics as
++ "Seward's Folly" || Secretary of State William Seward arranged the purchase.
+- the "corrupt bargain" || That referred to the 1824 election.
+- "Mr. Madison's War" || That referred to the War of 1812.
+- the "Tariff of Abominations" || That was the Tariff of 1828.
+- "King Cotton diplomacy" || That was the Confederate foreign policy strategy.
+
+Q C1 Which institution became a center of African American community life after emancipation?
++ Independent Black churches, such as the African Methodist Episcopal Church || Freedpeople left white-controlled churches to build their own.
+- The Ku Klux Klan || The Klan was a white terrorist group.
+- The Know-Nothing Party || That was a nativist party of the 1850s.
+- The Confederate army || The Confederacy no longer existed.
+- The Hudson River School || That was an art movement.
+
+Q P2 Lincoln's Ten Percent Plan differed from the Wade–Davis Bill in that Lincoln's plan
++ allowed a state to rejoin once 10% of its 1860 voters swore loyalty, while Wade–Davis required a majority || Radicals thought Lincoln's plan too lenient.
+- required Black male suffrage, while Wade–Davis did not || Neither plan required Black suffrage.
+- placed the South under military rule, while Wade–Davis did not || Military districts came with the 1867 Reconstruction Act.
+- was passed by Congress, while Wade–Davis was a presidential order || The reverse: Lincoln's plan was a proclamation; Wade–Davis was a bill he pocket-vetoed.
+- punished all Confederates, while Wade–Davis pardoned them || Lincoln's plan offered broad pardons.
+
+Q S2 The Black Codes contributed to Radical Republicans gaining control of Reconstruction because they
++ convinced many northerners that the South was trying to restore slavery in another form || Northern voters backed Radicals in 1866.
+- were written by the Freedmen's Bureau || Southern legislatures passed them.
+- granted freedpeople the right to vote || They restricted freedpeople's rights.
+- were approved by Radical Republicans in Congress || Radicals were outraged by them.
+- abolished sharecropping || They regulated Black labor in ways favoring planters.
+
+Q E2 The crop-lien system kept many southern farmers in poverty because
++ merchants supplied goods on credit at high interest, secured by the next crop, creating cycles of debt || Low cotton prices made the debts hard to repay.
+- the federal government seized all crops as taxes || There was no such seizure.
+- it required farmers to grow wheat instead of cotton || Merchants usually demanded cotton, the cash crop.
+- it gave freedpeople ownership of the land they worked || Sharecroppers did not own the land.
+- it was banned by the 14th Amendment || The amendment did not address farm credit.
+
+Q P2 The Military Reconstruction Act of 1867 was passed in response to
++ southern states' rejection of the 14th Amendment and the Black Codes || Congress imposed stricter terms after the 1866 elections.
+- the assassination of Lincoln || Lincoln was killed in 1865; the Act came two years later.
+- the Compromise of 1877 || That ended Reconstruction ten years later.
+- the impeachment of Andrew Johnson || The impeachment came in 1868.
+- the Panic of 1873 || That came later.
+
+Q C2 The 15th Amendment did not prevent southern states from later disfranchising Black voters because it
++ did not ban literacy tests, poll taxes, or other restrictions that did not mention race || Southern states exploited these loopholes after Reconstruction.
+- applied only to northern states || It applied nationwide.
+- was repealed in 1877 || It was never repealed.
+- protected only women's voting rights || It concerned race, not sex.
+- required voters to own land || It set no such requirement.
+
+Q D2 The Treaty of Washington (1871) between the US and Britain provided for
++ arbitration of the Alabama claims for damage by British-built Confederate raiders || Britain later paid $15.5 million.
+- the purchase of Alaska || Alaska was bought from Russia in 1867.
+- the division of Oregon || Oregon was divided in 1846.
+- British recognition of the Confederacy || The Confederacy had ceased to exist.
+- the end of the War of 1812 || That was the Treaty of Ghent (1814).
+
+Q S2 The Ku Klux Klan during Reconstruction primarily sought to
++ restore white supremacy by terrorizing Black voters and white Republicans || Congress responded with the Enforcement Acts.
+- promote Black voting rights || The Klan opposed Black political participation.
+- support the Freedmen's Bureau || The Klan attacked Bureau teachers and agents.
+- encourage northern investment in the South || The Klan's goals were political and racial.
+- abolish sharecropping || Its goal was white control of politics and labor.
+
+Q P2 The Tenure of Office Act (1867) was designed to
++ prevent President Johnson from removing cabinet members who supported congressional Reconstruction || Johnson's firing of Stanton led to impeachment.
+- guarantee federal jobs to freedpeople || It concerned presidential removal power.
+- limit presidents to two terms || That came with the 22nd Amendment in 1951.
+- protect Supreme Court justices from impeachment || It concerned executive officials.
+- give southern states control over federal appointments || It strengthened the Senate's role.
+
+Q E2 Which of the following contributed to the decline of northern support for Reconstruction in the 1870s?
++ The Panic of 1873 and the long depression that followed || Northerners turned their attention to economic problems.
+- The rise of the Whig Party || The Whig Party had collapsed in the 1850s.
+- The Specie Circular || That was issued in 1836.
+- The Embargo Act || That was passed in 1807.
+- The discovery of gold in California || That occurred in 1848.
+
+Q C2 The women's rights movement split in 1869 primarily over
++ whether to support the 15th Amendment, which enfranchised Black men but not women || Stanton and Anthony opposed it; Lucy Stone supported it.
+- whether to support the temperance movement || Both sides generally supported temperance.
+- whether to oppose the Confederacy || The war had ended.
+- whether women should attend college || The split concerned suffrage strategy.
+- whether to support the Compromise of 1877 || The split came eight years earlier.
+
+Q S2 "Scalawags" during Reconstruction were
++ white southerners who supported the Republican Party || Many were small farmers who had opposed secession.
+- northerners who moved south after the war || Those were called carpetbaggers.
+- former Union generals who governed military districts || They were not called scalawags.
+- Black officeholders in southern legislatures || The term referred to white southern Republicans.
+- members of the Ku Klux Klan || The Klan attacked scalawags.
+
+Q D2 Which of the following occurred on the Great Plains during the Reconstruction era?
++ Lakota and Cheyenne warriors defeated George Custer at the Little Bighorn in 1876 || Gold in the Black Hills had brought settlers onto Lakota land guaranteed in 1868.
+- The Cherokee were removed along the Trail of Tears || That took place in 1838.
+- The Pueblo Revolt drove the Spanish from New Mexico || That happened in 1680.
+- Tecumseh formed a pan-Indian confederacy || Tecumseh died in 1813.
+- The Battle of Fallen Timbers opened Ohio to settlement || That took place in 1794.
+
+Q P2 Andrew Johnson's approach to Reconstruction is best described as
++ lenient toward former Confederates and hostile to federal protection of Black civil rights || He pardoned many Confederates and vetoed civil rights legislation.
+- strongly supportive of Black suffrage in the South || He opposed it.
+- identical to the Radical Republicans' program || He clashed bitterly with the Radicals.
+- based on permanent military occupation of the South || That was imposed by Congress over his objections.
+- focused on redistributing land to freedpeople || He returned confiscated land to former owners.
+
+Q E3 Read the excerpt below (a typical labor contract clause, paraphrased).
+> "The freedman agrees to labor faithfully for the year, not to leave the plantation without permission, and to receive one-fourth of the crop at year's end."
+This contract best illustrates
++ how planters tried to control Black labor after emancipation through restrictive yearly contracts || Such contracts reflected Black Codes and the shift toward sharecropping.
+- the success of the Freedmen's Bureau in redistributing land || No land changes hands in the contract.
+- the Lowell system of factory labor || Lowell was a northern textile system.
+- the headright system of colonial Virginia || That was a 1600s land policy.
+- the Homestead Act's requirements || The Homestead Act concerned western public land.
+
+Q P3 Which of the following was a result of the disputed election of 1876?
++ An electoral commission awarded the disputed votes to Hayes, and Democrats accepted his presidency in exchange for removing federal troops from the South || This was the Compromise of 1877.
+- Samuel Tilden became president || Tilden won the popular vote but lost the presidency.
+- The House of Representatives impeached Hayes || Hayes was not impeached.
+- Congress passed the 15th Amendment || It was ratified in 1870.
+- Federal troops were sent back into all southern states || Troops were withdrawn.
+
+Q S3 Which of the following best explains why most freedpeople did not become independent landowners during Reconstruction?
++ Congress never redistributed land, and President Johnson returned confiscated land to former owners || Without land, most became sharecroppers or tenants.
+- Freedpeople preferred factory work in the South || The South had few factories.
+- The 14th Amendment banned Black land ownership || It guaranteed equal protection.
+- The Homestead Act excluded all southern land || The issue was the lack of redistribution, not the Homestead Act.
+- Most freedpeople moved to the North immediately || Most stayed in the South.
+
+Q P3 Supreme Court decisions such as United States v. Cruikshank (1876) weakened Reconstruction because they
++ limited federal power to prosecute private individuals for violence against Black citizens || The Court held the 14th Amendment restrained states, not private individuals.
+- declared the Freedmen's Bureau unconstitutional || The Bureau had already closed in 1872.
+- upheld the Black Codes as constitutional || The Black Codes had been overturned by Reconstruction governments.
+- required Black voters to pass literacy tests || Literacy tests came from state laws.
+- ruled that Reconstruction governments were illegal || The Court made no such ruling.
+
+Q C3 Historians who emphasize the achievements of Reconstruction often point to
++ the creation of public school systems in the South and the 14th and 15th Amendments || These later provided a basis for the civil rights movement.
+- the success of land redistribution to freedpeople || Land redistribution largely failed.
+- the permanent protection of Black voting rights in the South || Black voting rights were stripped after Reconstruction.
+- the end of racial violence by 1870 || Violence continued throughout the period.
+- the elimination of sharecropping || Sharecropping spread during Reconstruction.
+
+Q S3 Which of the following best explains the success of "Redeemer" Democrats in regaining control of southern states by 1877?
++ Violence and intimidation of Black voters combined with declining federal willingness to intervene || The Mississippi Plan (1875) is an example.
+- Freedpeople voluntarily gave up voting || Black voters were driven away by force and fraud.
+- The 15th Amendment was declared unconstitutional || It was never struck down.
+- Republicans won every southern election in the 1870s || Republicans lost control of the South.
+- The Freedmen's Bureau supported the Redeemers || The Bureau had closed and did not support them.
+
+@end
