@@ -228,6 +228,46 @@ def assign_bank(qs, nd, ne, rng):
     return pools
 
 
+DIFF_TARGET = {1: 0.30, 2: 0.50, 3: 0.20}
+
+
+def optimize_pools(banks, outline, rng):
+    """Swap same-unit questions between diag/A/B so each pool's topic and difficulty mix
+    approaches the official topic weights and the 30/50/20 difficulty target."""
+    tw = {t["id"]: t["weight"] / 100 for t in outline["topical"]}
+    pools = {k: [q for u in sorted(banks) for q in banks[u][k]] for k in ("diag", "A", "B")}
+
+    def cost(pool):
+        n = len(pool)
+        if not n:
+            return 0
+        c = 0.0
+        for t, w in tw.items():
+            c += (sum(q["t"] == t for q in pool) / n - w) ** 2
+        for d, w in DIFF_TARGET.items():
+            c += (sum(q["d"] == d for q in pool) / n - w) ** 2
+        return c * n
+
+    names = list(pools)
+    total = sum(cost(pools[k]) for k in names)
+    for _ in range(40000):
+        a, b = rng.sample(names, 2)
+        i = rng.randrange(len(pools[a]))
+        u = pools[a][i]["u"]
+        cand = [j for j, q in enumerate(pools[b]) if q["u"] == u]
+        if not cand:
+            continue
+        j = rng.choice(cand)
+        before = cost(pools[a]) + cost(pools[b])
+        pools[a][i], pools[b][j] = pools[b][j], pools[a][i]
+        after = cost(pools[a]) + cost(pools[b])
+        if after <= before:
+            total += after - before
+        else:
+            pools[a][i], pools[b][j] = pools[b][j], pools[a][i]
+    return pools
+
+
 def master_timeline(units):
     items = [(t["y"], t["e"], t["th"]) for u in units for t in u["timeline"] if t["key"]]
     def yk(y):
@@ -242,9 +282,13 @@ def main():
     rng = random.Random(1877)
     units, Q, diag, exA, exB = [], {}, [], [], []
     unit_files = sorted((ROOT / "src/units").glob("u*.txt"))
+    cycle = 0
+    banks = {}
     for f in unit_files:
         u, quiz = parse_unit(f)
-        pos = balanced_positions(len(quiz), rng)
+        pos = [(cycle + i) % 5 for i in range(len(quiz))]
+        cycle += len(quiz)
+        rng.shuffle(pos)
         u["quiz"] = []
         for q, p in zip(quiz, pos):
             Q[q["id"]] = place(q, p, rng); u["quiz"].append(q["id"])
@@ -253,11 +297,11 @@ def main():
         if bf.exists():
             bank = parse_questions([l for l in bf.read_text(encoding="utf-8").splitlines() if not l.startswith("@end")], u["n"], "b", bf.name)
             nd, ne = QUOTA[u["n"]]
-            pools = assign_bank(bank, nd, ne, rng)
-            for k, dest in (("diag", diag), ("A", exA), ("B", exB)):
-                pp = balanced_positions(len(pools[k]), rng)
-                for q, p in zip(pools[k], pp):
-                    Q[q["id"]] = place(q, p, rng); dest.append(q["id"])
+            banks[u["n"]] = assign_bank(bank, nd, ne, rng)
+    for k, v in optimize_pools(banks, outline, rng).items():
+        dest = {"diag": diag, "A": exA, "B": exB}[k]
+        for q in v:
+            Q[q["id"]] = place(q, 0, rng); dest.append(q["id"])
     # rebalance answer positions within each full exam / diagnostic (they mix units)
     for pool in (diag, exA, exB):
         pp = balanced_positions(len(pool), rng)

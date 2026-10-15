@@ -438,7 +438,7 @@ function renderRun(){
   host.innerHTML=`<div class="card">
    <div class="qhead"><div><b>${esc(R.title)}</b> <span class="muted small">· Question ${R.i+1} of ${R.ids.length}</span></div>
    <div class="row">${R.end?'<span class="timer" id="timer"></span>':''}${test?`<button class="btn sm ${R.marked[id]?'pri':''}" id="markQ">${R.marked[id]?'★ Marked':'☆ Mark'}</button>`:''}</div></div>
-   ${R.kind==='exam'?'':`<div class="small muted" style="margin-bottom:4px">Unit ${q.u}: ${esc(u.short)} · ${esc(TH[q.t].short)}</div>`}
+   ${test?'':`<div class="small muted" style="margin-bottom:4px">Unit ${q.u}: ${esc(u.short)} · ${esc(TH[q.t].short)}</div>`}
    ${qHTML(q)}<div class="opts">${opts}</div>${fb}
    <div class="foot"><div class="row">${test&&R.i>0?'<button class="btn" id="prev">← Prev</button>':''}</div>
    <div class="row">${test?'<button class="btn" id="submit">Submit '+(R.kind==='exam'?'exam':'test')+'</button>':''}
